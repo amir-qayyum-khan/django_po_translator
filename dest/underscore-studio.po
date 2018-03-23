@@ -1,0 +1,1380 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Limit Access"
+msgstr "محدود رسائی"
+
+msgid ""
+"Select a prerequisite subsection and enter a minimum score percentage to "
+"limit access to this subsection."
+msgstr ""
+"اس سبسکرائب تک رسائی کو محدود کرنے کے لئے ایک لازمی سبسڈی منتخب کریں اور کم "
+"سے کم سکور فی صد درج کریں."
+
+msgid "Prerequisite:"
+msgstr "شرط:"
+
+msgid "No prerequisite"
+msgstr "کوئی شرط نہیں"
+
+msgid "Minimum Score:"
+msgstr "کم از کم اسکور:"
+
+msgid "The minimum score percentage must be a whole number between 0 and 100."
+msgstr "کم از کم سکور فی صد 0 اور 100 کے درمیان مکمل نمبر ہونا ضروری ہے."
+
+msgid "Use as a Prerequisite"
+msgstr "شرط کے طور پر استعمال کریں"
+
+msgid "Make this subsection available as a prerequisite to other content"
+msgstr "اس مواد کو دیگر مواد تک شرط کے طور پر دستیاب کریں"
+
+msgid "Active Uploads"
+msgstr "فعال اپ لوڈ"
+
+msgid "Read More"
+msgstr "مزید پڑھ"
+
+msgid "details about the failure"
+msgstr "ناکامی کے بارے میں تفصیلات"
+
+msgid "Add Component:"
+msgstr "اجزاء شامل کریں:"
+
+msgid "%(type)s Component Template Menu"
+msgstr "٪ (قسم) کے اجزاء سانچہ مینو"
+
+msgid "Common Problem Types"
+msgstr "عام مسئلہ کی اقسام"
+
+msgid "Advanced"
+msgstr "اعلی درجے کی"
+
+msgid "Supported"
+msgstr "حمایت کی"
+
+msgid "Provisional"
+msgstr "لازمی"
+
+msgid "Not Supported"
+msgstr "سہولت مہیا نہیں"
+
+msgid "Fully Supported"
+msgstr "مکمل طور پر حمایت کی"
+
+msgid "Provisionally Supported"
+msgstr "فراہم کی جاتی ہے"
+
+msgid "Add New Component"
+msgstr "نیا اجزاء شامل کریں"
+
+msgid "Deprecated"
+msgstr "ناپسندی"
+
+msgid "List of uploaded files and assets in this course"
+msgstr "اس کورس میں اپ لوڈ شدہ فائلوں اور اثاثوں کی فہرست"
+
+msgid "Preview"
+msgstr "پیش نظارہ"
+
+msgid "- Sortable"
+msgstr "- Sortable"
+
+msgid "Show All"
+msgstr "سارے دکھاو"
+
+msgid "Other"
+msgstr "دیگر"
+
+msgid "Date Added"
+msgstr "تاریخ شامل"
+
+msgid "URL"
+msgstr "یو آر ایل"
+
+msgid "You haven't added any assets to this course yet."
+msgstr "آپ نے اس کورس میں ابھی تک کوئی اثاثہ شامل نہیں کیا ہے."
+
+msgid "Upload your first asset"
+msgstr "اپنی پہلی اثاثہ اپ لوڈ کریں"
+
+msgid "close"
+msgstr "بند کریں"
+
+msgid "Upload New File"
+msgstr "نئی فائل اپ لوڈ کریں"
+
+msgid "Choose File"
+msgstr "فائل منتخب کریں"
+
+msgid "No description available"
+msgstr "کوئی تفصیل موجود نہیں ہے"
+
+msgid "Open/download this file"
+msgstr "اس فائل کو کھولیں / ڈاؤن لوڈ کریں"
+
+msgid "Studio:"
+msgstr "سٹوڈیو:"
+
+msgid "Web:"
+msgstr "ویب:"
+
+msgid "Delete this asset"
+msgstr "اس اثاثے کو حذف کریں"
+
+msgid "Lock this asset"
+msgstr "یہ اثاثہ بند کریں"
+
+msgid "Lock/unlock file"
+msgstr "فائل لاک / انلاک کریں"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Certificate Details"
+msgstr "سرٹیفکیٹ کی تفصیلات"
+
+msgid "Course Title"
+msgstr "کورس کا عنوان"
+
+msgid "Course Title Override"
+msgstr "کورس کا عنوان اوورائڈ"
+
+msgid "Course Number"
+msgstr "کورس نمبر"
+
+msgid "Course Number Override"
+msgstr "کورس کی تعداد پر قابو پانے"
+
+msgid "Certificate Signatories"
+msgstr "سرٹیفکیٹ دستخط"
+
+msgid ""
+"It is strongly recommended that you include four or fewer signatories. If "
+"you include additional signatories, preview the certificate in Print View to"
+" ensure the certificate will print correctly on one page."
+msgstr ""
+"یہ تاکید کی جاتی ہے کہ آپ میں چار یا کم دستخط شامل ہیں. اگر آپ اضافی دستخط "
+"شامل ہیں تو، پرنٹ دیکھیں میں سرٹیفکیٹ پیش کریں اس بات کا یقین کرنے کے لئے کہ"
+" ایک سرٹیفکیٹ درست طریقے سے ایک صفحہ پر پرنٹ کرے گا."
+
+msgid "Certificate Information"
+msgstr "سرٹیفکیٹ کی معلومات"
+
+msgid "Certificate Name"
+msgstr "سرٹیفکیٹ کا نام"
+
+msgid "Name of the certificate"
+msgstr "سرٹیفیکیشن کا نام"
+
+msgid "Description of the certificate"
+msgstr "سرٹیفکیٹ کا تفصیل"
+
+msgid "Course title"
+msgstr "کورس کا عنوان"
+
+msgid ""
+"Specify an alternative to the official course title to display on "
+"certificates. Leave blank to use the official course title."
+msgstr ""
+"سرٹیفکیٹ پر ظاہر کرنے کے لئے سرکاری کورس کے عنوان کے متبادل کا تعین کریں. "
+"سرکاری کورس کا عنوان استعمال کرنے کے لئے خالی چھوڑ دیں."
+
+msgid "Add Additional Signatory"
+msgstr "اضافی دستخط شامل کریں"
+
+msgid "(Add signatories for a certificate)"
+msgstr "(ایک سرٹیفکیٹ کے لئے دستخط شامل کریں)"
+
+msgid "Create"
+msgstr "بنانا"
+
+msgid "Choose mode"
+msgstr "موڈ کا انتخاب کریں"
+
+msgid "Preview Certificate"
+msgstr "پیش نظارہ سرٹیفکیٹ"
+
+msgid "Activate"
+msgstr "چالو کریں"
+
+msgid "Deactivate"
+msgstr "غیر فعال"
+
+msgid "unit"
+msgstr "یونٹ"
+
+msgid "component"
+msgstr "جزو"
+
+msgid "Access to this {blockType} is restricted to: {selectedGroupsLabel}"
+msgstr "اس {blockType} تک رسائی محدود ہے: {selectedGroupsLabel}"
+
+msgid ""
+"Access to some content in this {blockType} is restricted to specific groups "
+"of learners."
+msgstr ""
+"اس {blockType} میں کچھ مواد تک رسائی تک رسائی کے مخصوص گروپوں تک محدود ہے."
+
+msgid ""
+"Caution: The last published version of this unit is live. By publishing "
+"changes you will change the student experience."
+msgstr ""
+"احتیاط: اس یونٹ کے آخری شائع شدہ ورژن زندہ ہے. تبدیلیوں کو شائع کرکے آپ طالب"
+" علم کے تجربے کو تبدیل کردیں گے."
+
+msgid "Content Group Name"
+msgstr "مواد گروپ کا نام"
+
+msgid "Content Group ID"
+msgstr "مواد گروپ کی شناخت"
+
+msgid "This is the name of the group"
+msgstr "یہ گروپ کا نام ہے"
+
+msgid "This content group is used in one or more units."
+msgstr "یہ مواد گروپ ایک یا ایک سے زیادہ یونٹس میں استعمال کیا جاتا ہے."
+
+msgid "Cannot delete when in use by a unit"
+msgstr "ایک یونٹ کی طرف سے استعمال کرتے وقت حذف نہیں کر سکتے ہیں"
+
+msgid "Subsection Visibility"
+msgstr "سبسکرائب کی نمائش"
+
+msgid "Show entire subsection"
+msgstr "پوری سبسکرائب کریں"
+
+msgid "Learners see the published subsection and can access its content."
+msgstr ""
+"سیکھنے والے شائع سبسکرائب ہوتے ہیں اور اس کے مواد تک رسائی حاصل کرسکتے ہیں."
+
+msgid "Hide content after course end date"
+msgstr "کورس کے آخر کی تاریخ کے بعد مواد چھپائیں"
+
+msgid "Hide content after due date"
+msgstr "مقررہ تاریخ کے بعد مواد چھپائیں"
+
+msgid ""
+"After the course\\'s end date has passed, learners can no longer access "
+"subsection content. The subsection remains included in grade calculations."
+msgstr ""
+"کورس کے اختتام کی تاریخ منظور ہونے کے بعد، سیکھنے کو مزید سبسکرائب مواد تک "
+"رسائی حاصل نہیں ہوسکتی ہے. سبسینٹیشن گریڈ کی حساب میں شامل ہے."
+
+msgid ""
+"After the subsection\\'s due date has passed, learners can no longer access "
+"its content. The subsection remains included in grade calculations."
+msgstr ""
+"مجوزہ کی تاریخ کے بعد منظور ہونے کے بعد، سیکھنے والوں کو اس کے مواد تک رسائی"
+" حاصل نہیں ہوسکتی ہے. سبسینٹیشن گریڈ کی حساب میں شامل ہے."
+
+msgid "Hide entire subsection"
+msgstr "پوری سبسکرائب چھپائیں"
+
+msgid ""
+"Learners do not see the subsection in the course outline. The subsection is "
+"not included in grade calculations."
+msgstr ""
+"اساتذہ کورس کے آؤٹ لائن میں سبسکرائب نہیں دیکھتے. سبسکرائب گریڈ کی حساب میں "
+"شامل نہیں ہے."
+
+msgid ""
+"If you select an option other than \"%(hide_label)s\", published units in "
+"this subsection become available to learners unless they are explicitly "
+"hidden."
+msgstr ""
+"اگر آپ &quot;٪ (hide_label) s&quot; کے علاوہ کسی اختیار کا انتخاب کرتے ہیں "
+"تو، اس سبسکرائب میں شائع یونٹس سیکھنے والوں کے لئے دستیاب ہو جاتے ہیں جب تک "
+"کہ وہ واضح طور پر پوشیدہ نہ ہوں."
+
+msgid "Weekly Highlight Emails"
+msgstr "ہفتہ وار ای میلز کو نمایاں کریں"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "Enable Now"
+msgstr "اب فعال کریں"
+
+msgid "Instructor Name"
+msgstr "انسٹرکٹر کا نام"
+
+msgid "Please add the instructor's name"
+msgstr "براہ کرم انسٹریکٹر کا نام شامل کریں"
+
+msgid "Instructor Title"
+msgstr "انسٹرکٹر عنوان"
+
+msgid "Please add the instructor's title"
+msgstr "براہ کرم انسٹریکٹر کا عنوان شامل کریں"
+
+msgid "Organization"
+msgstr "تنظیم"
+
+msgid "Organization Name"
+msgstr "تنظیم کا نام"
+
+msgid "Please add the institute where the instructor is associated"
+msgstr "براہ کرم انسٹی ٹیوٹ کو شامل کریں جہاں انسٹرکٹر منسلک ہے"
+
+msgid "Biography"
+msgstr "بانی"
+
+msgid "Instructor Biography"
+msgstr "انسٹریکٹر بانی"
+
+msgid "Please add the instructor's biography"
+msgstr "براہ کرم انسٹریکٹر کی جیونی شامل کریں"
+
+msgid "Photo"
+msgstr "تصویر"
+
+msgid "Instructor Photo"
+msgstr "انسٹرکٹر تصویر"
+
+msgid "Instructor Photo URL"
+msgstr "انسٹریکٹر تصویر یو آر ایل"
+
+msgid ""
+"Please add a photo of the instructor (Note: only JPEG or PNG format "
+"supported)"
+msgstr ""
+"برائے مہربانی اس تصویر کا ایک تصویر شامل کریں (نوٹ: صرف JPEG یا PNG فارمیٹ "
+"کی حمایت کی ہے)"
+
+msgid "Upload Photo"
+msgstr "تصویر اپلوڈ کریں"
+
+msgid "Prerequisite: %(prereq_display_name)s"
+msgstr "شرط:٪ (prereq_display_name) s"
+
+msgid "Contains staff only content"
+msgstr "اسٹاف صرف مواد پر مشتمل ہے"
+
+msgid "Unpublished changes to live content"
+msgstr "لائیو مواد میں غیر شائع شدہ تبدیلییں"
+
+msgid "Unpublished units will not be released"
+msgstr "غیر شائع شدہ یونٹس جاری نہیں کیے جائیں گے"
+
+msgid "Unpublished changes to content that will release in the future"
+msgstr "مستقبل میں رہائی والے مواد میں غیر شائع شدہ تبدیلییں"
+
+msgid "Access to this unit is restricted to: {selectedGroupsLabel}"
+msgstr "اس یونٹ تک رسائی محدود ہے: {منتخب گروپ گروپز}"
+
+msgid ""
+"Access to some content in this unit is restricted to specific groups of "
+"learners"
+msgstr ""
+"اس یونٹ میں کچھ مواد تک رسائی سیکھنے والوں کے مخصوص گروپوں تک محدود ہے"
+
+msgid "Ungraded"
+msgstr "ناجائز"
+
+msgid "Practice proctored Exam"
+msgstr "پریکٹس نے امتحان کی پیشکش کی"
+
+msgid "Proctored Exam"
+msgstr "پروجیکٹ کردہ امتحان"
+
+msgid "Collapse/Expand this %(xblock_type)s"
+msgstr "کھولیں / کھولیں اس٪ (xblock_type) s"
+
+msgid "Display Name"
+msgstr "ڈسپلے کا نام"
+
+msgid "Publish"
+msgstr "شائع کریں"
+
+msgid "Configure"
+msgstr "ترتیب دیں"
+
+msgid "Duplicate"
+msgstr "ڈپلیکیٹ"
+
+msgid "Drag to reorder"
+msgstr "دوبارہ ترتیب دینے کے لئے ڈریگ کریں"
+
+msgid "Release Status:"
+msgstr "رہائی کی حیثیت:"
+
+msgid "Released:"
+msgstr "جاری"
+
+msgid "Scheduled:"
+msgstr "شیڈول کردہ"
+
+msgid "Section Highlights"
+msgstr "سیکشن ہائی لائٹس"
+
+msgid "Graded as:"
+msgstr "کے طور پر درجہ بندی:"
+
+msgid "Due:"
+msgstr "کی وجہ سے:"
+
+msgid "Subsection is hidden after course end date"
+msgstr "کورس ختم ہونے کی تاریخ کے بعد سبسکرائب چھپا ہے"
+
+msgid "Subsection is hidden after due date"
+msgstr "متوقع تاریخ کے بعد سبسکرائب ہے"
+
+msgid "You haven't added any content to this course yet."
+msgstr "آپ ابھی تک اس کورس میں کسی بھی مواد کو شامل نہیں کیا ہے."
+
+msgid "Click to add a new %(xblock_type)s"
+msgstr "نیا ((xblock_type) s نیا شامل کرنے کے لئے کلک کریں"
+
+msgid "Learning Outcome"
+msgstr "سیکھنے کا نتیجہ"
+
+msgid "Add a learning outcome here"
+msgstr "یہاں سیکھنے کا نتیجہ شامل کریں"
+
+msgid "Discard Changes"
+msgstr "تبدیلیاں مسترد کریں"
+
+msgid "Press discard changes to discard your changes."
+msgstr "اپنی تبدیلیوں کو ختم کرنے کے لئے تبدیلیاں پریس کریں."
+
+msgid "Update Settings"
+msgstr "ترتیبات کو اپ ڈیٹ کریں"
+
+msgid "Press update settings to update the information for your organization."
+msgstr ""
+"اپنی تنظیم کے بارے میں معلومات کو اپ ڈیٹ کرنے کے لئے اپ ڈیٹ کی ترتیبات پریس "
+"کریں."
+
+msgid "Press discard changes to discard changes."
+msgstr "تبدیلیوں کو منسوخ کرنے کیلئے تبدیلیاں دبائیں."
+
+msgid "Press update settings to update course video settings"
+msgstr ""
+"کورس کی ویڈیو کی ترتیبات کو اپ ڈیٹ کرنے کیلئے اپ ڈیٹ کی ترتیبات پریس کریں"
+
+msgid "Last updated"
+msgstr "آخری اپ ڈیٹ"
+
+msgid "Press close to hide course video settings"
+msgstr "کورس ویڈیو ترتیبات کو چھپانے کے قریب دبائیں"
+
+msgid "Course Video Settings"
+msgstr "کورس ویڈیو کی ترتیبات"
+
+msgid "Transcript Turnaround"
+msgstr "ٹرانسک ٹرناراؤنڈ"
+
+msgid "Transcript Fidelity"
+msgstr "ٹرانسمیشن کی مخلص"
+
+msgid "Video Source Language"
+msgstr "ویڈیو ماخذ زبان"
+
+msgid "Transcript Languages"
+msgstr "ٹرانسپٹ زبانیں"
+
+msgid "Add"
+msgstr "شامل کریں"
+
+msgid "Press Add to language"
+msgstr "زبان میں شامل کریں دبائیں"
+
+msgid "Automated Transcripts"
+msgstr "خودکار ٹرانزیکٹس"
+
+msgid "Transcript Provider"
+msgstr "ٹرانسمیشن فراہم کنندہ"
+
+msgid "Change"
+msgstr "تبدیل کریں"
+
+msgid "Press change to change selected transcript provider."
+msgstr "منتخب شدہ ٹرانسکرٹر فراہم کرنے میں تبدیلی کیلئے تبدیلی دبائیں."
+
+msgid "Assignment Type Name"
+msgstr "تفویض کی قسم کا نام"
+
+msgid ""
+"The general category for this type of assignment, for example, Homework or "
+"Midterm Exam. This name is visible to learners."
+msgstr ""
+"اس قسم کے تفویض کے لئے عام قسم، مثال کے طور پر، ہوم ورک یا مڈٹرم امتحان. یہ "
+"نام سیکھنے والوں کے لئے نظر آتا ہے."
+
+msgid "Abbreviation"
+msgstr "مخفف"
+
+msgid ""
+"This short name for the assignment type (for example, HW or Midterm) appears"
+" next to assignments on a learner's Progress page."
+msgstr ""
+"تفویض کی قسم کے لئے یہ مختصر نام (مثال کے طور پر، HW یا Midterm) سیکھنے کے "
+"پیش رفت کے صفحے پر تفویض کے بعد ظاہر ہوتا ہے."
+
+msgid "Weight of Total Grade"
+msgstr "کل گریڈ کا وزن"
+
+msgid ""
+"The weight of all assignments of this type as a percentage of the total "
+"grade, for example, 40. Do not include the percent symbol."
+msgstr ""
+"اس قسم کے تمام کاموں کا وزن کل گریڈ کے فی صد کے طور پر، مثال کے طور پر، 40. "
+"فیصد علامت شامل نہ کریں."
+
+msgid "Total Number"
+msgstr "کل تعداد"
+
+msgid ""
+"The number of subsections in the course that contain problems of this "
+"assignment type."
+msgstr "اس تفہیم کی قسم میں شامل ہونے والے نصاب کی تعداد."
+
+msgid "Number of Droppable"
+msgstr "Droppable کی تعداد"
+
+msgid ""
+"The number of assignments of this type that will be dropped. The lowest "
+"scoring assignments are dropped first."
+msgstr ""
+"اس قسم کی تفویض کی تعداد کو گرا دیا جائے گا. سب سے کم اسکورنگ کا کام سب سے "
+"پہلے گرا دیا گیا ہے."
+
+msgid "Course Handouts"
+msgstr "کورس ہینڈ آؤٹ"
+
+msgid "You have no handouts defined"
+msgstr "آپ کے پاس کوئی ہینڈ آؤٹ نہیں ہے"
+
+msgid ""
+"There is invalid code in your content. Please check to make sure it is valid"
+" HTML."
+msgstr ""
+"آپ کے مواد میں غلط کوڈ ہے. براہ کرم یقینی بنائیں کہ یہ درست ایچ ٹی ایم ایل "
+"ہے."
+
+msgid "Send push notification to mobile apps"
+msgstr "موبائل اطلاقات پر پش نوٹیفیکیشن بھیجیں"
+
+msgid "Send notification to mobile apps"
+msgstr "موبائل اطلاقات میں نوٹیفیکیشن بھیجیں"
+
+msgid "Post"
+msgstr "پوسٹ"
+
+msgid "Due Date:"
+msgstr "اخری تاریخ:"
+
+msgid "Due Time in UTC:"
+msgstr "UTC میں کی وجہ سے وقت:"
+
+msgid "Clear Grading Due Date"
+msgstr "واضح گریڈنگ کی وجہ سے تاریخ صاف کریں"
+
+msgid "Chapter Name"
+msgstr "باب کا نام"
+
+msgid "Chapter {order}"
+msgstr "باب {حکم}"
+
+msgid "provide the title/name of the chapter that will be used in navigating"
+msgstr "باب کا لقب / نام فراہم کریں جو تشریف لے کر استعمال کیا جائے گا"
+
+msgid "Chapter Asset"
+msgstr "باب اثاثہ"
+
+msgid "path/to/introductionToCookieBaking-CH{order}.pdf"
+msgstr "راستہ / تعارف / تعارف ٹوکاکی بیکنگ-CH {آرڈر}. پی ڈی ایف"
+
+msgid "upload a PDF file or provide the path to a Studio asset file"
+msgstr "پی ڈی ایف فائل اپ لوڈ کریں یا سٹوڈیو اثاثہ فائل کو راستہ فراہم کریں"
+
+msgid "Upload PDF"
+msgstr "پی ڈی ایف اپ لوڈ کریں"
+
+msgid "delete chapter"
+msgstr "باب کو خارج کردیں"
+
+msgid "Textbook information"
+msgstr "متن کتاب کی معلومات"
+
+msgid "Textbook Name"
+msgstr "متن کتاب کا نام"
+
+msgid "Introduction to Cookie Baking"
+msgstr "کوکی بیکنگ کا تعارف"
+
+msgid ""
+"provide the title/name of the text book as you would like your students to "
+"see it"
+msgstr ""
+"عنوان کتاب کا عنوان / نام فراہم کریں جیسا کہ آپ اپنے طالب علموں کو اسے "
+"دیکھنا چاہتے ہیں"
+
+msgid "Chapter information"
+msgstr "باب کی معلومات"
+
+msgid "Add a Chapter"
+msgstr "ایک باب شامل کریں"
+
+msgid "Grading"
+msgstr "گریڈنگ"
+
+msgid "Grade as:"
+msgstr "گریڈ کے طور پر:"
+
+msgid "Not Graded"
+msgstr "درجہ بندی نہیں"
+
+msgid "Cannot delete when in use by an experiment"
+msgstr "تجربے کے دوران جب استعمال نہیں کرسکتے ہیں"
+
+msgid "This Group Configuration is used in:"
+msgstr "یہ گروپ ترتیب میں استعمال کیا جاتا ہے:"
+
+msgid ""
+"This Group Configuration is not in use. Start by adding a content experiment"
+" to any Unit via the {linkStart}Course Outline{linkEnd}."
+msgstr ""
+"یہ گروپ ترتیب استعمال میں نہیں ہے. {linkStart} کورس آؤٹ لائن {linkEnd} کے "
+"ذریعہ کسی بھی یونٹ میں مواد کے تجربے کا اضافہ کرکے شروع کریں."
+
+msgid "Course Outline"
+msgstr "کورس آؤٹ لائن"
+
+msgid "Group Configuration information"
+msgstr "گروپ ترتیب کی معلومات"
+
+msgid "Group Configuration Name"
+msgstr "گروپ ترتیب نام"
+
+msgid "Group Configuration ID"
+msgstr "گروپ ترتیب کی شناخت"
+
+msgid "This is the Name of the Group Configuration"
+msgstr "یہ گروپ کی ترتیب کا نام ہے"
+
+msgid "Name or short description of the configuration"
+msgstr "ترتیب کے نام یا مختصر وضاحت"
+
+msgid "This is the Description of the Group Configuration"
+msgstr "یہ گروپ ترتیب کی تفصیل ہے"
+
+msgid "Optional long description"
+msgstr "اختیاری طویل وضاحت"
+
+msgid "Group information"
+msgstr "گروپ کی معلومات"
+
+msgid "Groups"
+msgstr "گروپ"
+
+msgid ""
+"Name of the groups that students will be assigned to, for example, Control, "
+"Video, Problems. You must have two or more groups."
+msgstr ""
+"ایسے گروہوں کا نام جس کے طالب علم کو تفویض کیا جائے گا، مثال کے طور پر، "
+"کنٹرول، ویڈیو، مسائل. آپ کے پاس دو یا زیادہ گروپ ہونا ضروری ہے."
+
+msgid "Add another group"
+msgstr "ایک اور گروپ شامل کریں"
+
+msgid ""
+"This configuration is currently used in content experiments. If you make "
+"changes to the groups, you may need to edit those experiments."
+msgstr ""
+"اس ترتیب کو فی الحال مواد تجربات میں استعمال کیا جاتا ہے. اگر آپ گروپوں میں "
+"تبدیلی کرتے ہیں، تو آپ ان تجربات میں ترمیم کرنے کی ضرورت ہوسکتی ہے."
+
+msgid "delete group"
+msgstr "گروپ حذف کریں"
+
+msgid ""
+"This feature is currently in testing. Course teams can enter highlights, but"
+" learners will not receive email messages."
+msgstr ""
+"اس خصوصیت کی جانچ پڑتال میں ہے. کورس کے ٹیموں میں روشنی ڈالی جا سکتی ہے، "
+"لیکن سیکھنے والے ای میل پیغامات وصول نہیں کریں گے."
+
+msgid ""
+"Enter 3-5 highlights to include in the email message that learners receive "
+"for this section (250 character limit)."
+msgstr ""
+"ای میل پیغام میں شامل ہونے کے لئے 3-5 پر روشنی ڈالتا ہے جس میں سیکھنے والوں "
+"کو اس سیکشن کے لئے موصول ہوتا ہے (250 کردار کی حد)."
+
+msgid "Highlight {highlight_index}"
+msgstr "{highlight_index} کو نمایاں کریں"
+
+msgid "A highlight to look forward to this week."
+msgstr "اس ہفتے کو دیکھنے کے لئے ایک خاصیت."
+
+msgid "License Type"
+msgstr "لائسنس کی قسم"
+
+msgid "Learn more about {license_name}"
+msgstr "{license_name} کے بارے میں مزید جانیں"
+
+msgid "Options for {license_name}"
+msgstr "{license_name} کے اختیارات"
+
+msgid "The following options are available for the {license_name} license."
+msgstr "{license_name} لائسنس کے لئے مندرجہ ذیل اختیارات دستیاب ہیں."
+
+msgid "License Display"
+msgstr "لائسنس ڈسپلے"
+
+msgid ""
+"The following message will be displayed at the bottom of the courseware "
+"pages within your course:"
+msgstr ""
+"مندرجہ ذیل پیغام آپ کے کورس کے اندر درج ذیل صفحات کے نیچے دکھایا جائے گا:"
+
+msgid "All Rights Reserved"
+msgstr "جملہ حقوق محفوظ ہیں"
+
+msgid "Creative Commons licensed content, with terms as follow:"
+msgstr "تخلیقی العام لائسنس یافتہ مواد، پیروی کے طور پر شرائط کے ساتھ:"
+
+msgid "Some Rights Reserved"
+msgstr "کچھ حقوق محفوظ ہیں"
+
+msgid "%(new_item_message)s"
+msgstr "٪ (new_item_message) s"
+
+msgid "New %(item_type)s"
+msgstr "نیا٪ (item_type) s"
+
+msgid "Clear"
+msgstr "واضح کریں"
+
+msgid "Clear Value"
+msgstr "واضح قدر"
+
+msgid "Component Location ID"
+msgstr "اجزاء کی جگہ کی شناخت"
+
+msgid "Replace"
+msgstr "تبدیل کریں"
+
+msgid "Upload"
+msgstr "اپ لوڈ کریں"
+
+msgid "Download"
+msgstr "ڈاؤن لوڈ کریں"
+
+msgid "{categoryText} in {parentDisplayname}"
+msgstr "{categoryText} میں {parentDisplayname}"
+
+msgid "Current location"
+msgstr "موجودہ مقام"
+
+msgid "View child items"
+msgstr "بچے کی اشیاء دیکھیں"
+
+msgid "Currently selected"
+msgstr "فی الحال منتخب کردہ"
+
+msgid "You haven't added any textbooks to this course yet."
+msgstr "آپ ابھی تک اس کورس میں کسی بھی نصابی کتاب کو شامل نہیں کیا ہے."
+
+msgid "Add your first textbook"
+msgstr "اپنی پہلی نصابی کتاب میں شامل کریں"
+
+msgid "This group controls access to:"
+msgstr "یہ گروپ تک رسائی کا کنٹرول ہے:"
+
+msgid ""
+"In the {linkStart}Course Outline{linkEnd}, use this group to control access "
+"to a component."
+msgstr ""
+"{linkstart} کورس آؤٹ لائن {linkEnd} میں، اس گروپ کا استعمال ایک اجزاء تک "
+"رسائی کو کنٹرول کرنے کے لئے."
+
+msgid "Previous Uploads"
+msgstr "پچھلا اپ لوڈ"
+
+msgid "Download available encodings (.csv)"
+msgstr "دستیاب انکوڈنگ (.csv) ڈاؤن لوڈ کریں"
+
+msgid "Thumbnail"
+msgstr "تھمب نیل"
+
+msgid "Video ID"
+msgstr "ویڈیو ID"
+
+msgid "Transcripts"
+msgstr "ٹرانسمیشن"
+
+msgid "Remove this video"
+msgstr "اس ویڈیو کو ہٹا دیں"
+
+msgid "Remove {video_name} video"
+msgstr "{video_name} ویڈیو کو ہٹا دیں"
+
+msgid "Never published"
+msgstr "کبھی شائع نہیں"
+
+msgid "Last published %(last_published_date)s by %(publish_username)s"
+msgstr "گزشتہ اشاعت٪ (last_published_date) s٪ (publish_username) کے ذریعہ ہے"
+
+msgid "Previously published"
+msgstr "پہلے شائع ہوا"
+
+msgid "Draft (Never published)"
+msgstr "ڈرافٹ (شائع کبھی نہیں)"
+
+msgid "Visible to Staff Only"
+msgstr "صرف اسٹاف کو دیکھنے کے لئے"
+
+msgid "Published and Live"
+msgstr "شائع اور لائیو"
+
+msgid "Published (not yet released)"
+msgstr "شائع (ابھی تک جاری نہیں)"
+
+msgid "Draft (Unpublished changes)"
+msgstr "ڈرافٹ (غیر شائع کردہ تبدیلیاں)"
+
+msgid "Release:"
+msgstr "رہائی:"
+
+msgid "Publishing Status"
+msgstr "اشاعت کی حیثیت"
+
+msgid ""
+"Draft saved on {lastSavedStart}{editedOn}{lastSavedEnd} by "
+"{editedByStart}{editedBy}{editedByEnd}"
+msgstr ""
+"ڈرافٹ {lastSavedStart} {editedOn} {lastSavedEnd} پر محفوظ کیا گیا "
+"{ترمیمByStart} {editedBy} {editedByEnd}"
+
+msgid ""
+"Last published {lastPublishedStart}{publishedOn}{lastPublishedEnd} by "
+"{publishedByStart}{publishedBy}{publishedByEnd}"
+msgstr ""
+"آخری اشاعت {آخری اشاعت شدہ آغاز} {publishedOn} {lastPublishedEnd} کی طرف سے "
+"{شائع شدہ اسٹائلٹ}} شائع شدہ {شائع شدہ}} شائع ہوا."
+
+msgid "with %(release_date_from)s"
+msgstr "٪ (release_date_from) کے ساتھ"
+
+msgid "Is Visible To:"
+msgstr "دیکھنے کے لئے ہے:"
+
+msgid "Will Be Visible To:"
+msgstr "دیکھیں گے:"
+
+msgid "Staff Only"
+msgstr "اسٹاف صرف"
+
+msgid "with %(section_or_subsection)s"
+msgstr "٪ (section_or_subsection) کے ساتھ"
+
+msgid "Staff and Learners"
+msgstr "اسٹاف اور سیکھنے"
+
+msgid "Hide from learners"
+msgstr "سیکھنے سے چھپائیں"
+
+msgid "Note: Do not hide graded assignments after they have been released."
+msgstr "نوٹ: ان کی رہائی کے بعد درجہ بندی کردہ تفویض کو چھپانا نہ کریں."
+
+msgid "Release Date and Time"
+msgstr "رہائی کی تاریخ اور وقت"
+
+msgid "Release Date:"
+msgstr "تاریخ رہائی:"
+
+msgid "Release Time in UTC:"
+msgstr "UTC میں رہائشی وقت:"
+
+msgid "Clear Release Date/Time"
+msgstr "واضح رہائی کی تاریخ / وقت"
+
+msgid "Assessment Results Visibility"
+msgstr "تشخیص کے نتائج کی نمائش"
+
+msgid "Always show assessment results"
+msgstr "ہمیشہ تشخیص کے نتائج دکھائیں"
+
+msgid ""
+"When learners submit an answer to an assessment, they immediately see "
+"whether the answer is correct or incorrect, and the score received."
+msgstr ""
+"جب سیکھنے والے نے تشخیص کے جواب میں جواب دیا تو، وہ فوری طور پر دیکھتے ہیں "
+"کہ آیا جواب صحیح یا غلط ہے، اور سکور وصول کی گئی ہے."
+
+msgid "Never show assessment results"
+msgstr "تشخیص کے نتائج کبھی نہیں دکھائیں"
+
+msgid ""
+"Learners never see whether their answers to assessments are correct or "
+"incorrect, nor the score received."
+msgstr ""
+"اساتذہ کبھی نہیں دیکھتے ہیں کہ ان کے جوابات درست ہیں یا غلط ہیں، نہ ہی سکور "
+"وصول ہوتے ہیں."
+
+msgid "Show assessment results when subsection is past due"
+msgstr "سبسکرائب ماضی کی وجہ سے تشخیص کے نتائج دکھائیں"
+
+msgid ""
+"Learners do not see whether their answers to assessments were correct or "
+"incorrect, nor the score received, until after the course end date has "
+"passed."
+msgstr ""
+"اساتذہ کو یہ معلوم نہیں ہے کہ آیا ان کے جوابات کا تعین صحیح یا غلط تھا، اور "
+"نہ ہی سکور موصول ہونے تک، کورس کے اختتام کی تاریخ منظور ہونے کے بعد تک."
+
+msgid ""
+"If the course does not have an end date, learners always see their scores "
+"when they submit answers to assessments."
+msgstr ""
+"اگر کورس ختم ہونے کی تاریخ نہیں ہے تو، سیکھنے والے اپنے تجربات کو ہمیشہ "
+"دیکھتے ہیں جب وہ تشخیص کے جواب میں پیش کرتے ہیں."
+
+msgid ""
+"Learners do not see whether their answers to assessments were correct or "
+"incorrect, nor the score received, until after the due date for the "
+"subsection has passed."
+msgstr ""
+"اساتذہ کو یہ معلوم نہیں ہے کہ آیا ان کے جوابات کا جائزہ درست یا غلط تھا، اور"
+" نہ ہی سکور موصول ہوئی ہیں، جب تک سبسکرائب کے لئے مقررہ تاریخ منظور نہیں ہوا"
+" ہے."
+
+msgid ""
+"If the subsection does not have a due date, learners always see their scores"
+" when they submit answers to assessments."
+msgstr ""
+"اگر سبسکرائب کی کوئی تاریخ نہیں ہے تو، سیکھنے والوں کو ہمیشہ ان کے سکور نظر "
+"آتے ہیں جب وہ جائزوں کے جواب میں پیش کرتے ہیں."
+
+msgid "View Live"
+msgstr "لائیو دیکھیں"
+
+msgid "Signatory"
+msgstr "سائنسی"
+
+msgid "Signature Image"
+msgstr "دستخط کی تصویر"
+
+msgid "Certificate Signatory Configuration"
+msgstr "سرٹیفکیٹ سائنسی ترتیب"
+
+msgid "Name "
+msgstr "نام"
+
+msgid "Name of the signatory"
+msgstr "دستخط کا نام"
+
+msgid "The name of this signatory as it should appear on certificates."
+msgstr "اس دستخط کا نام جیسا کہ سرٹیفکیٹ پر ہونا چاہئے."
+
+msgid "Title "
+msgstr "عنوان"
+
+msgid "Title of the signatory"
+msgstr "دستخط کا عنوان"
+
+msgid ""
+"Titles more than 100 characters may prevent students from printing their "
+"certificate on a single page."
+msgstr ""
+"100 حروف سے زیادہ عنوانات طالب علموں کو ایک ہی صفحے پر ان کے سرٹیفکیٹ کو "
+"چھپانے سے روک سکتے ہیں."
+
+msgid "Organization "
+msgstr "تنظیم"
+
+msgid "Organization of the signatory"
+msgstr "دستخط کی تنظیم"
+
+msgid ""
+"The organization that this signatory belongs to, as it should appear on "
+"certificates."
+msgstr ""
+"تنظیم جس کا یہ دستخط اس سے تعلق رکھتا ہے، جیسا کہ یہ سرٹیفکیٹ پر نظر آنا "
+"چاہئے."
+
+msgid "Path to Signature Image"
+msgstr "دستخط کی تصویر پر راہ"
+
+msgid "Image must be in PNG format"
+msgstr "تصویر PNG کی شکل میں ہونا ضروری ہے"
+
+msgid "Upload Signature Image"
+msgstr "دستخط تصویر اپ لوڈ کریں"
+
+msgid "Unit Visibility"
+msgstr "یونٹ کی نمائش"
+
+msgid "Section Visibility"
+msgstr "سیکشن کی نمائش"
+
+msgid ""
+"If the unit was previously published and released to learners, any changes "
+"you made to the unit when it was hidden will now be visible to learners."
+msgstr ""
+"اگر یونٹ پہلے ہی شائع کیا گیا تھا اور سیکھنے والوں کو جاری کیا گیا تھا تو، "
+"آپ کو اس یونٹ میں جو کسی بھی تبدیلی سے پوشیدہ تھی وہ سیکھنے والوں کو نظر "
+"انداز کریں گے."
+
+msgid ""
+"If you make this %(xblockType)s visible to learners, learners will be able "
+"to see its content after the release date has passed and you have published "
+"the unit. Only units that are explicitly hidden from learners will remain "
+"hidden after you clear this option for the %(xblockType)s."
+msgstr ""
+"اگر آپ سیکھنے والوں کو یہ٪ (xblockType) نظر آتے ہیں، تو سیکھنے والے تاریخ کو"
+" منظور کرنے کے بعد سیکھنے والے اس مواد کو دیکھ سکیں گے اور آپ نے یونٹ شائع "
+"کیا ہے. ٪ (xblockType) s کے لئے اس اختیار کو صاف کرنے کے بعد سیکھنے والوں سے"
+" واضح طور پر پوشیدہ واحد یونٹس چھپا رہیں گے."
+
+msgid "Current Role:"
+msgstr "موجودہ کردار:"
+
+msgid "You!"
+msgstr "تم!"
+
+msgid "send an email message to {email}"
+msgstr "{ای میل} کو ای میل پیغام بھیجیں"
+
+msgid "Promote another member to Admin to remove your admin rights"
+msgstr "اپنے منتظم حقوق کو دور کرنے کے لئے ایک اور رکن ایڈمن کو فروغ دیں"
+
+msgid "Add {role} Access"
+msgstr "رسائی {کردار} تک رسائی حاصل کریں"
+
+msgid "Remove {role} Access"
+msgstr "{کردار} رسائی کو ہٹا دیں"
+
+msgid "Delete the user, {username}"
+msgstr "صارف کو حذف کریں {صارف کا نام}"
+
+msgid "Set as a Special Exam"
+msgstr "خصوصی امتحان کے طور پر مقرر کریں"
+
+msgid "Exam Types"
+msgstr "امتحان کی اقسام"
+
+msgid "None"
+msgstr "کوئی بھی نہیں"
+
+msgid "Timed"
+msgstr "ٹائم"
+
+msgid ""
+"Use a timed exam to limit the time learners can spend on problems in this "
+"subsection. Learners must submit answers before the time expires. You can "
+"allow additional time for individual learners through the Instructor "
+"Dashboard."
+msgstr ""
+"وقت کے سیکھنے کو محدود کرنے کیلئے ایک ٹائم ٹیسٹنگ امتحان کا استعمال کریں اس "
+"سبسکرائب میں مسائل پر خرچ کر سکتے ہیں. وقت ختم ہونے سے پہلے طلباء کو جوابات "
+"جمع کرنی پڑیں. آپ انسٹرکٹر ڈیش بورڈ کے ذریعہ انفرادی سیکھنے والوں کے لئے "
+"اضافی وقت کی اجازت دے سکتے ہیں."
+
+msgid "Proctored"
+msgstr "پروکار"
+
+msgid ""
+"Proctored exams are timed and they record video of each learner taking the "
+"exam. The videos are then reviewed to ensure that learners follow all "
+"examination rules."
+msgstr ""
+"پروکارڈ امتحان ٹائم کیے جاتے ہیں اور وہ ہر سیکرٹری کا ویڈیو امتحان لے کر "
+"ریکارڈ کرتے ہیں. اس ویڈیو کو پھر اس بات کا جائزہ لیا گیا ہے کہ سیکھنے والے "
+"تمام امتحان کے قواعد پر عمل کریں."
+
+msgid "Practice Proctored"
+msgstr "پروکیکٹ پریکٹس"
+
+msgid ""
+"Use a practice proctored exam to introduce learners to the proctoring tools "
+"and processes. Results of a practice exam do not affect a learner's grade."
+msgstr ""
+"ایک پریکٹس پروکیکڈ امتحان کا استعمال کریں کہ سیکھنے والے آلات اور عملوں کو "
+"سیکھنے والوں کو متعارف کرایا جائے. ایک مشق امتحان کے نتائج سیکھنے والے کی "
+"گریڈ کو متاثر نہیں کرتے."
+
+msgid "Time Allotted (HH:MM):"
+msgstr "وقت مختص (ایچ ایچ ایم: ایم ایم):"
+
+msgid ""
+"Select a time allotment for the exam. If it is over 24 hours, type in the "
+"amount of time. You can grant individual learners extra time to complete the"
+" exam through the Instructor Dashboard."
+msgstr ""
+"امتحان کے لئے ایک وقت مختص منتخب کریں. اگر یہ 24 گھنٹوں سے زیادہ ہے، تو وقت "
+"کی مقدار میں ٹائپ کریں. آپ انسٹرکٹر ڈیش بورڈ کے ذریعہ امتحان کو مکمل کرنے کے"
+" لئے انفرادی سیکھنے اضافی وقت فراہم کرسکتے ہیں."
+
+msgid "Review Rules"
+msgstr "جائزہ کے قواعد"
+
+msgid ""
+"Specify any rules or rule exceptions that the proctoring review team should "
+"enforce when reviewing the videos. For example, you could specify that "
+"calculators are allowed. These specified rules are visible to learners "
+"before the learners start the exam, along with the {linkStart}general "
+"proctored exam rules{linkEnd}."
+msgstr ""
+"کسی بھی قواعد و ضوابط کی استثناء کی وضاحت کریں کہ ویڈیو کا جائزہ لینے کے "
+"دوران پروکیکنگ جائزہ لینے والے ٹیم کو نافذ کرنا چاہئے. مثال کے طور پر، آپ "
+"وضاحت کر سکتے ہیں کہ کیلکولیٹروں کی اجازت ہے. {مخصوص اسٹارڈ} عام پروکسیڈ "
+"امتحان کے قوانین {linkEnd} کے ساتھ ساتھ، سیکھنے والے امتحان شروع ہونے سے "
+"پہلے یہ مخصوص قواعد سیکھنے والوں کے لئے نظر آتے ہیں."
+
+msgid "General Proctored Exam Rules"
+msgstr "جنرل پروکسیڈ امتحان کے قواعد"
+
+msgid ""
+"Specify any rules or rule exceptions that the proctoring review team should "
+"enforce when reviewing the videos. For example, you could specify that "
+"calculators are allowed. These specified rules are visible to learners "
+"before the learners start the exam."
+msgstr ""
+"کسی بھی قواعد و ضوابط کی استثناء کی وضاحت کریں کہ ویڈیو کا جائزہ لینے کے "
+"دوران پروکیکنگ جائزہ لینے والے ٹیم کو نافذ کرنا چاہئے. مثال کے طور پر، آپ "
+"وضاحت کر سکتے ہیں کہ کیلکولیٹروں کی اجازت ہے. سیکھنے والے اس امتحان سے قبل "
+"ان مخصوص قوانین سیکھنے والوں کو نظر انداز کر رہے ہیں."
+
+msgid "Account"
+msgstr "اکاؤنٹ"
+
+msgid ""
+"This action updates the {provider} information for your entire organization."
+msgstr ""
+"یہ کارروائی آپ کے پورے ادارے کیلئے {فراہم کنندہ} کی معلومات کو اپ ڈیٹ کرتا "
+"ہے."
+
+msgid "Enter the account information for your organization."
+msgstr "اپنی تنظیم کے لئے اکاؤنٹ کی معلومات درج کریں."
+
+msgid "API Key"
+msgstr "API کلید"
+
+msgid "API Secret"
+msgstr "API خفیہ"
+
+msgid "Unit Access"
+msgstr "یونٹ تک رسائی"
+
+msgid "Restrict access to:"
+msgstr "تک رسائی محدود"
+
+msgid "Select a group type"
+msgstr "ایک گروپ کی قسم منتخب کریں"
+
+msgid "Select one or more groups:"
+msgstr "ایک یا زیادہ گروپ منتخب کریں:"
+
+msgid "Deleted Group"
+msgstr "حذف کردہ گروپ"
+
+msgid ""
+"This group no longer exists. Choose another group or do not restrict access "
+"to this unit."
+msgstr ""
+"یہ گروپ اب موجود نہیں ہے. کسی دوسرے گروپ کو منتخب کریں یا اس یونٹ تک رسائی "
+"کو محدود نہ کریں."
+
+msgid "File upload succeeded"
+msgstr "فائل اپ لوڈ کامیاب ہوگئی"
+
+msgid ""
+"Please check the following validation feedbacks and reflect them in your "
+"course settings:"
+msgstr ""
+"براہ کرم مندرجہ ذیل توثیق کی رائے کی جانچ پڑتال کریں اور اپنے کورس کی "
+"ترتیبات میں ان کی عکاسی کریں."
+
+msgid "Verification Checkpoint"
+msgstr "توثیقی چیک پوائنٹ"
+
+msgid "Must complete verification checkpoint"
+msgstr "توثیقی چیک پوائنٹ لازمی ہے"
+
+msgid "Verification checkpoint to be completed"
+msgstr "مکمل کرنے کیلئے توثیق چیک پوائنٹ"
+
+msgid ""
+"Learners who require verification must pass the selected checkpoint to see "
+"the content in this unit. Learners who do not require verification see this "
+"content by default."
+msgstr ""
+"اس شعبے میں مواد کو دیکھنے کے لۓ اس بات کی تصدیق کرنے والے طلباء کو منتخب "
+"چیک پوائنٹ پاس کرنا ہوگا. جو طلباء کی توثیق کی ضرورت نہیں ہے وہ اس مواد کو "
+"ڈیفالٹ کے ذریعہ دیکھتے ہیں."
+
+msgid ""
+"Recommended image resolution is {imageResolution}, maximum image file size "
+"should be {maxFileSize} and format must be one of {supportedImageFormats}."
+msgstr ""
+"سفارش کردہ تصویر قرارداد {imageResolution} ہے، زیادہ سے زیادہ تصویر فائل کا "
+"سائز ہونا چاہئے {maxFileSize} اور فارمیٹ میں ہونا لازمی ہے {معاونآپ کی "
+"فہرست}."
+
+msgid "Read more"
+msgstr "مزید پڑھ"
+
+msgid "Show transcripts ({totalTranscripts})"
+msgstr "ٹرانزیکٹس دکھائیں ({totalTranscripts})"
+
+msgid "No transcript uploaded."
+msgstr "کوئی ٹرانکرپٹ اپ لوڈ نہیں"
+
+msgid "{transcriptClientTitle}_{transcriptLanguageCode}.{fileExtension}"
+msgstr "{transcriptClientTitle} _ {ٹرانزیکشن زبان کوڈ}. {fileExtension}"
+
+msgid "Set Access"
+msgstr "رسائی سیٹ کریں"
+
+msgid "Edit %(display_name)s (required)"
+msgstr "ترمیم کریں٪ (display_name) s (ضروری ہے)"
+
+msgid ""
+"You have done a dry run of force publishing the course. Nothing has changed."
+" Had you run it, the following course versions would have been change."
+msgstr ""
+"آپ نے کورس کو شائع کرنے والے طاقت کا خشک حصہ کیا ہے. کچھ بھی نہیں بدل گیا. "
+"اگر تم اسے چلاتے ہو تو، مندرجہ ذیل کورس کے ورژن تبدیل ہوجائیں گے."
+
+msgid ""
+"The published branch version, {published}, was reset to the draft branch "
+"version, {draft}."
+msgstr ""
+"شائع شدہ برانچ ورژن، {شائع شدہ}، مسودہ شاخ کا ورژن، {مسودہ} پر ری سیٹ کیا "
+"گیا تھا."
+
+msgid "Add URLs for additional versions"
+msgstr "اضافی ورژن کیلئے یو آر ایل شامل کریں"
+
+msgid ""
+"To be sure all students can access the video, we recommend providing both an"
+" .mp4 and a .webm version of your video. Click below to add a URL for "
+"another version. These URLs cannot be YouTube URLs. The first listed video "
+"that's compatible with the student's computer will play."
+msgstr ""
+"اس بات کا یقین کرنے کے لئے کہ تمام طالب علموں کو ویڈیو تک رسائی حاصل ہوسکتی "
+"ہے، ہم آپ کے ویڈیو کے ایک .mp4 اور ایک. ویب ورژن فراہم کرتے ہیں. ایک اور "
+"ورژن کیلئے یو آر ایل شامل کرنے کیلئے ذیل میں کلک کریں. یہ یو آر ایل YouTube "
+"یو آر ایل نہیں ہوسکتے ہیں. طالب علم کے کمپیوٹر کے ساتھ مطابقت رکھتا ہے جو "
+"پہلے درج کردہ ویڈیو کھیلے گی."
+
+msgid "Default Timed Transcript"
+msgstr "پہلے سے طے شدہ ٹرانسمیشن"
+
+msgid "Timed Transcript Conflict"
+msgstr "ٹرانزیکشن تنازعہ"
+
+msgid ""
+"The timed transcript for the first video file does not appear to be the same"
+" as the timed transcript for the second video file."
+msgstr ""
+"پہلی ویڈیو فائل کے لئے ٹائم شدہ ٹریک اس کی دوسری ویڈیو فائل کے لئے ٹائم "
+"ٹرانزیکشن کے طور پر ہی نہیں ہوتا."
+
+msgid "Which timed transcript would you like to use?"
+msgstr "آپ کونسی ٹرانسمیشن استعمال کرنا چاہتے ہیں؟"
+
+msgid "Error."
+msgstr "غلطی"
+
+msgid "Timed Transcript from %(filename)s"
+msgstr "٪ (فائل نام) s سے ٹائم شدہ ٹرانسمیشن"
+
+msgid "Timed Transcript Found"
+msgstr "ٹائم شدہ ٹرانسمیشن ملا"
+
+msgid ""
+"EdX has a timed transcript for this video. If you want to edit this "
+"transcript, you can download, edit, and re-upload the existing transcript. "
+"If you want to replace this transcript, upload a new .srt transcript file."
+msgstr ""
+"اس ویڈیو کے لئے ایڈیکس ایک ٹائم ٹرانزیکشن ہے. اگر آپ اس نقل میں ترمیم کرنا "
+"چاہتے ہیں تو، آپ موجودہ ٹرانزیشن کو ڈاؤن لوڈ کرسکتے ہیں، ترمیم کریں اور "
+"دوبارہ اپ لوڈ کرسکتے ہیں. اگر آپ اس نقل کو تبدیل کرنا چاہتے ہیں تو، ایک نئی."
+" ایس آر آر ٹرانسپٹ فائل کو اپ لوڈ کریں."
+
+msgid "Upload New Transcript"
+msgstr "نیا ٹرانسپٹ اپ لوڈ کریں"
+
+msgid "Upload New .srt Transcript"
+msgstr "نیا. ایس آر ٹرانسپٹسٹ اپ لوڈ کریں"
+
+msgid "Download Transcript for Editing"
+msgstr "ترمیم کیلئے ٹرانسپٹ ڈاؤن لوڈ کریں"
+
+msgid "No EdX Timed Transcript"
+msgstr "ایڈیکس ٹائم ٹرانسپٹ نہیں ہے"
+
+msgid ""
+"EdX doesn't have a timed transcript for this video in Studio, but we found a"
+" transcript on YouTube. You can import the YouTube transcript or upload your"
+" own .srt transcript file."
+msgstr ""
+"اس ویڈیو کے لئے ایڈ وی سٹوڈیو میں ٹائڈ ٹریک نہیں ہے، لیکن ہمیں یو ٹیوب پر "
+"ایک ٹرانسمیشن مل گیا. آپ یو ٹیوب ٹرانس درآمد کرسکتے ہیں یا اپنا اپنا ایس ایس"
+" آر ٹرانسپٹ فائل اپ لوڈ کرسکتے ہیں."
+
+msgid "Import YouTube Transcript"
+msgstr "YouTube ٹرانزٹ درآمد کریں"
+
+msgid "No Timed Transcript"
+msgstr "ٹائم ٹرانزیکشن نہیں"
+
+msgid ""
+"EdX doesn\\'t have a timed transcript for this video. Please upload an .srt "
+"file."
+msgstr ""
+"اس ویڈیو کے لئے ایڈیکس کو ٹائڈ ٹریک نہیں ہے. براہ کرم ایک ایس ایس آر فائل اپ"
+" لوڈ کریں."
+
+msgid ""
+"The timed transcript for this video on edX is out of date, but YouTube has a"
+" current timed transcript for this video."
+msgstr ""
+"EDX پر اس ویڈیو کے لئے ٹائم شدہ ٹرانکرپٹ تاریخ سے باہر ہے، لیکن YouTube میں "
+"اس ویڈیو کے لئے موجودہ ٹائم شدہ ٹرانزیشن ہے."
+
+msgid "Do you want to replace the edX transcript with the YouTube transcript?"
+msgstr ""
+"کیا آپ YouTube ٹرانزیشن کے ساتھ EDX ٹرانسمیشن کو تبدیل کرنا چاہتے ہیں؟"
+
+msgid "Yes, replace the edX transcript with the YouTube transcript"
+msgstr "جی ہاں، YouTube ٹرانسپٹ کے ساتھ EDX ٹرانسمیشن کو تبدیل کریں"
+
+msgid "Timed Transcript Uploaded Successfully"
+msgstr "ٹائم کردہ ٹرانسمیشن کامیابی سے اپ لوڈ کیا"
+
+msgid ""
+"EdX has a timed transcript for this video. If you want to replace this "
+"transcript, upload a new .srt transcript file. If you want to edit this "
+"transcript, you can download, edit, and re-upload the existing transcript."
+msgstr ""
+"اس ویڈیو کے لئے ایڈیکس ایک ٹائم ٹرانزیکشن ہے. اگر آپ اس نقل کو تبدیل کرنا "
+"چاہتے ہیں تو، ایک نئی. ایس آر آر ٹرانسپٹ فائل کو اپ لوڈ کریں. اگر آپ اس نقل "
+"میں ترمیم کرنا چاہتے ہیں تو، آپ موجودہ ٹرانزیشن کو ڈاؤن لوڈ کرسکتے ہیں، "
+"ترمیم کریں اور دوبارہ اپ لوڈ کرسکتے ہیں."
+
+msgid "Confirm Timed Transcript"
+msgstr "ٹائم ٹرانزیکشن کی توثیق کریں"
+
+msgid ""
+"You changed a video URL, but did not change the timed transcript file. Do "
+"you want to use the current timed transcript or upload a new .srt transcript"
+" file?"
+msgstr ""
+"آپ نے ایک ویڈیو URL کو تبدیل کر دیا، لیکن ٹائم شدہ ٹرانسپٹ فائل کو تبدیل "
+"نہیں کیا. کیا آپ موجودہ ٹائم ٹرانزیکشن استعمال کرنا چاہتے ہیں یا نئی ایس ایس"
+" آر ٹرانسپٹ فائل کو اپ لوڈ کرنا چاہتے ہیں؟"
+
+msgid "Use Current Transcript"
+msgstr "موجودہ ٹرانسمیشن کا استعمال کریں"
