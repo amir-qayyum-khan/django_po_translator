@@ -15,12 +15,19 @@ translate_client = translate.Client()
 
 
 def chunks(array, max_size=100):
-    """Yield successive n-sized chunks from l."""
+    """
+    Yield successive max_size chunks from array.
+    """
     for i in range(0, len(array), max_size):
         yield array[i:i + max_size]
 
 
 def find_files(directory):
+    """
+    It returns list containing files in directory.
+
+    :param directory (str): Absolute location of folder
+    """
     file_paths = []
     files = listdir(directory)
     for file_name in files:  # check if very object in the folder ...
@@ -30,6 +37,14 @@ def find_files(directory):
 
 
 def translate_file(lang, source_file_path, destination_folder, destination_name):
+    """
+    It uses google api to translate whole .po file
+
+    :param lang (str): Language code i.e en for english
+    :param source_file_path (str): The source folder containing .po files
+    :param destination_folder (str): Destination folder path. I hard coded it to dest folder
+    :param destination_name (str): Destination file name path, same as source file
+    """
     if not translate_client:
         return
     destination_file = path.join(destination_folder, destination_name)
@@ -71,6 +86,13 @@ def translate_file(lang, source_file_path, destination_folder, destination_name)
 
 
 def validate_and_translate_file(lang, file_path, dest_path):
+    """
+    Takes input a .po file path and translate that file.
+
+    :param lang (str): Language code i.e en for english
+    :param folder_path (str): The source folder containing .po files
+    :param dest_path (str): Destination folder path. I hard coded it to dest folder
+    """
     if file_path:
         file_name = path.basename(file_path)
         file_base_name, extension = path.splitext(file_name)
@@ -81,6 +103,13 @@ def validate_and_translate_file(lang, file_path, dest_path):
 
 
 def extract_files_and_translate_folder(lang, folder_path, dest_path):
+    """
+    Takes input a folder path and translate all .po files in that folder.
+
+    :param lang (str): Language code i.e en for english
+    :param folder_path (str): The source folder containing .po files
+    :param dest_path (str): Destination folder path. I hard coded it to dest folder
+    """
     if folder_path:
         files = find_files(folder_path)
         for file_path in files:
