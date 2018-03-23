@@ -1,0 +1,1983 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Cancel"
+msgstr "منسوخ کریں"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Type"
+msgstr "ٹائپ کریں"
+
+msgid "Actions"
+msgstr "ایکشنز"
+
+msgid "Edit"
+msgstr "ترمیم"
+
+msgid "Delete"
+msgstr "حذف کریں"
+
+msgid "Description"
+msgstr "تفصیل"
+
+msgid "Save"
+msgstr "محفوظ کریں"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Timed Exam"
+msgstr "ٹائم کی جانچ"
+
+msgid "Unscheduled"
+msgstr "ناپسندیدہ"
+
+msgid "Close"
+msgstr "بند کریں"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Loading"
+msgstr "لوڈ کر رہا ہے"
+
+msgid "Previous"
+msgstr "پچھلا"
+
+msgid "Next"
+msgstr "اگلے"
+
+msgid "Status"
+msgstr "حالت"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Username"
+msgstr "صارف کا نام"
+
+msgid "Remove"
+msgstr "دور"
+
+msgid "Fullscreen"
+msgstr "مکمل اسکرین یا بڑی اسکرین"
+
+msgid "Large"
+msgstr "بڑے"
+
+msgid "Zoom In"
+msgstr "زوم میں"
+
+msgid "Zoom Out"
+msgstr "دور کرنا"
+
+msgid "Page number out of %(total_pages)s"
+msgstr "سے باہر نمبر نمبر (total_pages) s"
+
+msgid "Enter the page number you'd like to quickly navigate to."
+msgstr "وہ صفحہ نمبر درج کریں جو آپ جلدی نیویگیشن کرنا چاہتے ہیں."
+
+msgid "Sorted by"
+msgstr "کی طرف سے ترتیب"
+
+msgid "Clear search"
+msgstr "تلاش صاف کریں"
+
+msgid "Search"
+msgstr "تلاش کریں"
+
+msgid "OK"
+msgstr "ٹھیک ہے"
+
+msgid "Mark as Answer"
+msgstr "جواب کے طور پر نشان زد کریں"
+
+msgid "Unmark as Answer"
+msgstr "جواب کے طور پر نشان زد کریں"
+
+msgid "Open"
+msgstr "کھولیں"
+
+msgid "Endorse"
+msgstr "یقین ہے"
+
+msgid "Unendorse"
+msgstr "Unendorse"
+
+msgid "Follow"
+msgstr "پیروی"
+
+msgid "Unfollow"
+msgstr "ناکام"
+
+msgid "Pin"
+msgstr "پن"
+
+msgid "Unpin"
+msgstr "Unpin"
+
+msgid "Report abuse"
+msgstr "اطلاع دیں"
+
+msgid "Report"
+msgstr "رپورٹ"
+
+msgid "Unreport"
+msgstr "غیر حاضر"
+
+msgid "Vote for this post,"
+msgstr "اس پوسٹ کے لئے ووٹ دیں،"
+
+msgid "More"
+msgstr "مزید"
+
+msgid "Load more"
+msgstr "مزید لوڈ کریں"
+
+msgid "Error posting your message."
+msgstr "آپ کا پیغام پوسٹ کرنے میں خرابی"
+
+msgid "This post will be visible only to %(group_name)s."
+msgstr "یہ اشاعت صرف٪ (group_name) کے لئے نظر آئے گا."
+
+msgid "This post will be visible to everyone."
+msgstr "یہ اشاعت ہر کسی کو نظر آئے گی."
+
+msgid "Add a Post"
+msgstr "ایک پوسٹ شامل کریں"
+
+msgid "Visible to"
+msgstr "دیکھنے کے لئے"
+
+msgid ""
+"Discussion admins, moderators, and TAs can make their posts visible to all "
+"students or specify a single group."
+msgstr ""
+"بحث کے منتظمین، منتظمین، اور ٹی اے ایس اپنی اشاعتیں تمام طالب علموں کو نظر "
+"انداز کر سکتے ہیں یا ایک گروپ کی وضاحت کرسکتے ہیں."
+
+msgid "All Groups"
+msgstr "تمام گروپ"
+
+msgid ""
+"Add a clear and descriptive title to encourage participation. (Required)"
+msgstr ""
+"شرکت کی حوصلہ افزائی کے لئے ایک واضح اور وضاحتی عنوان شامل کریں. (ضروری ہے)"
+
+msgid "Your question or idea (required)"
+msgstr "آپ کا سوال یا خیال (ضروری ہے)"
+
+msgid "follow this post"
+msgstr "اس پوسٹ پر عمل کریں"
+
+msgid "post anonymously"
+msgstr "گمنام سے پوچھ لو"
+
+msgid "post anonymously to classmates"
+msgstr "گمنامہ کو ہمسایہ طور پر پوسٹ کریں"
+
+msgid "Submit"
+msgstr "جمع"
+
+msgid "…"
+msgstr "..."
+
+msgid "(Community TA)"
+msgstr "(کمیونٹی ٹی اے)"
+
+msgid "(Staff)"
+msgstr "(اسٹاف)"
+
+msgid "anonymous"
+msgstr "گمنام"
+
+msgid "This thread is closed."
+msgstr "یہ دھاگہ بند ہے."
+
+msgid "View discussion"
+msgstr "بحث دیکھیں"
+
+msgid "Editing comment"
+msgstr "تبصرہ ترمیم کریں"
+
+msgid "Update comment"
+msgstr "تبصرہ اپ ڈیٹ کریں"
+
+msgid "posted %(time_ago)s by %(author)s"
+msgstr "٪ (time_ago) کی طرف سے٪ (مصنف) s پوسٹ کیا گیا"
+
+msgid "Reported"
+msgstr "اطلاع دی"
+
+msgid "Editing post"
+msgstr "اشاعت میں ترمیم کریں"
+
+msgid "Edit your post below."
+msgstr "ذیل میں اپنی پوسٹ میں ترمیم کریں."
+
+msgid "Update post"
+msgstr "پوسٹ اپ ڈیٹ کریں"
+
+msgid "discussion"
+msgstr "بحث"
+
+msgid "answered question"
+msgstr "جواب دیا"
+
+msgid "unanswered question"
+msgstr "جوابی سوال"
+
+msgid "Pinned"
+msgstr "پینل"
+
+msgid "Following"
+msgstr "درج ذیل"
+
+msgid "Staff"
+msgstr "اسٹاف"
+
+msgid "Community TA"
+msgstr "کمیونٹی ٹی اے"
+
+msgid "{unread_comments_count} new"
+msgstr "{unread_comments_count} نیا"
+
+msgid ""
+"%(comments_count)s %(span_sr_open)scomments (%(unread_comments_count)s "
+"unread comments)%(span_close)s"
+msgstr ""
+"٪ (comment_count) s٪ (span_sr_open) scomments (٪ (unread_comments_count) کی "
+"بے ترتیب تبصرے)٪ (span_close) s"
+
+msgid "%(comments_count)s %(span_sr_open)scomments %(span_close)s"
+msgstr "٪ (comment_count) s٪ (span_sr_open) scomments٪ (span_close) s"
+
+msgid "Editing response"
+msgstr "ترمیم کرنے کا جواب"
+
+msgid "Update response"
+msgstr "اپ ڈیٹ جواب دیں"
+
+msgid "marked as answer %(time_ago)s by %(user)s"
+msgstr "٪ (صارف) کے ذریعہ جواب٪ (time_ago) کے طور پر نشان لگا دیا گیا ہے"
+
+msgid "marked as answer %(time_ago)s"
+msgstr "جواب٪ (time_ago) کے طور پر نشان لگا دیا گیا ہے"
+
+msgid "endorsed %(time_ago)s by %(user)s"
+msgstr "٪ (صارف) کے ذریعہ٪ (time_ago) کی حمایت کی"
+
+msgid "endorsed %(time_ago)s"
+msgstr "تصدیق شدہ٪ (time_ago) s"
+
+msgid "Show Comment (%(num_comments)s)"
+msgstr "تبصرہ دکھائیں (٪ (num_comments) s"
+
+msgid "Add a comment"
+msgstr "ایک تبصرہ شامل کریں"
+
+msgid "discussion posted %(time_ago)s by %(author)s"
+msgstr "بحث نے٪ (time_ago) کی طرف سے٪ (مصنف) s کی طرف سے پوسٹ کیا"
+
+msgid "question posted %(time_ago)s by %(author)s"
+msgstr "سوال نمبر (٪ time_ago) کی طرف سے٪ (مصنف) s"
+
+msgid "Closed"
+msgstr "بند"
+
+msgid "Related to: %(courseware_title_linked)s"
+msgstr "سے متعلق:٪ (courseware_title_linked) s"
+
+msgid "This post is visible only to %(group_name)s."
+msgstr "یہ اشاعت صرف٪ (group_name) کے لئے نظر آتا ہے."
+
+msgid "This post is visible to everyone."
+msgstr "یہ اشاعت ہر کسی کو نظر آتا ہے."
+
+msgid "Post type"
+msgstr "پوسٹ کی قسم"
+
+msgid ""
+"Questions raise issues that need answers. Discussions share ideas and start "
+"conversations. (Required)"
+msgstr ""
+"سوالات اس مسئلے کو بلند کرتی ہیں جو جوابات کی ضرورت ہوتی ہیں. بحثات کے "
+"خیالات کا اشتراک کرتے ہیں اور بات چیت شروع کرتے ہیں. (ضروری ہے)"
+
+msgid "Question"
+msgstr "سوال"
+
+msgid "Discussion"
+msgstr "بحث"
+
+msgid "Add a Response"
+msgstr "ایک جواب شامل کریں"
+
+msgid "Add a response:"
+msgstr "ایک جواب شامل کریں:"
+
+msgid "Topic area"
+msgstr "موضوع کا علاقہ"
+
+msgid "Add your post to a relevant topic to help others find it. (Required)"
+msgstr ""
+"دوسروں کو تلاش کرنے میں مدد کیلئے اپنی پوسٹ کو متعلقہ موضوع میں شامل کریں. "
+"(ضروری ہے)"
+
+msgid "Discussion Home"
+msgstr "بحث گھر"
+
+msgid "How to use %(platform_name)s discussions"
+msgstr "٪ (platform_name) کی بات چیت کا استعمال کیسے کریں"
+
+msgid "Find discussions"
+msgstr "بات چیت کریں"
+
+msgid "Use the All Topics menu to find specific topics."
+msgstr "مخصوص موضوعات کو تلاش کرنے کے لئے تمام موضوعات مینو کا استعمال کریں."
+
+msgid "Search all posts"
+msgstr "تمام مراسلہ تلاش کریں"
+
+msgid "Filter and sort topics"
+msgstr "فلٹر اور موضوعات کو ترتیب دیں"
+
+msgid "Engage with posts"
+msgstr "خطوط کے ساتھ مشغول"
+
+msgid "Vote for good posts and responses"
+msgstr "اچھے خطوط اور جوابات کے لئے ووٹ دیں"
+
+msgid "Report abuse, topics, and responses"
+msgstr "بدعنوان، موضوعات، اور جوابات کی اطلاع دیں"
+
+msgid "Follow or unfollow posts"
+msgstr "فالو کریں یا ناپسندیدہ مراسلہ"
+
+msgid "Receive updates"
+msgstr "اپ ڈیٹس وصول کریں"
+
+msgid "Toggle Notifications Setting"
+msgstr "ٹوگل نوٹیفیکشن کی ترتیب"
+
+msgid ""
+"Check this box to receive an email digest once a day notifying you about "
+"new, unread activity from posts you are following."
+msgstr ""
+"اس باکس کو چیک کرنے کے لئے جس دن آپ کو مندرجہ ذیل اشاعتوں سے نئی اور غیر "
+"منحصر سرگرمی کے بارے میں مطلع کرنے کے بعد آپ کو مطلع کرنے کے بعد ای میل "
+"ڈیجیٹل مل جائے."
+
+msgid "All Topics"
+msgstr "تمام موضوعات"
+
+msgid "All Posts"
+msgstr "تمام مراسلہ"
+
+msgid "username or email"
+msgstr "اسم رکنیت یا ای میل"
+
+msgid "course id"
+msgstr "کورس کی شناخت"
+
+msgid "No results"
+msgstr "کوئی نتیجہ نہیں"
+
+msgid "Course Key"
+msgstr "کورس کلیدی"
+
+msgid "Download URL"
+msgstr "یو آر ایل ڈاؤن لوڈ کریں"
+
+msgid "Grade"
+msgstr "گریڈ"
+
+msgid "Last Updated"
+msgstr "آخری اپ ڈیٹ"
+
+msgid "Download the user's certificate"
+msgstr "صارف کا سرٹیفکیٹ ڈاؤن لوڈ کریں"
+
+msgid "Not available"
+msgstr "دستیاب نہیں ہے"
+
+msgid "Regenerate"
+msgstr "دوبارہ تخلیق کریں"
+
+msgid "Regenerate the user's certificate"
+msgstr "صارف کا سرٹیفکیٹ دوبارہ بنائیں"
+
+msgid "Generate"
+msgstr "پیدا"
+
+msgid "Generate the user's certificate"
+msgstr "صارف کا سرٹیفکیٹ بنائیں"
+
+msgid "Current enrollment mode:"
+msgstr "موجودہ اندراج موڈ:"
+
+msgid "New enrollment mode:"
+msgstr "نیا داخلہ موڈ:"
+
+msgid "Reason for change:"
+msgstr "تبدیلی کا سبب:"
+
+msgid "Choose One"
+msgstr "ایک کا انتخاب کریں"
+
+msgid "Explain if other."
+msgstr "دوسری وضاحت کرو."
+
+msgid "Submit enrollment change"
+msgstr "داخلہ تبدیلی جمع کریں"
+
+msgid "Username or email address"
+msgstr "استعمال کنندہ کا نام یا ای میل پتہ"
+
+msgid "Course ID"
+msgstr "کورس کی شناخت"
+
+msgid "Course Start"
+msgstr "کورس شروع"
+
+msgid "Course End"
+msgstr "کورس اختتام"
+
+msgid "Upgrade Deadline"
+msgstr "آخری تاریخ کو اپ گریڈ کریں"
+
+msgid "Verification Deadline"
+msgstr "توثیق آخری وقت"
+
+msgid "Enrollment Date"
+msgstr "اندراج کی تاریخ"
+
+msgid "Enrollment Mode"
+msgstr "اندراج موڈ"
+
+msgid "Verified mode price"
+msgstr "تصدیق شدہ موڈ کی قیمت"
+
+msgid "Reason"
+msgstr "وجہ"
+
+msgid "Last modified by"
+msgstr "آخری ترمیم کردہ"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "Change Enrollment"
+msgstr "اندراج تبدیل کریں"
+
+msgid "Email"
+msgstr "ای میل"
+
+msgid "Date Joined"
+msgstr "تاریخ میں شامل"
+
+msgid "Password Status"
+msgstr "پاس ورڈ کی حیثیت"
+
+msgid "Disable Account"
+msgstr "اکاؤنٹ کو غیر فعال کریں"
+
+msgid "Your team could not be created."
+msgstr "آپ کی ٹیم پیدا نہیں کی جا سکتی."
+
+msgid "Your team could not be updated."
+msgstr "آپ کی ٹیم کو اپ ڈیٹ نہیں کیا جا سکا."
+
+msgid ""
+"Enter information to describe your team. You cannot change these details "
+"after you create the team."
+msgstr ""
+"اپنی ٹیم کی وضاحت کرنے کے لئے معلومات درج کریں. ٹیم بنانے کے بعد آپ ان "
+"تفصیلات کو تبدیل نہیں کرسکتے ہیں."
+
+msgid "Optional Characteristics"
+msgstr "اختیاری خصوصیات"
+
+msgid ""
+"Help other learners decide whether to join your team by specifying some "
+"characteristics for your team. Choose carefully, because fewer people might "
+"be interested in joining your team if it seems too restrictive."
+msgstr ""
+"دوسرے سیکھنے والوں میں مدد کریں کہ آپ کی ٹیم کے لئے کچھ خصوصیات کی وضاحت "
+"کرکے اپنی ٹیم میں شمولیت اختیار کرنا چاہے. احتیاط سے چنیں، کیونکہ کم از کم "
+"لوگ آپ کی ٹیم میں شامل ہونے میں دلچسپی رکھتے ہیں اگر یہ بہت محدود ہے."
+
+msgid "Create team."
+msgstr "ٹیم بنائیں"
+
+msgid "Update team."
+msgstr "اپ ڈیٹ ٹیم"
+
+msgid "Cancel team creating."
+msgstr "ٹیم بنانا منسوخ کریں."
+
+msgid "Cancel team updating."
+msgstr "ٹیم کو اپ ڈیٹ کرنا منسوخ کریں."
+
+msgid "Instructor tools"
+msgstr "انسٹریکٹر ٹولز"
+
+msgid "Delete Team"
+msgstr "ٹیم حذف کریں"
+
+msgid "Edit Membership"
+msgstr "رکنیت میں ترمیم کریں"
+
+msgid "Are you having trouble finding a team to join?"
+msgstr "کیا آپ کو کسی ٹیم میں شامل ہونے میں دشواری کا سامنا ہے؟"
+
+msgid "Join Team"
+msgstr "ٹیم میں شمولیت"
+
+msgid "Edit Team"
+msgstr "ٹیم میں ترمیم کریں"
+
+msgid "Team Details"
+msgstr "ٹیم کی تفصیلات"
+
+msgid "You are a member of this team."
+msgstr "آپ اس ٹیم کا رکن ہیں."
+
+msgid "Team member profiles"
+msgstr "ٹیم کے رکن پروفائلز"
+
+msgid "Team capacity"
+msgstr "ٹیم کی صلاحیت"
+
+msgid "The country that team members primarily identify with."
+msgstr "ملک جس ٹیم کے ارکان بنیادی طور پر شناخت کرتے ہیں."
+
+msgid ""
+"The language that team members primarily use to communicate with each other."
+msgstr ""
+"اس زبان کی ٹیم جس میں بنیادی طور پر ایک دوسرے کے ساتھ بات چیت کرنے کے لئے "
+"استعمال کرتا ہے."
+
+msgid "Leave Team"
+msgstr "ٹیم چھوڑ دو"
+
+msgid "Donate"
+msgstr "عطیہ"
+
+msgid ""
+"There was an error retrieving preview results for this catalog. Please check"
+" that your query is correct and try again."
+msgstr ""
+"اس کیٹلاگ کے لئے پیش نظارہ کے نتائج حاصل کرنے میں ایک غلطی تھی. براہ کرم چیک"
+" کریں کہ آپ کا سوال درست ہے اور دوبارہ کوشش کریں."
+
+msgid "This catalog's courses:"
+msgstr "یہ کیٹلاگ کورس:"
+
+msgid "Expand All"
+msgstr "تمام توسیع کریں"
+
+msgid "Collapse All"
+msgstr "سب کو ختم کرو"
+
+msgid "Unit"
+msgstr "یونٹ"
+
+msgid "Start Date"
+msgstr "شروع کرنے کی تاریخ"
+
+msgid "Due Date"
+msgstr "اخری تاریخ"
+
+msgid "remove all"
+msgstr "سب کو ہٹا دیں"
+
+msgid "toggle chapter %(displayName)s"
+msgstr "ٹگول باب٪ (ڈسپلے نام) s"
+
+msgid "Section"
+msgstr "سیکشن"
+
+msgid "Click to change"
+msgstr "تبدیل کرنے کے لئے کلک کریں"
+
+msgid "Remove chapter %(chapterDisplayName)s"
+msgstr "باب٪ (باب ڈسپلے نام) s ہٹا دیں"
+
+msgid "remove"
+msgstr "دور"
+
+msgid "toggle subsection %(displayName)s"
+msgstr "ٹگول سبسکرائب٪ (ڈسپلے نام) s"
+
+msgid "Subsection"
+msgstr "سبسکرائب"
+
+msgid "Remove subsection %(subsectionDisplayName)s"
+msgstr "سبسکرائب٪ (سبسکرائب ڈسپلے نام) کو ہٹا دیں"
+
+msgid "Remove unit %(unitName)s"
+msgstr "یونٹ٪ (یونٹ نام) s ہٹا دیں"
+
+msgid ""
+"You still need to visit the %(display_name)s website to complete the credit "
+"process."
+msgstr ""
+"آپ کو کریڈٹ کے عمل کو مکمل کرنے کیلئے ابھی بھی٪ (display_name) کی ویب سائٹ "
+"ملاحظہ کرنے کی ضرورت ہے."
+
+msgid ""
+"To finalize course credit, %(display_name)s requires %(platform_name)s "
+"learners to submit a credit request."
+msgstr ""
+"کورس کریڈٹ کو حتمی شکل دینے کے لئے،٪ (display_name) کی ضرورت ہے٪ "
+"(platform_name) سیکھنے والے کریڈٹ کی درخواست جمع کرنے کے لئے."
+
+msgid "Get Credit"
+msgstr "کریڈٹ حاصل کریں"
+
+msgid ""
+"Thank you %(full_name)s! We have received your payment for %(course_name)s."
+msgstr ""
+"شکریہ ((full_name) s! ہمیں٪ (course_name) s کے لئے آپ کی ادائیگی موصول ہوئی "
+"ہے."
+
+msgid ""
+"Please print this page for your records; it serves as your receipt. You will"
+" also receive an email with the same information."
+msgstr ""
+"براہ مہربانی اس ریکارڈ کو اپنے ریکارڈ کے لئے پرنٹ کریں؛ یہ آپ کی رسید کے طور"
+" پر کام کرتا ہے. آپ کو اسی معلومات کے ساتھ بھی ایک ای میل مل جائے گا."
+
+msgid "Order No."
+msgstr "آرڈر نمبر"
+
+msgid "Amount"
+msgstr "رقم"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Please Note"
+msgstr "براہ مہربانی نوٹ کریں"
+
+msgid "Crossed out items have been refunded."
+msgstr "کراس آؤٹ شدہ اشیاء واپس کردیے گئے ہیں."
+
+msgid "Billed to"
+msgstr "سے بل"
+
+msgid "No receipt available"
+msgstr "رسید دستیاب نہیں ہے"
+
+msgid "Go to Dashboard"
+msgstr "ڈیش بورڈ پر جائیں"
+
+msgid ""
+"If you don't verify your identity now, you can still explore your course "
+"from your dashboard. You will receive periodic reminders from {platformName}"
+" to verify your identity."
+msgstr ""
+"اگر آپ ابھی اپنی شناخت کی توثیق نہیں کرتے ہیں تو، آپ اپنے کورس کو اپنے ڈیش "
+"بورڈ سے بھی تلاش کرسکتے ہیں. اپنی شناخت کی توثیق کے لئے آپ {platformName} سے"
+" دور دراز یاد دہانی حاصل کریں گے."
+
+msgid "Want to confirm your identity later?"
+msgstr "بعد میں اپنی شناخت کی تصدیق کرنا چاہتے ہیں؟"
+
+msgid "Verify Now"
+msgstr "اب تصدیق کریں"
+
+msgid "Mark Exam As Completed"
+msgstr "مکمل طور پر نشان زد کریں"
+
+msgid "timed"
+msgstr "ٹائمز"
+
+msgid ""
+"To receive credit for problems, you must select \"Submit\" for each problem "
+"before you select \"End My Exam\"."
+msgstr ""
+"مسائل کے لۓ کریڈٹ حاصل کرنے کے لۓ، &quot;میری امتحان ختم کریں&quot; کو منتخب"
+" کرنے سے پہلے آپ کو ہر مسئلے کے لئے &quot;جمع کرائیں&quot; منتخب کرنا لازمی "
+"ہے."
+
+msgid "End My Exam"
+msgstr "میری امتحان ختم کریں"
+
+msgid "Hide Timer"
+msgstr "ٹائمر چھپائیں"
+
+msgid "LEARN MORE"
+msgstr "اورجانیے"
+
+msgid "Starts: %(start_date)s"
+msgstr "شروع ہوتا ہے:٪ (start_date) s"
+
+msgid "Starts"
+msgstr "شروع ہوتا ہے"
+
+msgid "Less"
+msgstr "کم"
+
+msgid "Clear All"
+msgstr "تمام کو صاف کریں"
+
+msgid "Highlighted text"
+msgstr "ہائی ٹیکڈ متن"
+
+msgid "Note"
+msgstr "نوٹ"
+
+msgid "You commented..."
+msgstr "آپ نے تبصرہ کیا ..."
+
+msgid "Noted in:"
+msgstr "میں نوٹ:"
+
+msgid "Last Edited:"
+msgstr "آخری ترمیم:"
+
+msgid "Tags:"
+msgstr "ٹیگز:"
+
+msgid "Clear search results"
+msgstr "تلاش کے نتائج صاف کریں"
+
+msgid "Click to edit"
+msgstr "ترمیم کرنے کے لئے کلک کریں"
+
+msgid "Order Number"
+msgstr "آرڈر نمبر"
+
+msgid "Date Placed"
+msgstr "تاریخ طے شدہ"
+
+msgid "Cost"
+msgstr "لاگت"
+
+msgid "Order Details"
+msgstr "آرڈر کی تفصیلات"
+
+msgid "for"
+msgstr "کے لئے"
+
+msgid "Product Name"
+msgstr "پروڈکٹ کا نام"
+
+msgid ""
+"{currentCountOpeningTag}{currentCharacterCount}{currentCountClosingTag} of "
+"{maxCharacters}"
+msgstr ""
+"{currentCountOpeningTag} {currentCharacterCount} {currentCountClosingTag} کا"
+" {maxCharacters}"
+
+msgid "Financial Assistance Application"
+msgstr "مالی معاونت کی درخواست"
+
+msgid "About You"
+msgstr "اپ کے بارے میں"
+
+msgid ""
+"The following information is already a part of your {platform} profile. "
+"We\\'ve included it here for your application."
+msgstr ""
+"مندرجہ ذیل معلومات آپ کے {پلیٹ فارم} پروفائل کا حصہ ہیں. ہم نے یہاں آپ کی "
+"درخواست کے لئے یہاں شامل کیا ہے."
+
+msgid "Email address"
+msgstr "ای میل اڈریس"
+
+msgid "Legal name"
+msgstr "قانونی نام"
+
+msgid "Country of residence"
+msgstr "قیام کا ملک"
+
+msgid "Back to {platform} FAQs"
+msgstr "واپس جائیں {پلیٹ فارم} سوالات"
+
+msgid "Submit Application"
+msgstr "درخواست جمع کرائیں"
+
+msgid ""
+"Thank you for submitting your financial assistance application for "
+"{course_name}! You can expect a response in 2-4 business days."
+msgstr ""
+"{course_name} کے لئے آپ کی مالی امداد کی درخواست جمع کرنے کے لئے آپ کا "
+"شکریہ! آپ 2-4 کاروباری دنوں میں جواب کی توقع کر سکتے ہیں."
+
+msgid "Bulk Exceptions"
+msgstr "بلک استثنا"
+
+msgid ""
+"Upload a comma separated values (.csv) file that contains the usernames or "
+"email addresses of learners who have been given exceptions. Include the "
+"username or email address in the first comma separated field. You can "
+"include an optional note describing the reason for the exception in the "
+"second comma separated field."
+msgstr ""
+"ایک کوما علیحدہ اقدار (.csv) فائل میں اپ لوڈ کریں جو سیکھنے والوں کے صارف "
+"نام یا ای میل ایڈریس پر مشتمل ہے جو استثنی دے دی گئی ہیں. پہلے کوما علیحدہ "
+"فیلڈ میں اسم رکنیت یا ای میل پتہ شامل کریں. آپ کو ایک کمانڈ علیحدہ فیلڈ میں "
+"استثنا کی وجہ سے بیان کی ایک اختیاری نوٹ شامل ہوسکتا ہے."
+
+msgid "Upload a CSV file"
+msgstr "ایک CSV فائل اپ لوڈ کریں"
+
+msgid "Browse"
+msgstr "براؤز کریں"
+
+msgid "Add to Exception List"
+msgstr "استثنائی فہرست میں شامل کریں"
+
+msgid ""
+"To invalidate a certificate for a particular learner, add the username or "
+"email address below."
+msgstr ""
+"ایک خاص سیکرٹری کے لئے ایک سرٹیفکیٹ کو باطل کرنے کے لئے، ذیل میں صارف کا نام"
+" یا ای میل پتہ شامل کریں."
+
+msgid "Add notes about this learner"
+msgstr "اس سیکھنے کے بارے میں نوٹ شامل کریں"
+
+msgid "Invalidate Certificate"
+msgstr "غلط سرٹیفکیٹ"
+
+msgid "Student"
+msgstr "طالب علم"
+
+msgid "Invalidated By"
+msgstr "کی طرف سے غلط"
+
+msgid "Invalidated"
+msgstr "غلط"
+
+msgid "Notes"
+msgstr "نوٹس"
+
+msgid "Remove from Invalidation Table"
+msgstr "غلطی کی میز سے ہٹا دیں"
+
+msgid "Individual Exceptions"
+msgstr "انفرادی استثناء"
+
+msgid ""
+"Enter the username or email address of each learner that you want to add as "
+"an exception."
+msgstr ""
+"ہر سیکھنے کا صارف نام یا ای میل پتہ داخل کریں جسے آپ کسی استثناء کے طور پر "
+"شامل کرنا چاہتے ہیں."
+
+msgid "Student email or username"
+msgstr "طالب علم کا ای میل یا صارف نام"
+
+msgid "Free text notes"
+msgstr "مفت ٹیکسٹ نوٹ"
+
+msgid "Generate Exception Certificates"
+msgstr "استثنا سرٹیفکیٹ بنائیں"
+
+msgid "All users on the Exception list who do not yet have a certificate"
+msgstr "استقبال کی فہرست پر تمام صارفین جو ابھی تک ایک سرٹیفکیٹ نہیں ہے"
+
+msgid "All users on the Exception list"
+msgstr "استقبال کی فہرست پر تمام صارفین"
+
+msgid "User Email"
+msgstr "صارف ای میل"
+
+msgid "Exception Granted"
+msgstr "استثنا عطا"
+
+msgid "Certificate Generated"
+msgstr "سرٹیفکیٹ تیار"
+
+msgid "Remove from List"
+msgstr "فہرست سے خارج کریں"
+
+msgid "Divided"
+msgstr "تقسیم"
+
+msgid "Selected tab"
+msgstr "منتخب کردہ ٹیب"
+
+msgid "Manage Learners"
+msgstr "سیکھنے کا انتظام کریں"
+
+msgid "Settings"
+msgstr "ترتیبات"
+
+msgid "Add learners to this cohort"
+msgstr "سیکھیں اس سکوٹر میں"
+
+msgid ""
+"Note: Learners can be in only one cohort. Adding learners to this group "
+"overrides any previous group assignment."
+msgstr ""
+"نوٹ: سیکھنے میں صرف ایک کوہٹ میں ہوسکتا ہے. اس گروپ میں سیکھنے والے کو کسی "
+"بھی پچھلے گروہ کے تفویض پر قابو پانے کی ضرورت ہے."
+
+msgid ""
+"Enter email addresses and/or usernames, separated by new lines or commas, "
+"for the learners you want to add. *"
+msgstr ""
+"ای میل ایڈریس اور / یا صارف ناموں کو درج کریں، نئی لائنوں یا کمانڈوں کے "
+"ذریعہ الگ ہوجائیں، سیکھنے والوں کے لئے آپ شامل کرنا چاہتے ہیں. *"
+
+msgid "(Required Field)"
+msgstr "(مطلوب خانہ)"
+
+msgid "e.g. johndoe@example.com, JaneDoe, joeydoe@example.com"
+msgstr "مثال کے طور پر johndoe@example.com، جین ڈو، joeydoe@example.com"
+
+msgid ""
+"You will not receive notification for emails that bounce, so double-check "
+"your spelling."
+msgstr ""
+"آپ کو ای میلز کے لئے نوٹیفیکیشن موصول نہیں ہوگی جسے اچھالنا ہے، لہذا آپ کی "
+"ہجے چیک کریں."
+
+msgid "Add Learners"
+msgstr "قارئین کو شامل کریں"
+
+msgid "Add a New Cohort"
+msgstr "نیا کوہٹ شامل کریں"
+
+msgid "Enter the name of the cohort"
+msgstr "کوورٹ کے نام درج کریں"
+
+msgid "Cohort Name"
+msgstr "کوہوٹر نام"
+
+msgid "Cohort Assignment Method"
+msgstr "کوورٹ تفویض کا طریقہ"
+
+msgid "Automatic"
+msgstr "خود کار طریقے سے"
+
+msgid "Manual"
+msgstr "دستی"
+
+msgid ""
+"There must be one cohort to which students can automatically be assigned."
+msgstr ""
+"وہاں ایک کوور ہونا لازمی ہے جس سے طالب علم خود کار طریقے سے تفویض کر سکیں."
+
+msgid "Associated Content Group"
+msgstr "ایسوسی ایشن مواد گروپ"
+
+msgid "No Content Group"
+msgstr "کوئی مواد گروپ نہیں"
+
+msgid "Select a Content Group"
+msgstr "ایک مواد گروپ منتخب کریں"
+
+msgid "Choose a content group to associate"
+msgstr "شریک کرنے کیلئے ایک مواد گروپ منتخب کریں"
+
+msgid "Not selected"
+msgstr "منتخب نہیں کیا گیا"
+
+msgid "Deleted Content Group"
+msgstr "حذف کردہ مواد گروپ"
+
+msgid ""
+"{screen_reader_start}Warning:{screen_reader_end} The previously selected "
+"content group was deleted. Select another content group."
+msgstr ""
+"{screen_reader_start} انتباہ: {screen_reader_end} پہلے منتخب کردہ مواد گروپ "
+"کو حذف کردیا گیا تھا. دوسرا مواد گروپ منتخب کریں."
+
+msgid ""
+"{screen_reader_start}Warning:{screen_reader_end} No content groups exist."
+msgstr ""
+"{screen_reader_start} انتباہ: {screen_reader_end} کوئی مواد گروپ موجود نہیں "
+"ہیں."
+
+msgid "Only the parent course staff of a CCX can create content groups."
+msgstr ""
+"سی سی ایکس کے صرف والدین کورس کے عملے کو مواد کے گروہوں کو تشکیل دے سکتا ہے."
+
+msgid "Create a content group"
+msgstr "ایک مواد گروپ بنائیں"
+
+msgid "(contains %(student_count)s student)"
+msgstr "(٪ (طالب علم کے مطابق) کے طالب علم پر مشتمل ہے"
+
+msgid ""
+"Learners are added to this cohort only when you provide their email "
+"addresses or usernames on this page."
+msgstr ""
+"اس کوہٹ میں اساتذہ میں شامل کیا جاتا ہے صرف اس وقت جب آپ اس صفحہ پر اپنا ای "
+"میل پتے یا صارف نام فراہم کرتے ہیں."
+
+msgid "What does this mean?"
+msgstr "اس کا کیا مطلب ہے؟"
+
+msgid "Learners are added to this cohort automatically."
+msgstr "اساتذہ خود کار طریقے سے شامل کردیئے جاتے ہیں."
+
+msgid "Select a cohort"
+msgstr "کوورٹ منتخب کریں"
+
+msgid "%(cohort_name)s (%(user_count)s)"
+msgstr "٪ (cohort_name) s (٪ (user_count) s)"
+
+msgid "Enable Cohorts"
+msgstr "کوورٹس کو فعال کریں"
+
+msgid "Select a cohort to manage"
+msgstr "انتظام کرنے کے لئے ایک ہیور کا انتخاب کریں"
+
+msgid "View Cohort"
+msgstr "کوہوٹ دیکھیں"
+
+msgid "Add Cohort"
+msgstr "کوہوٹ شامل کریں"
+
+msgid "Assign learners to cohorts by uploading a CSV file"
+msgstr "سی.پی.وی. فائل کو اپ لوڈ کرکے سیکھنے والوں کو تفویض کریں"
+
+msgid ""
+"To review learner cohort assignments or see the results of uploading a CSV "
+"file, download course profile information or cohort results on the "
+"{link_start}Data Download{link_end} page."
+msgstr ""
+"سیکھنے والے کوہوٹ تفویض کا جائزہ لیں یا CSV فائل اپ لوڈ کرنے کے نتائج "
+"دیکھیں، کورس پروفائل کی معلومات ڈاؤن لوڈ کریں یا کوورٹ کے نتائج {link_start}"
+" ڈیٹا ڈاؤن لوڈ {link_end} کے صفحے پر دیکھیں."
+
+msgid "Specify whether discussion topics are divided"
+msgstr "وضاحت کریں کہ بحث کے موضوعات تقسیم کیے جائیں گے"
+
+msgid "Course-Wide Discussion Topics"
+msgstr "کورس کے وسیع بحث موضوعات"
+
+msgid "Select the course-wide discussion topics that you want to divide."
+msgstr "کورس کے وسیع بحث کے موضوعات کو منتخب کریں جو آپ تقسیم کرنا چاہتے ہیں."
+
+msgid "Content-Specific Discussion Topics"
+msgstr "مواد - مخصوص بحث موضوعات"
+
+msgid "Specify whether content-specific discussion topics are divided."
+msgstr ""
+"اس بات کی وضاحت کریں کہ آیا متصف مخصوص بحث کے موضوعات تقسیم کیے گئے ہیں."
+
+msgid "Always divide content-specific discussion topics"
+msgstr "ہمیشہ مواد مخصوص بحث موضوعات تقسیم"
+
+msgid "Divide the selected content-specific discussion topics"
+msgstr "منتخب کردہ متخصص بحث بحث موضوعات تقسیم کریں"
+
+msgid "No content-specific discussion topics exist."
+msgstr "کوئی مواد مخصوص بحث کے موضوعات موجود نہیں ہیں."
+
+msgid "Code"
+msgstr "کوڈ"
+
+msgid "Used"
+msgstr "استعمال کیا جاتا ہے"
+
+msgid "Valid"
+msgstr "درست"
+
+msgid "Certificate Status:"
+msgstr "سرٹیفکیٹ کی حیثیت:"
+
+msgid "Certificate Purchased"
+msgstr "سرٹیفکیٹ خریدا"
+
+msgid "Change or Leave Session"
+msgstr "سیشن تبدیل یا چھوڑ دیں"
+
+msgid "You must select a session by {expiration_date} to access the course."
+msgstr ""
+"کورس تک رسائی کیلئے آپ کو {expiration_date} کے ذریعہ سیشن کا انتخاب کرنا "
+"ہوگا."
+
+msgid "You can no longer change sessions."
+msgstr "آپ مزید سیشن تبدیل نہیں کر سکتے ہیں."
+
+msgid "You can change sessions until {expiration_date}."
+msgstr "آپ {expiration_date} تک سیشن تبدیل کرسکتے ہیں."
+
+msgid "Final Grade"
+msgstr "حتمی گریڈ"
+
+msgid "for {courseName}"
+msgstr "{courseName} کے لئے"
+
+msgid "View Archived Course"
+msgstr "آرکائیوڈ کورس دیکھیں"
+
+msgid "View Course"
+msgstr "کورس دیکھیں"
+
+msgid "Select a session:"
+msgstr "ایک سیشن منتخب کریں:"
+
+msgid "Enroll Now"
+msgstr "ابھی نام درج کرائیں"
+
+msgid "Coming Soon"
+msgstr "جلد آ رہا ہے"
+
+msgid "Enrollment Opens on"
+msgstr "اندراج کھولتا ہے"
+
+msgid "Not Currently Available"
+msgstr "فی الحال دستیاب نہیں ہے"
+
+msgid "More sessions coming soon."
+msgstr "مزید سیشن جلد ہی آ رہے ہیں."
+
+msgid "Change to a different session or leave the current session."
+msgstr "مختلف سیشن میں تبدیل کریں یا موجودہ سیشن کو چھوڑ دیں."
+
+msgid "To access the course, select a session."
+msgstr "کورس تک پہنچنے کے لئے، ایک سیشن کا انتخاب کریں."
+
+msgid "Session Selection Dropdown for {courseName}"
+msgstr "{کورس نام} کیلئے سیشن کا انتخاب ڈراپ ڈاؤن"
+
+msgid "{sessionDates} - Currently Selected"
+msgstr "{sessiondates} - فی الحال منتخب کردہ"
+
+msgid "{sessionDates} (Open until {enrollmentEnd})"
+msgstr "{سیشن ڈییٹس} (تک کھولیں {اندراج اورینڈ)"
+
+msgid "More sessions coming soon"
+msgstr "مزید سیشن جلد ہی آ رہے ہیں"
+
+msgid "Leave the current session and decide later"
+msgstr "موجودہ سیشن چھوڑ دو اور بعد میں فیصلہ کرو"
+
+msgid "Change Session"
+msgstr "سیشن تبدیل کریں"
+
+msgid "Select Session"
+msgstr "سیشن کا انتخاب کریں"
+
+msgid "You are not enrolled in any programs yet."
+msgstr "آپ ابھی تک کسی بھی پروگرام میں داخل نہیں ہوئے ہیں."
+
+msgid "Explore Programs"
+msgstr "پروگراموں کا مطالعہ کریں"
+
+msgid ""
+"Browse recently launched courses and see what\\'s new in your favorite "
+"subjects"
+msgstr ""
+"حال ہی میں شروع شدہ کورس براؤز کریں اور دیکھیں کہ آپ کے پسندیدہ مضامین میں "
+"کیا نیا ہے"
+
+msgid "Explore New Programs"
+msgstr "نئے پروگراموں کا مطالعہ کریں"
+
+msgid "Course"
+msgstr "کورس"
+
+msgid "Completed"
+msgstr "مکمل"
+
+msgid "In Progress"
+msgstr "کام جاری ہے"
+
+msgid "Remaining"
+msgstr "باقی"
+
+msgid "%(programName)s Home Page."
+msgstr "٪ (پروگرام نام) کے ہوم پیج."
+
+msgid "Your {program} Certificate"
+msgstr "آپ {پروگرام} سرٹیفکیٹ"
+
+msgid "Open the certificate you earned for the %(title)s program."
+msgstr "آپ٪ (عنوان) کے پروگرام کے لئے حاصل کردہ سرٹیفکیٹ کھولیں."
+
+msgid "Congratulations!"
+msgstr "مبارک ہو!"
+
+msgid "Your Program Journey"
+msgstr "آپ کا پروگرام کا سفر"
+
+msgid ""
+"To complete the program, you must earn a verified certificate for each "
+"course."
+msgstr ""
+"پروگرام مکمل کرنے کے لئے، آپ کو ہر کورس کے لئے ایک تصدیق شدہ سرٹیفکیٹ حاصل "
+"کرنا ضروری ہے."
+
+msgid "Upgrade All Remaining Courses ("
+msgstr "باقی باقی کورسز کو اپ گریڈ کریں ("
+
+msgid "${listPrice}"
+msgstr "$ {فہرست قیمت}"
+
+msgid " ${price} {currency} )"
+msgstr "$ {قیمت} {کرنسی})"
+
+msgid "COURSES IN PROGRESS"
+msgstr "پیش رفت میں کورس"
+
+msgid "REMAINING COURSES"
+msgstr "منسوخ کرنے کے کورسز"
+
+msgid "COMPLETED COURSES"
+msgstr "مکمل کورسز"
+
+msgid "As you complete courses, you will see them listed here."
+msgstr "جب آپ کورس مکمل کرتے ہیں، تو آپ انہیں یہاں درج کریں گے."
+
+msgid ""
+"Complete courses on your schedule to ensure you stand out in your field!"
+msgstr ""
+"آپ کے میدان میں کھڑے ہونے کے یقینی بنانے کے لئے اپنے شیڈول پر مکمل کورسز!"
+
+msgid "{organization}\\'s logo"
+msgstr "{تنظیم} علامت (لوگو)}"
+
+msgid "Needs verified certificate "
+msgstr "تصدیق شدہ سرٹیفکیٹ کی ضرورت ہے"
+
+msgid "Upgrade to Verified"
+msgstr "تصدیق شدہ پر اپ گریڈ کریں"
+
+msgid "New Address"
+msgstr "نیا پتہ"
+
+msgid "Password"
+msgstr "پاس ورڈ"
+
+msgid "Change My Email Address"
+msgstr "میرا ای میل ایڈریس تبدیل کریں"
+
+msgid "Reset Password"
+msgstr "پاس ورڈ ری سیٹ"
+
+msgid "Account Settings"
+msgstr "اکاؤنٹ کی ترتیبات"
+
+msgid "An error occurred. Please reload the page."
+msgstr "ایک خرابی آگئی. براہ کرم صفحہ دوبارہ لوڈ کریں."
+
+msgid "Forgot password?"
+msgstr "پاسورڈ بھول گے؟"
+
+msgid "Sign in"
+msgstr "داخلہ"
+
+msgid "Would you like to sign in using your %(providerName)s credentials?"
+msgstr "کیا آپ اپنے٪ (providerName) کے اعتبار سے سائن ان کرنا چاہیں گے؟"
+
+msgid "Sign in using %(providerName)s"
+msgstr "٪ (providerName) کا استعمال کرتے ہوئے سائن ان کریں"
+
+msgid "or"
+msgstr "یا"
+
+msgid "Show me other ways to sign in or register"
+msgstr "مجھے سائن ان یا رجسٹر کرنے کے دوسرے طریقے دکھائیں"
+
+msgid "Sign in with Institution/Campus Credentials"
+msgstr "ادارے / کیمپس کے اعتبار سے سائن ان کریں"
+
+msgid "Choose your institution from the list below:"
+msgstr "مندرجہ ذیل فہرست سے اپنے ادارے کو منتخب کریں:"
+
+msgid "Back to sign in"
+msgstr "سائن ان کرنے کے لئے واپس"
+
+msgid "Register with Institution/Campus Credentials"
+msgstr "ادارے / کیمپس سندھ کے ساتھ رجسٹر کریں"
+
+msgid "Register through edX"
+msgstr "EDX کے ذریعے رجسٹر کریں"
+
+msgid "First time here?"
+msgstr "پہلی بار یہاں؟"
+
+msgid "Create an Account."
+msgstr "کھاتا کھولیں."
+
+msgid "Sign in to continue learning as {email}"
+msgstr "{ای میل} کے طور پر سیکھنے جاری رکھنے کیلئے سائن ان کریں"
+
+msgid "Sign in to continue learning"
+msgstr "سیکھنے جاری رکھنے کیلئے سائن ان کریں"
+
+msgid ""
+"You already have an edX account with your {enterprise_name} email address."
+msgstr ""
+"آپ کے پاس پہلے ہی آپ کے {enterprise_name} ای میل پتہ کے ساتھ ایک EDX اکاؤنٹ "
+"ہے."
+
+msgid ""
+"Going forward, your account information will be updated and maintained by "
+"{enterprise_name}."
+msgstr ""
+"آگے بڑھنا، آپ کا اکاؤنٹ کی معلومات {enterprise_name} کی طرف سے اپ ڈیٹ اور "
+"برقرار رکھا جائے گا."
+
+msgid ""
+"You can view your information or unlink from {enterprise_name} anytime in "
+"your Account Settings."
+msgstr ""
+"آپ اپنے اکاؤنٹ کی ترتیبات میں کسی بھی وقت {enterprise_name} سے اپنی معلومات "
+"کو دیکھ سکتے ہیں یا غیر فعال کرسکتے ہیں."
+
+msgid "To continue learning with this account, sign in below."
+msgstr "اس اکاؤنٹ کے ساتھ سیکھنے جاری رکھنے کے لئے، ذیل میں سائن ان کریں."
+
+msgid "Sign In"
+msgstr "داخلہ"
+
+msgid ""
+"Sign in here using your email address and password, or use one of the "
+"providers listed below."
+msgstr ""
+"یہاں آپ کے ای میل ایڈریس اور پاس ورڈ کا استعمال کرتے ہوئے سائن ان کریں، یا "
+"مندرجہ ذیل فراہم کردہ فراہم کنندہ میں سے ایک کا استعمال کریں."
+
+msgid "Sign in here using your email address and password."
+msgstr "اپنے ای میل پتہ اور پاس ورڈ کا استعمال کرکے یہاں سائن ان کریں."
+
+msgid "If you do not yet have an account, use the button below to register."
+msgstr ""
+"اگر آپ ابھی تک کوئی اکاؤنٹ نہیں ہے، تو رجسٹر کرنے کیلئے ذیل میں بٹن کا "
+"استعمال کریں."
+
+msgid "or sign in with"
+msgstr "یا سائن ان کریں"
+
+msgid "Sign in with %(providerName)s"
+msgstr "٪ (providerName) کے ساتھ سائن ان کریں"
+
+msgid "Use my institution/campus credentials"
+msgstr "میرے ادارے / کیمپس کی اسناد کا استعمال کریں"
+
+msgid "Password assistance"
+msgstr "پاس ورڈ کی مدد"
+
+msgid ""
+"Please enter your email address below and we will send you instructions for "
+"setting a new password."
+msgstr ""
+"براہ کرم ذیل میں اپنا ای میل پتہ درج کریں اور ہم ایک نیا پاس ورڈ ترتیب دینے "
+"کے لئے آپ کو ہدایات بھیجیں گے."
+
+msgid "Reset my password"
+msgstr "میرا پاس ورڈ دوبارہ ترتیب دیں"
+
+msgid "Already have an {platformName} account?"
+msgstr "پہلے سے ہی {platformName} اکاؤنٹ ہے؟"
+
+msgid "Sign in."
+msgstr "داخلہ."
+
+msgid "Create an account using"
+msgstr "استعمال کرتے ہوئے ایک اکاؤنٹ بنائیں"
+
+msgid "Create account using %(providerName)s."
+msgstr "٪ (فراہم کنندہ نام) کے ذریعے اکاؤنٹ بنائیں."
+
+msgid "or create a new one here"
+msgstr "یا یہاں ایک نئی تخلیق کریں"
+
+msgid "Create an Account"
+msgstr "کھاتا کھولیں"
+
+msgid "Support education research by providing additional information"
+msgstr "اضافی معلومات فراہم کر کے تعلیم کی تحقیقات کی حمایت کریں"
+
+msgid "Create Account"
+msgstr "اکاؤنٹ بنائیں"
+
+msgid "Congratulations! You are now verified on %(platformName)s!"
+msgstr "مبارک ہو! آپ ابھی٪ (پلیٹ فارم نام) پر تصدیق کر چکے ہیں!"
+
+msgid "You are now enrolled as a verified student for:"
+msgstr "آپ اب ایک تصدیق شدہ طالب علم کے طور پر اندراج کر رہے ہیں:"
+
+msgid "A list of courses you have just enrolled in as a verified student"
+msgstr ""
+"ایک تصدیق شدہ طالب علم کے طور پر آپ نے صرف اس کورس میں شامل ہونے والے کورسوں"
+" کی فہرست"
+
+msgid "Explore your course!"
+msgstr "اپنے کورس کا پتہ لگائیں!"
+
+msgid "Go to your Dashboard"
+msgstr "اپنے ڈیش بورڈ پر جائیں"
+
+msgid "Verified Status"
+msgstr "تصدیق شدہ حیثیت"
+
+msgid ""
+"Thank you for submitting your photos. We will review them shortly. You can "
+"now sign up for any %(platformName)s course that offers verified "
+"certificates. Verification is good for one year. After one year, you must "
+"submit photos for verification again."
+msgstr ""
+"آپ کی تصاویر جمع کرنے کے لئے شکریہ. ہم جلد ہی ان کا جائزہ لیں گے. اب آپ کسی "
+"بھی (پلیٹ فارم نام) کورس کے لئے سائن اپ کرسکتے ہیں جو تصدیق شدہ سرٹیفکیٹ پیش"
+" کرتا ہے. ایک سال کے لئے توثیق اچھا ہے. ایک سال کے بعد، آپ کو پھرثیق کے لئے "
+"تصاویر جمع کرنا ضروری ہے."
+
+msgid "Error:"
+msgstr "غلطی:"
+
+msgid "What You Need for Verification"
+msgstr "آپ کی توثیق کے لئے کیا ضرورت ہے"
+
+msgid "Webcam"
+msgstr "ویب کمیرہ"
+
+msgid ""
+"You need a computer that has a webcam. When you receive a browser prompt, "
+"make sure that you allow access to the camera."
+msgstr ""
+"آپ کو ایک کمپیوٹر کی ضرورت ہے جس میں ویب کیم ہے. جب آپ براؤزر کے فوری طور پر"
+" وصول کرتے ہیں، تو یقینی بنائیں کہ آپ کو کیمرے تک رسائی کی اجازت دیتی ہے."
+
+msgid "Photo Identification"
+msgstr "تصویر کی شناخت"
+
+msgid ""
+"You need a driver's license, passport, or other government-issued ID that "
+"has your name and photo."
+msgstr ""
+"آپ کو ایک ڈرائیور کا لائسنس، پاسپورٹ، یا دیگر حکومت سے جاری کردہ شناخت کی "
+"ضرورت ہے جو آپ کا نام اور تصویر ہے."
+
+msgid "Take Your Photo"
+msgstr "اپنی تصویر لے لو"
+
+msgid ""
+"When your face is in position, use the camera button {icon} below to take "
+"your photo."
+msgstr ""
+"جب آپ کا چہرہ پوزیشن میں ہے تو، آپ کی تصویر لینے کے لۓ کیمرے کے بٹن {icon} "
+"کو استعمال کریں."
+
+msgid "To take a successful photo, make sure that:"
+msgstr "کامیاب تصویر لینے کے لۓ، یہ یقینی بنائیں کہ:"
+
+msgid "Your face is well-lit."
+msgstr "تمہارا چہرہ اچھی طرح سے روشن ہے."
+
+msgid "Your entire face fits inside the frame."
+msgstr "آپ کا پورا چہرہ فریم کے اندر اندر فٹ بیٹھتا ہے."
+
+msgid "The photo of your face matches the photo on your ID."
+msgstr "آپ کے چہرے کی تصویر آپ کی شناخت پر تصویر سے ملتی ہے."
+
+msgid ""
+"To use the current photo, select the camera button {icon}. To take another "
+"photo, select the retake button {icon}."
+msgstr ""
+"موجودہ تصویر کا استعمال کرنے کیلئے، کیمرے کے بٹن {آئکن} کو منتخب کریں. ایک "
+"اور تصویر لینے کے لۓ، دوبارہ بٹن کو منتخب کریں {icon}."
+
+msgid "Frequently Asked Questions"
+msgstr "اکثر پوچھے گئے سوالات"
+
+msgid "Why does %(platformName)s need my photo?"
+msgstr "٪ (پلیٹ فارم نام) میری تصویر کی ضرورت کیوں ہے؟"
+
+msgid ""
+"As part of the verification process, you take a photo of both your face and "
+"a government-issued photo ID. Our authorization service confirms your "
+"identity by comparing the photo you take with the photo on your ID."
+msgstr ""
+"توثیق کے عمل کے حصے کے طور پر، آپ کو آپ کے چہرے اور ایک سرکاری طور پر جاری "
+"کردہ تصویر کی شناخت کی تصویر لگتی ہے. ہماری اجازت کی خدمت آپ کی شناخت کی "
+"تصویر کے ساتھ لے جانے والے تصویر کی موازنہ کرکے اپنی شناخت کی تصدیق کرتا ہے."
+
+msgid "What does %(platformName)s do with this photo?"
+msgstr "٪ (پلیٹ فارم نام) اس تصویر کے ساتھ کیا کرتا ہے؟"
+
+msgid ""
+"We use the highest levels of security available to encrypt your photo and "
+"send it to our authorization service for review. Your photo and information "
+"are not saved or visible anywhere on %(platformName)s after the verification"
+" process is complete."
+msgstr ""
+"ہم آپ کی تصویر کو خفیہ کاری کرنے کے لۓ دستیاب ترین سلامتی کے اعلی درجے کا "
+"استعمال کرتے ہیں اور جائزہ لینے کے لئے اپنی اجازت سروس میں بھیجتے ہیں. آپ کی"
+" تصویر اور معلومات کو تصدیق شدہ عمل مکمل ہونے کے بعد٪ (پلیٹ فارم نام) کی "
+"جانب سے کہیں بھی محفوظ نہیں ہے یا کہیں بھی نظر آتا ہے."
+
+msgid "Next: %(nextStepTitle)s"
+msgstr "اگلا:٪ (اگلے اسٹیٹ ٹیبلٹ) s"
+
+msgid "Take a Photo of Your ID"
+msgstr "اپنی شناخت کی تصویر لیں"
+
+msgid ""
+"Use your webcam to take a photo of your ID. We will match this photo with "
+"the photo of your face and the name on your account."
+msgstr ""
+"اپنی شناخت کی تصویر لینے کے لۓ اپنے ویب کیم کا استعمال کریں. ہم اس تصویر کو "
+"آپ کے چہرے کی تصویر اور آپ کے اکاؤنٹ پر نام سے ملیں گے."
+
+msgid ""
+"You need an ID with your name and photo. A driver's license, passport, or "
+"other government-issued IDs are all acceptable."
+msgstr ""
+"آپ کے نام اور تصویر کے ساتھ ایک شناخت کی ضرورت ہے. ایک ڈرائیور کا لائسنس، "
+"پاسپورٹ، یا دیگر حکومت سے جاری کردہ شناخت سب قابل قبول ہیں."
+
+msgid "Tips on taking a successful photo"
+msgstr "کامیاب تصویر لینے پر تجاویز"
+
+msgid "Ensure that you can see your photo and read your name"
+msgstr ""
+"یقینی بنائیں کہ آپ اپنی تصویر دیکھ سکتے ہیں اور اپنے نام کو پڑھ سکتے ہیں"
+
+msgid "Make sure your ID is well-lit"
+msgstr "یقینی بنائیں کہ آپ کی شناخت اچھی طرح سے روشن ہے"
+
+msgid "Once in position, use the camera button {icon} to capture your ID"
+msgstr ""
+"ایک بار پوزیشن میں، اپنی شناخت پر قبضہ کرنے کیلئے کیمرے کے بٹن {icon} کا "
+"استعمال کریں"
+
+msgid "Use the retake photo button if you are not pleased with your photo"
+msgstr "اگر آپ اپنی تصویر سے راضی نہ ہو تو دوبارہ تصویر کا بٹن استعمال کریں"
+
+msgid "Preview of uploaded image"
+msgstr "اپ لوڈ کردہ تصویر کا پیش نظارہ"
+
+msgid "Upload an image or capture one with your web or phone camera."
+msgstr ""
+"ایک تصویر اپ لوڈ کریں یا اپنے ویب یا فون کیمرے کے ساتھ ایک پر قبضہ کریں."
+
+msgid ""
+"Use your webcam to take a photo of your face. We will match this photo with "
+"the photo on your ID."
+msgstr ""
+"اپنے چہرے کی تصویر لینے کے لئے اپنے ویب کیم کا استعمال کریں. ہم اس تصویر سے "
+"آپ کی شناخت پر تصویر کے ساتھ ملیں گے."
+
+msgid "Make sure your face is well-lit"
+msgstr "یقینی بنائیں کہ آپ کا چہرہ اچھی طرح سے روشن ہے"
+
+msgid "Be sure your entire face is inside the frame"
+msgstr "اس بات کا یقین کرو کہ آپ کا پورا چہرہ فریم کے اندر ہے"
+
+msgid "Once in position, use the camera button {icon} to capture your photo"
+msgstr ""
+"ایک بار پوزیشن میں، اپنی تصویر پر قبضہ کرنے کیلئے کیمرے کے بٹن {icon} کا "
+"استعمال کریں"
+
+msgid "Can we match the photo you took with the one on your ID?"
+msgstr "کیا ہم اس تصویر سے مل سکتے ہیں جسے آپ نے اپنی شناخت پر لے لیا؟"
+
+msgid "Thanks for returning to verify your ID in: {courseName}"
+msgstr "اپنی ID کی توثیق کرنے میں واپس آنے کے لئے شکریہ: {courseName}"
+
+msgid ""
+"You need to activate your account before you can enroll in courses. Check "
+"your inbox for an activation email. After you complete activation you can "
+"return and refresh this page."
+msgstr ""
+"کورسز میں داخل ہونے سے پہلے آپ کو اپنے اکاؤنٹ کو چالو کرنے کی ضرورت ہے. ایک "
+"فعال ای میل کے لئے اپنے ان باکس کو چیک کریں. آپ کو چالو کرنے کے بعد آپ اس "
+"صفحے کو واپس لے سکتے ہیں اور تازہ کر سکتے ہیں."
+
+msgid "Activate Your Account"
+msgstr "اپنا اکاؤنٹ چالو کریں"
+
+msgid "Check Your Email"
+msgstr "اپنا ای میل چیک کریں"
+
+msgid "Photo ID"
+msgstr "تصویر کی شناخت"
+
+msgid ""
+"A driver's license, passport, or other government-issued ID with your name "
+"and photo"
+msgstr ""
+"آپ کے نام اور تصویر کے ساتھ ڈرائیور کا لائسنس، پاسپورٹ، یا دوسری حکومت سے "
+"جاری کردہ ID"
+
+msgid "You are enrolling in: {courseName}"
+msgstr "آپ ان میں داخلہ کر رہے ہیں: {courseName}"
+
+msgid "You are upgrading your enrollment for: {courseName}"
+msgstr "آپ اپنے اندراج کو اپ گریڈ کر رہے ہیں: {courseName}"
+
+msgid ""
+"You can now enter your payment information and complete your enrollment."
+msgstr ""
+"اب آپ اپنی ادائیگی کی معلومات درج کر سکتے ہیں اور اپنے اندراج کو مکمل کرسکتے"
+" ہیں."
+
+msgid ""
+"You can pay now even if you don't have the following items available, but "
+"you will need to have these by {date} to qualify to earn a Verified "
+"Certificate."
+msgstr ""
+"آپ اب ادائیگی کر سکتے ہیں یہاں تک کہ اگر آپ کے پاس مندرجہ ذیل آئٹم موجود "
+"نہیں ہیں، لیکن آپ کو {تصدیق شدہ} سند حاصل کرنے کے لۓ {تاریخ} کی طرف سے ان کو"
+" حاصل کرنے کی ضرورت ہوگی."
+
+msgid ""
+"An email has been sent to {userEmail} with a link for you to activate your "
+"account."
+msgstr ""
+"{ای میل ای میل} کو ایک ای میل بھیج دیا گیا ہے جو آپ کے اکاؤنٹ کو چالو کرنے "
+"کیلئے آپ کے لئے ایک لنک ہے."
+
+msgid "Why activate?"
+msgstr "چالو کیوں"
+
+msgid ""
+"We ask you to activate your account to ensure it is really you creating the "
+"account and to prevent fraud."
+msgstr ""
+"ہم آپ سے اپنے اکاؤنٹ کو چالو کرنے کے لۓ اس بات کو یقینی بنانا چاہتے ہیں کہ "
+"یہ واقعی آپ اکاؤنٹ بنائے اور دھوکہ دہی سے بچنے کے لۓ."
+
+msgid ""
+"You can pay now even if you don't have the following items available, but "
+"you will need to have these to qualify to earn a Verified Certificate."
+msgstr ""
+"آپ اب ادائیگی کر سکتے ہیں یہاں تک کہ اگر آپ کے پاس مندرجہ ذیل آئٹم موجود "
+"نہیں ہیں، لیکن آپ کو ان کو تصدیق شدہ سرٹیفکیٹ حاصل کرنے کے لۓ قابلیت حاصل "
+"کرنے کی ضرورت ہوگی."
+
+msgid "Government-Issued Photo ID"
+msgstr "حکومت نے شائع کردہ تصویر کی شناخت"
+
+msgid ""
+"ID-Verification is not required for this Professional Education course."
+msgstr "اس پروفیشنل تعلیم کے کورس کیلئے ID-Verification کی ضرورت نہیں ہے."
+
+msgid ""
+"All professional education courses are fee-based, and require payment to "
+"complete the enrollment process."
+msgstr ""
+"تمام پیشہ ورانہ تعلیم کے کورس فیس بنیاد پر ہیں، اور اندراج کے عمل کو مکمل "
+"کرنے کے لئے ادائیگی کی ضرورت ہوتی ہے."
+
+msgid "You have already verified your ID!"
+msgstr "آپ نے پہلے ہی آپ کی شناخت کی تصدیق کی ہے!"
+
+msgid "Your verification status is good until {verificationGoodUntil}."
+msgstr "آپ کی توثیق کی حیثیت {verificationGoodUntil} تک اچھا نہیں ہے."
+
+msgid "price"
+msgstr "قیمت"
+
+msgid "Account Not Activated"
+msgstr "اکاؤنٹ چالو نہیں"
+
+msgid "Upgrade to a Verified Certificate for {courseName}"
+msgstr "{courseName} کے لئے ایک تصدیق شدہ سرٹیفکیٹ پر اپ گریڈ کریں"
+
+msgid ""
+"Before you upgrade to a certificate track, you must activate your account."
+msgstr ""
+"ایک سرٹیفکیٹ ٹریک اپ گریڈ کرنے سے پہلے، آپ کو اپنا اکاؤنٹ چالو کرنا ضروری "
+"ہے."
+
+msgid "Check your email for an activation message."
+msgstr "چالو کرنے کے پیغام کے لئے اپنا ای میل چیک کریں."
+
+msgid "Professional Certificate for {courseName}"
+msgstr "{courseName} کے لئے پروفیشنل سرٹیفکیٹ"
+
+msgid "Verified Certificate for {courseName}"
+msgstr "{courseName} کیلئے تصدیق شدہ سرٹیفکیٹ"
+
+msgid ""
+"To receive a certificate, you must also verify your identity before {date}."
+msgstr ""
+"ایک سرٹیفکیٹ حاصل کرنے کے لئے، آپ {تاریخ} سے پہلے آپ کی شناخت کی بھی تصدیق "
+"کرنا ضروری ہے."
+
+msgid "To receive a certificate, you must also verify your identity."
+msgstr ""
+"ایک سرٹیفکیٹ حاصل کرنے کے لئے، آپ کو اپنی شناخت کی بھی تصدیق کرنا ضروری ہے."
+
+msgid ""
+"To verify your identity, you need a webcam and a government-issued photo ID."
+msgstr ""
+"اپنی شناخت کی توثیق کرنے کے لئے، آپ کو ایک ویب کیم اور ایک سرکاری طور پر "
+"جاری کردہ تصویر کی شناخت کی ضرورت ہے."
+
+msgid ""
+"Your ID must be a government-issued photo ID that clearly shows your face."
+msgstr ""
+"آپ کی شناخت سرکاری طور پر تصویر کی شناخت ہوگی جس سے آپ کا چہرہ ظاہر ہوتا ہے."
+
+msgid ""
+"You will use your webcam to take a picture of your face and of your "
+"government-issued photo ID."
+msgstr ""
+"آپ اپنے ویب کیم کا استعمال کرتے ہوئے آپ کے چہرے اور آپ کی حکومت سے جاری کردہ"
+" تصویر کی شناختی تصویر کا استعمال کریں گے."
+
+msgid "Thank you! We have received your payment for {courseName}."
+msgstr "آپ کا شکریہ! ہمیں {courseName} کے لئے آپ کی ادائیگی ملی ہے."
+
+msgid "Next Step: Confirm your identity"
+msgstr "اگلا قدم: اپنی شناخت کی تصدیق کریں"
+
+msgid "Check your email"
+msgstr "اپنا ای میل چیک کریں"
+
+msgid ""
+"You need to activate your account before you can enroll in courses. Check "
+"your inbox for an activation email."
+msgstr ""
+"کورسز میں داخل ہونے سے پہلے آپ کو اپنے اکاؤنٹ کو چالو کرنے کی ضرورت ہے. ایک "
+"فعال ای میل کے لئے اپنے ان باکس کو چیک کریں."
+
+msgid ""
+"A driver's license, passport, or government-issued ID with your name and "
+"photo."
+msgstr ""
+"آپ کے نام اور تصویر کے ساتھ ڈرائیور کا لائسنس، پاسپورٹ، یا حکومت سے جاری "
+"کردہ ID."
+
+msgid ""
+"If you don't verify your identity now, you can still explore your course "
+"from your dashboard. You will receive periodic reminders from "
+"%(platformName)s to verify your identity."
+msgstr ""
+"اگر آپ ابھی اپنی شناخت کی توثیق نہیں کرتے ہیں تو، آپ اپنے کورس کو اپنے ڈیش "
+"بورڈ سے بھی تلاش کرسکتے ہیں. آپ کی شناخت کی توثیق کے لئے آپ کو٪ "
+"(platformName) کی جانب سے باقاعدہ یاد دہانی ملے گی."
+
+msgid "Identity Verification In Progress"
+msgstr "ترقی میں شناخت کی توثیق"
+
+msgid ""
+"We have received your information and are verifying your identity. You will "
+"see a message on your dashboard when the verification process is complete "
+"(usually within 1-2 days). In the meantime, you can still access all "
+"available course content."
+msgstr ""
+"ہمیں آپ کی معلومات ملی ہے اور اپنی شناخت کی تصدیق کر رہے ہیں. جب آپ تصدیق "
+"شدہ عمل مکمل ہوجاتا ہے تو آپ اپنے ڈیش بورڈ پر ایک پیغام دیکھیں گے (عام طور "
+"پر 1-2 دن کے اندر اندر). اس دوران، آپ اب بھی دستیاب دستیاب کورس کے مواد تک "
+"رسائی حاصل کرسکتے ہیں."
+
+msgid "Return to Your Dashboard"
+msgstr "اپنے ڈیش بورڈ پر واپس جائیں"
+
+msgid "Review Your Photos"
+msgstr "اپنی تصاویر کا جائزہ لیں"
+
+msgid ""
+"Make sure we can verify your identity with the photos and information you "
+"have provided."
+msgstr ""
+"یقینی بنائیں کہ ہم آپ کی شناخت کی تصاویر اور معلومات فراہم کر سکتے ہیں جن سے"
+" آپ نے فراہم کی ہے."
+
+msgid "Photo of %(fullName)s"
+msgstr "تصویر کا٪ (مکمل نام) s"
+
+msgid "Photo of %(fullName)s's ID"
+msgstr "تصویر کا٪ (FullName) کی شناخت"
+
+msgid "Photo requirements:"
+msgstr "تصویر کی ضروریات:"
+
+msgid "Does the photo of you show your whole face?"
+msgstr "کیا آپ کی تصویر آپ کا پورا چہرہ دکھاتا ہے؟"
+
+msgid "Does the photo of you match your ID photo?"
+msgstr "کیا آپ کی تصویر آپ کی شناختی تصویر سے ملتی ہے؟"
+
+msgid "Is your name on your ID readable?"
+msgstr "کیا آپ کا نام آپ کے ID پر پڑھا جا سکتا ہے؟"
+
+msgid "Does the name on your ID match your account name: %(fullName)s?"
+msgstr "کیا آپ کی شناخت کا نام آپ کا اکاؤنٹ نام ہے:٪ (fullName) s؟"
+
+msgid "Edit Your Name"
+msgstr "اپنے نام میں ترمیم کریں"
+
+msgid ""
+"Make sure that the full name on your account matches the name on your ID."
+msgstr ""
+"اس بات کو یقینی بنائیں کہ آپ کے اکاؤنٹ پر مکمل نام آپ کے ID پر نام سے ملتا "
+"ہے."
+
+msgid "Photos don't meet the requirements?"
+msgstr "تصاویر ضروریات کو پورا نہیں کرتے؟"
+
+msgid "Retake Your Photos"
+msgstr "اپنی تصاویر حاصل کریں"
+
+msgid "Before proceeding, please confirm that your details match"
+msgstr ""
+"آگے بڑھنے سے پہلے، براہ کرم اس بات کی تصدیق کریں کہ آپ کی تفصیلات مماثلت ہے"
+
+msgid "Confirm"
+msgstr "تصدیق کریں"
+
+msgid ""
+"Don't see your picture? Make sure to allow your browser to use your camera "
+"when it asks for permission."
+msgstr ""
+"آپ کی تصویر نہیں دیکھی؟ اس بات کو یقینی بنائیں کہ آپ کے براؤزر کو اپنے کیمرے"
+" کا استعمال کرنے کی اجازت دی جاسکتی ہے."
+
+msgid "Live view of webcam"
+msgstr "ویب کیم کے لائیو منظر"
+
+msgid "Retake Photo"
+msgstr "تصویر دوبارہ لیں"
+
+msgid "Take Photo"
+msgstr "تصویر لو"
+
+msgid "Bookmarked on"
+msgstr "بک مارک پر"
+
+msgid "View"
+msgstr "دیکھیں"
+
+msgid "You have not bookmarked any courseware pages yet"
+msgstr "آپ نے ابھی تک کسی بھی مضامین کو بک مارک نہیں کیا ہے"
+
+msgid ""
+"Use bookmarks to help you easily return to courseware pages. To bookmark a "
+"page, click \"Bookmark this page\" under the page title."
+msgstr ""
+"آپ آسانی سے محکمہ صفحات پر واپس لوٹنے میں مدد کرنے کیلئے بک مارک استعمال "
+"کریں. ایک صفحہ بک مارک کرنے کے لئے، صفحے کے عنوان کے تحت &quot;اس صفحہ کو بک"
+" مارک کریں&quot; پر کلک کریں."
+
+msgid "Search Results"
+msgstr "تلاش کے نتائج"
+
+msgid "Load next {num_items} result"
+msgstr "اگلے {num_items} نتیجہ لوڈ کریں"
+
+msgid "Sorry, no results were found."
+msgstr "معذرت، کوئی نتیجہ نہیں مل سکا."
+
+msgid "There was an error, try searching again."
+msgstr "ایک خرابی تھی، دوبارہ تلاش کرنے کی کوشش کریں."
+
+msgid "Share your \"%(display_name)s\" award"
+msgstr "اپنے &quot;٪ (display_name) s&quot; کا اعزاز اشتراک کریں"
+
+msgid "Share"
+msgstr "بانٹیں"
+
+msgid "Earned %(created)s."
+msgstr "کمایا٪ (پیدا کردہ) s."
+
+msgid "What's Your Next Accomplishment?"
+msgstr "آپ کی اگلی سازش کیا ہے؟"
+
+msgid "Start working toward your next learning goal."
+msgstr "اپنے اگلے سیکھنے کے مقصد پر کام کرنا شروع کرو."
+
+msgid "Find a course"
+msgstr "ایک کورس تلاش کریں"
+
+msgid "You are currently sharing a limited profile."
+msgstr "آپ فی الحال محدود پروفائل کا اشتراک کر رہے ہیں."
+
+msgid "This learner is currently sharing a limited profile."
+msgstr "یہ سیکھنے فی الحال ایک محدود پروفائل کا اشتراک کر رہا ہے."
+
+msgid "Share on Mozilla Backpack"
+msgstr "موزیلا بیگ پر اشتراک کریں"
+
+msgid ""
+"To share your certificate on Mozilla Backpack, you must first have a "
+"Backpack account. Complete the following steps to add your certificate to "
+"Backpack."
+msgstr ""
+"موزیلالا بیگ پر اپنے سرٹیفکیٹ کا اشتراک کرنے کے لئے، آپ کو سب سے پہلے ایک "
+"بیگ اکاؤنٹ ہونا ضروری ہے. اپنے سرٹیفکیٹ بیک اپ پر شامل کرنے کیلئے مندرجہ ذیل"
+" اقدامات مکمل کریں."
+
+msgid ""
+"Create a %(link_start)sMozilla Backpack%(link_end)s account, or log in to "
+"your existing account"
+msgstr ""
+"اپنے اکاؤنٹ میں ایک٪ (link_start) sozozilla backpack٪ (link_end) کے اکاؤنٹ "
+"بنائیں، یا لاگ ان کریں"
+
+msgid ""
+"%(download_link_start)sDownload this image (right-click or option-click, "
+"save as)%(link_end)s and then %(upload_link_start)supload%(link_end)s it to "
+"your backpack.</li>"
+msgstr ""
+"٪ (download_link_start) اس تصویر کو ڈاؤن لوڈ کریں (دائیں کلک کریں یا آپشن "
+"کلک کریں، کے طور پر محفوظ کریں)٪ (link_end) s اور پھر٪ (upload_link_start) "
+"اپ لوڈ لوڈ کریں (link_end) اپنے بیگ پر. </li>"
+
+msgid "Add a New Allowance"
+msgstr "ایک نیا الاؤنس شامل کریں"
+
+msgid "Special Exam"
+msgstr "خصوصی امتحان"
+
+msgid " %(exam_display_name)s "
+msgstr "٪ (test_display_name) s"
+
+msgid "Exam Type"
+msgstr "امتحان کی قسم"
+
+msgid "Allowance Type"
+msgstr "الاؤنس کی قسم"
+
+msgid "Additional Time (minutes)"
+msgstr "اضافی وقت (منٹ)"
+
+msgid "Value"
+msgstr "قدر"
+
+msgid "minutes"
+msgstr "منٹ"
+
+msgid "Username or Email"
+msgstr "اسم رکنیت یا ای میل"
+
+msgid "Allowances"
+msgstr "الاؤنس"
+
+msgid "Add Allowance"
+msgstr "الاؤنس شامل کریں"
+
+msgid "Exam Name"
+msgstr "امتحان کے نام"
+
+msgid "Allowance Value"
+msgstr "الاؤنس ویلیو"
+
+msgid "Time Limit"
+msgstr "وقت کی حد"
+
+msgid "Started At"
+msgstr "شروع میں"
+
+msgid "Completed At"
+msgstr "مکمل پر"
+
+msgid " %(username)s "
+msgstr "٪ (صارف نام) s"
+
+msgid "Choose a course run:"
+msgstr "کورس چلائیں منتخب کریں:"

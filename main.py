@@ -61,7 +61,9 @@ def translate_file(lang, source_file_path, destination_folder, destination_name)
             po_dest.append(entry)
 
         check_count +=1
-        print "Chunk count: {}".format(check_count)
+        # print for debugging purposes. This is to check if data chunk translated.
+        # This is to avoid rate limit errors
+        # print "Chunk count: {}".format(check_count)
         if check_count % 17 == 0:
             sleep(101)
 

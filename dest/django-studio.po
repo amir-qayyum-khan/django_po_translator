@@ -1,0 +1,517 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Course team user does not exist"
+msgstr "کورس ٹیم کا صارف موجود نہیں ہے"
+
+msgid ""
+"The groups in this configuration can be mapped to cohorts in the Instructor "
+"Dashboard."
+msgstr ""
+"اس ترتیب میں گروپوں کو انسٹرکٹر ڈیش بورڈ میں کوٹ کرنے کے لئے نقشہ لگایا جا "
+"سکتا ہے."
+
+msgid "Content Groups"
+msgstr "مواد کے گروپ"
+
+msgid "invalid JSON"
+msgstr "غلط JSON"
+
+msgid "must have name of the configuration"
+msgstr "ترتیب کا نام ہونا ضروری ہے"
+
+msgid "must have at least one group"
+msgstr "کم سے کم ایک گروپ ہونا ضروری ہے"
+
+msgid "Invalid course update id."
+msgstr "غلط کورس اپ ڈیٹ ID."
+
+msgid "Course update not found."
+msgstr "کورس اپ ڈیٹ نہیں ملا."
+
+msgid "Could not index item: {}"
+msgstr "انڈیکس آئٹم نہیں کر سکا: {}"
+
+msgid "General indexing error occurred"
+msgstr "عمومی اشاریہ خرابی واقع ہوئی"
+
+msgid "(Unnamed)"
+msgstr "(ناممکن)"
+
+msgid ""
+"GIT_REPO_EXPORT_DIR not set or path {0} doesn't exist, please create it, or "
+"configure a different path with GIT_REPO_EXPORT_DIR"
+msgstr ""
+"GIT_REPO_EXPORT_DIR مقرر نہیں یا راستہ {0} موجود نہیں ہے، براہ کرم اسے تخلیق"
+" کریں یا GIT_REPO_EXPORT_DIR کے ساتھ مختلف راستے کو ترتیب دیں."
+
+msgid ""
+"Non writable git url provided. Expecting something like: "
+"git@github.com:mitocw/edx4edx_lite.git"
+msgstr ""
+"غیر قابل تحریر GIT یو آر ایل فراہم کی. جیسے کچھ توقع ہے: git@github.com: "
+"mitocw / edx4edx_lite.git"
+
+msgid ""
+"If using http urls, you must provide the username and password in the url. "
+"Similar to https://user:pass@github.com/user/course."
+msgstr ""
+"اگر http urls استعمال کرتے ہیں، تو آپ کو url میں صارف نام اور پاس ورڈ فراہم "
+"کرنا ہوگا. https: // صارف کی طرح: pass@github.com/user/course."
+
+msgid "Unable to determine branch, repo in detached HEAD mode"
+msgstr "برانچ کا تعین کرنے میں ناکام، الگ الگ ہیڈ موڈ میں ریپو"
+
+msgid "Unable to update or clone git repository."
+msgstr "Git ذخیرہ کو اپ ڈیٹ یا کلون کرنے میں ناکام."
+
+msgid "Unable to export course to xml."
+msgstr "xml پر کورس برآمد کرنے میں قاصر."
+
+msgid "Unable to configure git username and password"
+msgstr "Git صارف کا نام اور پاس ورڈ کو ترتیب دینے میں ناکام"
+
+msgid ""
+"Unable to commit changes. This is usually because there are no changes to be"
+" committed"
+msgstr ""
+"تبدیلیاں کرنے میں ناکام یہ عام طور پر ہے کیونکہ ارتکاب کرنے میں کوئی تبدیلی "
+"نہیں ہے"
+
+msgid ""
+"Unable to push changes.  This is usually because the remote repository "
+"cannot be contacted"
+msgstr ""
+"تبدیلیوں کو دھکا کرنے میں ناکام یہ عام طور پر ہے کیونکہ ریموٹ ذخیرہ سے رابطہ"
+" نہیں کیا جاسکتا ہے"
+
+msgid "Bad course location provided"
+msgstr "برا کورس مقام فراہم کیا"
+
+msgid "Missing branch on fresh clone"
+msgstr "تازہ کلون پر غائب برانچ"
+
+msgid ""
+"Take the specified course and attempt to export it to a git repository\n"
+". Course directory must already be a git repository. Usage:  git_export <course_loc> <git_url>"
+msgstr ""
+"مخصوص کورس کو لے لو اور اسے گیٹ ذخیرہ میں برآمد کرنے کی کوشش کریں. کورس "
+"ڈائریکٹری پہلے سے ہی ایک گیٹ ذخیرہ ہونا ضروری ہے. استعمال: git_export "
+"<course_loc><git_url>"
+
+msgid "Unknown User ID: {0}"
+msgstr "نامعلوم صارف کی شناخت: {0}"
+
+msgid "Permission denied"
+msgstr "اجازت نہیں دی گئی"
+
+msgid "We only support uploading a .tar.gz file."
+msgstr "ہم صرف ایک .tt.gz فائل اپ لوڈ کرنے کی حمایت کرتے ہیں."
+
+msgid "Tar file not found"
+msgstr "ٹار فائل نہیں ملا"
+
+msgid "Unsafe tar file. Aborting import."
+msgstr "غیر محفوظ ٹار فائل. درآمد درآمد"
+
+msgid "Could not find the {0} file in the package."
+msgstr "پیکیج میں {0} فائل نہیں مل سکی."
+
+msgid "Deleted Group"
+msgstr "حذف کردہ گروپ"
+
+msgid "{previous_groups}, {current_group}"
+msgstr "{previous_groups}، {current_group}"
+
+msgid "Upload completed"
+msgstr "اپ لوڈ مکمل"
+
+msgid ""
+"File {filename} exceeds maximum size of {maximum_size_in_megabytes} MB."
+msgstr ""
+"فائل {فائل نام} {maximum_size_in_megabytes} MB کے زیادہ سے زیادہ سائز سے "
+"زیادہ ہے."
+
+msgid "must have name of the certificate"
+msgstr "سرٹیفکیٹ کا نام ہونا ضروری ہے"
+
+msgid "Certificate dict {0} missing value key '{1}'"
+msgstr "سرٹیفیکیٹ ڈیم {0} قیمت کی قیمت لاپتہ &#39;{1}&#39;"
+
+msgid "PermissionDenied: Failed in authenticating {user}"
+msgstr "اجازت نامہ: {صارف} کی تصدیق کرنے میں ناکام"
+
+msgid "{platform_name} Support Levels:"
+msgstr "{platform_name} سپورٹ کی سطح:"
+
+msgid "HTML"
+msgstr "ایچ ٹی ایم ایل"
+
+msgid "Video"
+msgstr "ویڈیو"
+
+msgid "Blank"
+msgstr "غلط"
+
+msgid "Course has been successfully reindexed."
+msgstr "کورس کامیابی سے دوبارہ ترمیم کردی گئی ہے."
+
+msgid "Unscheduled"
+msgstr "ناپسندیدہ"
+
+msgid ""
+"Special characters not allowed in organization, course number, and course "
+"run."
+msgstr "تنظیم، کورس نمبر، اور کورس چلانے میں اجازت نہیں دی گئی مخصوص حروف."
+
+msgid ""
+"There is already a course defined with the same organization and course "
+"number. Please change either organization or course number to be unique."
+msgstr ""
+"اسی تنظیم اور کورس نمبر کے ساتھ پہلے سے ہی ایک کورس موجود ہے. براہ کرم کسی "
+"بھی تنظیم یا کورس نمبر کو منفرد بنانا تبدیل کریں."
+
+msgid ""
+"Please change either the organization or course number so that it is unique."
+msgstr "برائے مہربانی تنظیم یا کورس نمبر یا تو تبدیل کریں تاکہ یہ منفرد ہو."
+
+msgid ""
+"Unable to create course '{name}'.\n"
+"\n"
+"{err}"
+msgstr "کورس &#39;{نام}&#39; بنانے میں ناکام. {غلط}"
+
+msgid ""
+"You must link this course to an organization in order to continue. "
+"Organization you selected does not exist in the system, you will need to add"
+" it to the system"
+msgstr ""
+"جاری رکھنے کے لئے آپ کو اس کورس کو کسی تنظیم سے لنک کرنا ہوگا. آپ نے منتخب "
+"کردہ تنظیم نظام میں موجود نہیں ہے، آپ اسے نظام میں شامل کرنے کی ضرورت ہوگی"
+
+msgid "Invalid prerequisite course key"
+msgstr "غلط شرط کورس کی کلید"
+
+msgid "An error occurred while trying to save your tabs"
+msgstr "آپ کے ٹیب کو بچانے کی کوشش کرتے ہوئے ایک خرابی واقع ہوئی"
+
+msgid "Tabs Exception"
+msgstr "ٹیبز استثنا"
+
+msgid "This group configuration is in use and cannot be deleted."
+msgstr "یہ گروپ ترتیب استعمال میں ہے اور خارج نہیں کیا جاسکتا ہے."
+
+msgid "This content group is in use and cannot be deleted."
+msgstr "یہ مواد گروپ استعمال میں ہے اور خارج نہیں کیا جاسکتا ہے."
+
+msgid "Entrance Exam - Subsection"
+msgstr "داخلہ امتحان - سبسکرائب"
+
+msgid "Completed Course Entrance Exam"
+msgstr "مکمل کورس داخلہ امتحان"
+
+msgid "Course successfully exported to git repository"
+msgstr "کورس کو کامیابی سے گیٹ ذخیرہ میں برآمد کیا گیا"
+
+msgid "Vertical"
+msgstr "عمودی"
+
+msgid "File upload corrupted. Please try again"
+msgstr "فائل اپ لوڈ خراب ہوگئی. دوبارہ کوشش کریں"
+
+msgid "Invalid data"
+msgstr "غلط ڈیٹا"
+
+msgid "Invalid data ({details})"
+msgstr "غلط ڈیٹا ({تفصیلات})"
+
+msgid "You can not move {source_type} into {target_parent_type}."
+msgstr "آپ {source_type} کو {target_parent_type} میں منتقل نہیں کر سکتے ہیں."
+
+msgid "Item is already present in target location."
+msgstr "آئٹم ہدف کی جگہ میں پہلے ہی موجود ہے."
+
+msgid "You can not move an item into itself."
+msgstr "آپ خود کو کسی چیز کو منتقل نہیں کرسکتے."
+
+msgid "You can not move an item into it's child."
+msgstr "آپ اس کے بچے کو کسی چیز کو منتقل نہیں کر سکتے ہیں."
+
+msgid "You can not move an item directly into content experiment."
+msgstr "آپ آئٹم کو براہ راست مواد کے استعمال میں منتقل نہیں کر سکتے ہیں."
+
+msgid "{source_usage_key} not found in {parent_usage_key}."
+msgstr "{source_usage_key} {parent_usage_key} میں نہیں ملا."
+
+msgid ""
+"You can not move {source_usage_key} at an invalid index ({target_index})."
+msgstr ""
+"آپ {source_usage_key} کو ایک غیر معمولی انڈیکس ({target_index}) پر منتقل "
+"نہیں کرسکتے ہیں."
+
+msgid "You must provide target_index ({target_index}) as an integer."
+msgstr ""
+"آپ کو target_index ({target_index}) فراہم کرنا لازمی طور پر فراہم کرنا ہوگا."
+
+msgid "Duplicate of {0}"
+msgstr "{0} کا نقل"
+
+msgid "Duplicate of '{0}'"
+msgstr "&#39;{0}&#39; کا نقل"
+
+msgid ""
+"Students must score {score}{pct_sign} or higher to access course materials."
+msgstr ""
+"کورس کے مواد تک رسائی حاصل کرنے کیلئے طلباء {سکور} {pct_sign} یا اس سے زیادہ"
+" اسکور کرنا ضروری ہے."
+
+msgid "%"
+msgstr "٪"
+
+msgid "{section_or_subsection} \"{display_name}\""
+msgstr "{section_or_subsection} &quot;{display_name}&quot;"
+
+msgid "Unable to create library - missing required field '{field}'"
+msgstr "لائبریری بنانے میں ناکام - مطلوبہ فیلڈ &#39;{فیلڈ}&#39; لاپتہ ہے"
+
+msgid ""
+"Unable to create library '{name}'.\n"
+"\n"
+"{err}"
+msgstr "لائبریری &#39;{نام}&#39; بنانے میں ناکام. {غلط}"
+
+msgid ""
+"There is already a library defined with the same organization and library "
+"code. Please change your library code so that it is unique within your "
+"organization."
+msgstr ""
+"پہلے ہی اسی تنظیم اور لائبریری کوڈ کے ساتھ ایک لائبریری کی وضاحت کی گئی ہے. "
+"برائے مہربانی اپنے لائبریری کوڈ کو تبدیل کریں تاکہ یہ آپ کی تنظیم کے اندر "
+"منفرد ہے."
+
+msgid "Access restricted to: {list_of_groups}"
+msgstr "تک رسائی محدود: {list_of_groups}"
+
+msgid "The information you entered is incorrect."
+msgstr "آپ کی درج کردہ معلومات غلط ہے."
+
+msgid "The following parameters are required: {missing}."
+msgstr "مندرجہ ذیل پیرامیٹرز کی ضرورت ہے: {لاپتہ}."
+
+msgid "A transcript with the \"{language_code}\" language code already exists."
+msgstr ""
+"&quot;{language_code}&quot; زبان کا کوڈ پہلے سے موجود ہے کے ساتھ ایک نقل."
+
+msgid "A transcript file is required."
+msgstr "ایک نقل فائل کی ضرورت ہے."
+
+msgid ""
+"There is a problem with this transcript file. Try to upload a different "
+"file."
+msgstr ""
+"اس ٹرانسپٹ فائل کے ساتھ ایک مسئلہ ہے. ایک مختلف فائل اپ لوڈ کرنے کی کوشش "
+"کریں."
+
+msgid "Incoming video data is empty."
+msgstr "آنے والے ویڈیو ڈیٹا خالی ہے."
+
+msgid "Can't find item by locator."
+msgstr "لوکٹر کے ذریعے شے کو تلاش نہیں کر سکتا."
+
+msgid "Transcripts are supported only for \"video\" modules."
+msgstr "ٹرانپٹپٹ صرف &quot;ویڈیو&quot; کے ماڈیولز کے لئے حمایت کر رہے ہیں."
+
+msgid "Insufficient permissions"
+msgstr "ناکافی اجازت"
+
+msgid "Could not find user by email address '{email}'."
+msgstr "ای میل پتہ &#39;{ای میل}&#39; کے ذریعہ صارف کو نہیں مل سکا."
+
+msgid "No `role` specified."
+msgstr "کوئی `رول` متعین نہیں ہے."
+
+msgid "User {email} has registered but has not yet activated his/her account."
+msgstr ""
+"یوزر {ای میل} نے رجسٹرڈ کیا ہے لیکن ابھی تک ان کے اکاؤنٹ کو چالو نہیں کیا "
+"ہے."
+
+msgid "Invalid `role` specified."
+msgstr "غلط `رول` مخصوص."
+
+msgid "You may not remove the last Admin. Add another Admin first."
+msgstr "آپ آخری منتظم نہیں ہٹ سکتے ہیں. پہلے ایک اور ایڈمن شامل کریں."
+
+msgid "Uploading"
+msgstr "اپ لوڈ کرنا"
+
+msgid "In Progress"
+msgstr "کام جاری ہے"
+
+msgid "Ready"
+msgstr "تیار"
+
+msgid "Uploaded"
+msgstr "اپ لوڈ کردہ"
+
+msgid "Failed"
+msgstr "ناکام"
+
+msgid "Cancelled"
+msgstr "منسوخ"
+
+msgid "Failed Duplicate"
+msgstr "ناکام ہوگیا"
+
+msgid "YouTube Duplicate"
+msgstr "یو ٹیوب ڈپلیکیٹ"
+
+msgid "Invalid Token"
+msgstr "غلط ٹوکن"
+
+msgid "Imported"
+msgstr "درآمد"
+
+msgid "Unknown"
+msgstr "نامعلوم"
+
+msgid "Transcription in Progress"
+msgstr "پیش رفت میں ٹرانسمیشن"
+
+msgid "Transcript Ready"
+msgstr "ٹرانسکرپٹ تیار"
+
+msgid "The image must have name, content type, and size information."
+msgstr "تصویر کا نام، مواد کی نوعیت، اور سائز کی معلومات ہونا ضروری ہے."
+
+msgid ""
+"This image file type is not supported. Supported file types are "
+"{supported_file_formats}."
+msgstr ""
+"یہ تصویر فائل کی قسم کی حمایت نہیں کی جاتی ہے. معاون فائل کی اقسام "
+"{supported_file_formats} ہیں."
+
+msgid "This image file must be smaller than {image_max_size}."
+msgstr "یہ تصویر فائل {image_max_size} سے چھوٹا ہونا ضروری ہے."
+
+msgid "This image file must be larger than {image_min_size}."
+msgstr "یہ تصویر فائل {image_min_size} سے بڑا ہونا ضروری ہے."
+
+msgid ""
+"There is a problem with this image file. Try to upload a different file."
+msgstr ""
+"اس تصویر فائل کے ساتھ ایک مسئلہ ہے. ایک مختلف فائل اپ لوڈ کرنے کی کوشش کریں."
+
+msgid ""
+"Recommended image resolution is "
+"{image_file_max_width}x{image_file_max_height}. The minimum resolution is "
+"{image_file_min_width}x{image_file_min_height}."
+msgstr ""
+"سفارش کردہ تصویر قرارداد {image_file_max_width} x {image_file_max_height} "
+"ہے. کم از کم قرارداد {image_file_min_width} x {image_file_min_height} ہے."
+
+msgid ""
+"This image file must have an aspect ratio of "
+"{video_image_aspect_ratio_text}."
+msgstr ""
+"یہ تصویر فائل میں {video_image_aspect_ratio_text} کا پہلو تناسب ہونا ضروری "
+"ہے."
+
+msgid ""
+"The image file name can only contain letters, numbers, hyphens (-), and "
+"underscores (_)."
+msgstr ""
+"تصویر فائل کا نام صرف حروف، نمبر، ہائفینس (-)، اور اندراج (_) پر مشتمل "
+"ہوسکتا ہے."
+
+msgid "An image file is required."
+msgstr "ایک تصویر فائل کی ضرورت ہے."
+
+msgid "{profile_name} URL"
+msgstr "{profile_name} URL"
+
+msgid "Duration"
+msgstr "دورانیہ"
+
+msgid "Date Added"
+msgstr "تاریخ شامل"
+
+msgid "{course}_video_urls"
+msgstr "{کورس} _video_urls"
+
+msgid "unrequested"
+msgstr "ناقابل یقین"
+
+msgid "pending"
+msgstr "زیر التواء"
+
+msgid "granted"
+msgstr "عطا کی"
+
+msgid "denied"
+msgstr "انکار کر دیا"
+
+msgid "Studio user"
+msgstr "سٹوڈیو صارف"
+
+msgid "The date when state was last updated"
+msgstr "تاریخ جب آخری آخری اپ ڈیٹ کی گئی تھی"
+
+msgid "Current course creator state"
+msgstr "موجودہ کورس تخلیقی ریاست"
+
+msgid ""
+"Optional notes about this user (for example, why course creation access was "
+"denied)"
+msgstr ""
+"اس صارف کے بارے میں اختیاری نوٹ (مثلا، کیوں کورس تخلیقی رسائی سے انکار کر "
+"دیا گیا تھا)"
+
+msgid "Force Publish Course"
+msgstr "فورس شائع کریں کورس"
+
+msgid ""
+"Sometimes the draft and published branches of a course can get out of sync. "
+"Force publish course command resets the published branch of a course to "
+"point to the draft branch, effectively force publishing the course. This "
+"view dry runs the force publish command"
+msgstr ""
+"کبھی کبھی ایک کورس کے مسودہ اور شائع شاخوں ہم آہنگی سے باہر نکل سکتے ہیں. "
+"طاقت کا کورس کمانڈ کمانڈ نے ڈرافٹ شاخ کو اشارہ کرنے کے لئے ایک کورس کی شائع "
+"کردہ شاخ کو دوبارہ ترتیب دیتا ہے، مؤثر طریقے سے کورس شائع کرنے پر زور دیا "
+"ہے. یہ قول خشک طاقت اشاعت اشاعت کم کرتا ہے"
+
+msgid "Please provide course id."
+msgstr "براہ کرم کورس کی شناخت فراہم کریں."
+
+msgid "Invalid course key."
+msgstr "غلط کورس کی چابی."
+
+msgid "No matching course found."
+msgstr "کوئی مماثلت نہیں ملا."
+
+msgid "Force publishing course is not supported with old mongo courses."
+msgstr "پرانے منگو کورسوں کے ساتھ پبلک پبلشنگ کورس کی حمایت نہیں کی جاتی ہے."
+
+msgid "Course is already in published state."
+msgstr "کورس پہلے سے شائع ریاست میں ہے."
+
+msgid "Incorrect format for field '{name}'. {detailed_message}"
+msgstr "فیلڈ &#39;{نام}&#39; کے لئے غلط شکل. {تفصیلی_message}"
+
+msgid "Your Platform Studio"
+msgstr "آپ کے پلیٹ فارم سٹوڈیو"
+
+msgid "Studio"
+msgstr "سٹوڈیو"
+
+msgid "Dictionary with the available tags"
+msgstr "دستیاب ٹیگز کے ساتھ ڈکشنری"
+
+msgid "Studio Administration"
+msgstr "سٹوڈیو ایڈمنسٹریشن"

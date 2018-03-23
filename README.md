@@ -3,6 +3,8 @@ This tool uses google translator to translate msgid(s) in django PO file. You ca
 and folder or **.PO** file absolute location in the input and tool will provide you translated file(s) 
 in **dest** folder. 
 
+I used this tool to translate [edX](https://github.com/edx/edx-platform/) strings in urdu language. 
+
 #### Setup
 - For osx or linux only.
 - Install requirements by running command on console.
@@ -21,8 +23,8 @@ in **dest** folder.
 
 ```python
 (ven) amir$ python main.py
-Please input file or folder full path: /Users/source/sample # whole folder
-Please input target language i.e en for english: ur  # language code
+Please input file or folder full path: /Users/source/sample  # whole folder
+Please input target language i.e en for english: ur  # language code urdu selected
 ```
 
 #### Useful links

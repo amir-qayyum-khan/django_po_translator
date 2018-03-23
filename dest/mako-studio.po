@@ -1,0 +1,3063 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "The page that you were looking for was not found."
+msgstr "وہ صفحہ جو آپ تلاش کر رہے تھے وہ نہیں مل سکا."
+
+msgid ""
+"Go back to the {homepage} or let us know about any pages that may have been "
+"moved at {email}."
+msgstr ""
+"{ہوم پیج} پر واپس جائیں یا ہمیں کسی ایسے صفحات کے بارے میں بتائیں جو شاید ای"
+" میل پر منتقل ہوسکیں."
+
+msgid "{studio_name} Server Error"
+msgstr "{سٹوڈیو_ نام} سرور کی خرابی"
+
+msgid "The {em_start}{studio_name}{em_end} servers encountered an error"
+msgstr "{em_start} {studio_name} {em_end} سرورز نے ایک غلطی کا سامنا کیا"
+
+msgid ""
+"An error occurred in {studio_name} and the page could not be loaded. Please "
+"try again in a few moments."
+msgstr ""
+"{studio_name} میں ایک خرابی واقع ہوئی اور اس صفحے کو لوڈ نہیں کیا جا سکا. "
+"کچھ لمحے میں دوبارہ کوشش کریں."
+
+msgid ""
+"We've logged the error and our staff is currently working to resolve this "
+"error as soon as possible."
+msgstr ""
+"ہم نے غلطی کا اظہار کیا ہے اور اس وقت ہمارے عملے اس غلطی کو جلد از جلد حل "
+"کرنے کے لئے کام کر رہے ہیں."
+
+msgid "If the problem persists, please email us at {email_link}."
+msgstr "اگر مسئلہ جاری ہے تو، براہ مہربانی ہمیں {email_link} پر ای میل کریں."
+
+msgid "Studio Accessibility Policy"
+msgstr "سٹوڈیو تک رسائی کی پالیسی"
+
+msgid "{studio_name} Account Activation"
+msgstr "{studio_name} اکاؤنٹ کی سرگرمی"
+
+msgid "Your account is already active"
+msgstr "آپ کا اکاؤنٹ پہلے ہی فعال ہے"
+
+msgid ""
+"This account, set up using {email}, has already been activated. Please sign "
+"in to start working within {studio_name}."
+msgstr ""
+"یہ اکاؤنٹ، {ای میل} کا استعمال کرتے ہوئے قائم ہے، پہلے ہی چالو کر دیا گیا "
+"ہے. {سٹوڈیو_ نام} کے اندر کام کرنے کے لئے براہ کرم سائن ان کریں."
+
+msgid "Sign into {studio_name}"
+msgstr "{studio_name} میں سائن ان کریں"
+
+msgid "Your account activation is complete!"
+msgstr "آپ کے اکاؤنٹ کی سرگرمی مکمل ہو چکی ہے!"
+
+msgid ""
+"Thank you for activating your account. You may now sign in and start using "
+"{studio_name} to author courses."
+msgstr ""
+"اپنے اکاؤنٹ کو فعال کرنے کے لئے شکریہ. آپ اب سائن ان کر سکتے ہیں اور مصنف "
+"سٹوڈیوز {studio_name} کا استعمال کرتے ہوئے شروع کر سکتے ہیں."
+
+msgid "Your account activation is invalid"
+msgstr "آپ کے اکاؤنٹ کی سرگرمی غلط ہے"
+
+msgid ""
+"We're sorry. Something went wrong with your activation. Check to make sure "
+"the URL you went to was correct, as e-mail programs will sometimes split it "
+"into two lines."
+msgstr ""
+"ہم معذرت خواہ ہیں. آپ کی سرگرمی کے ساتھ کچھ غلط ہوا. اس بات کا یقین کرنے کے "
+"لئے چیک کریں کہ آپ جو URL چلا گیا تھا درست تھا، کیونکہ ای میل پروگرام کبھی "
+"کبھی اسے دو لائنوں میں تقسیم کرے گی."
+
+msgid ""
+"If you still have issues, contact {platform_name} Support. In the meantime, "
+"you can also return to {link_start}the {studio_name} homepage.{link_end}"
+msgstr ""
+"اگر آپ اب بھی مسائل ہیں تو {platform_name} سپورٹ سے رابطہ کریں. اس دوران، آپ"
+" {link_start} {studio_name} ہوم پیج پر بھی واپس جا سکتے ہیں. {link_end}"
+
+msgid "Files & Uploads"
+msgstr "فائلیں اور اپ لوڈ"
+
+msgid "Upload New File"
+msgstr "نئی فائل اپ لوڈ کریں"
+
+msgid "Help adding Files and Uploads"
+msgstr "فائلیں اور اپ لوڈ شامل کرنے میں مدد کریں"
+
+msgid "Adding Files for Your Course"
+msgstr "اپنے کورس کے لئے فائلوں کو شامل کرنا"
+
+msgid ""
+"To add files to use in your course, click {em_start}Upload New File{em_end}."
+" Then follow the prompts to upload a file from your computer."
+msgstr ""
+"اپنے کورس میں استعمال کرنے کیلئے فائلیں شامل کرنے کیلئے، {em_start} نئی فائل"
+" اپ لوڈ کریں {em_end} پر کلک کریں. اس کے بعد آپ کے کمپیوٹر سے ایک فائل اپ "
+"لوڈ کرنے کیلئے اشارے پر عمل کریں."
+
+msgid ""
+"{em_start}Caution{em_end}: {platform_name} recommends that you limit the "
+"file size to {em_start}10 MB{em_end}. In addition, do not upload video or "
+"audio files. You should use a third party service to host multimedia files."
+msgstr ""
+"{em_start} احتیاط {em_end}: {platform_name} کی تجویز ہے کہ آپ فائل کا سائز "
+"{em_start} 10 MB {em_end} پر محدود کریں. اس کے علاوہ، ویڈیو یا آڈیو فائلوں "
+"کو اپ لوڈ نہ کریں. ملٹی میڈیا فائلوں کی میزبانی کرنے کیلئے آپ کو تیسری پارٹی"
+" کی خدمت کا استعمال کرنا چاہئے."
+
+msgid ""
+"The course image, textbook chapters, and files that appear on your Course "
+"Handouts sidebar also appear in this list."
+msgstr ""
+"کورس کی تصویر، درسی کتاب باب، اور آپ کے کورس ہینڈ آؤٹ سائڈبار پر موجود "
+"فائلیں اس فہرست میں بھی موجود ہیں."
+
+msgid "Using File URLs"
+msgstr "فائل URL استعمال کرتے ہوئے"
+
+msgid ""
+"Use the {em_start}{studio_name} URL{em_end} value to link to the file or "
+"image from a component, a course update, or a course handout."
+msgstr ""
+"{em_start} {studio_name} یو آر ایل {em_end} کا قدر ایک جزو سے فائل یا تصویر "
+"سے رابطہ کرنے کے لئے استعمال کریں، کورس کا اپ ڈیٹ، یا کورس ہینڈ آؤٹ."
+
+msgid ""
+"Use the {em_start}Web URL{em_end} value to reference the file or image only "
+"from outside of your course. {em_start}Note:{em_end} If you lock a file, the"
+" Web URL no longer works for external access to a file."
+msgstr ""
+"آپ کے کورس کے باہر سے فائل یا تصویر کو حوالہ دینے کیلئے {em_start} ویب URL "
+"{em_end} قیمت کا استعمال کریں. {em_start} نوٹ: {em_end} اگر آپ کسی فائل کو "
+"تالا لگا دیتے ہیں تو، ویب یو آر ایل کو مزید فائل تک بیرونی رسائی کیلئے کام "
+"نہیں کرتا ہے."
+
+msgid ""
+"To copy a URL, double click the value in the URL column, then copy the "
+"selected text."
+msgstr ""
+"یو آر ایل کاپی کرنے کے لئے، یو آر ایل کالم میں قیمت پر کلک کریں، پھر منتخب "
+"متن کاپی کریں."
+
+msgid "Learn more about managing files"
+msgstr "فائلوں کے انتظام کے بارے میں مزید جانیں"
+
+msgid "close"
+msgstr "بند کریں"
+
+msgid "Max per-file size: {max_filesize}MB"
+msgstr "زیادہ سے زیادہ فی فائل کا سائز: {max_filesize} MB"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "Choose File"
+msgstr "فائل منتخب کریں"
+
+msgid "Your file has been deleted."
+msgstr "آپ کی فائل حذف کردی گئی ہے."
+
+msgid "close alert"
+msgstr "قریبی انتباہ"
+
+msgid "Course Certificates"
+msgstr "کورس سرٹیفکیٹس"
+
+msgid "Certificates"
+msgstr "سرٹیفکیٹس"
+
+msgid "This module is not enabled."
+msgstr "یہ ماڈیول فعال نہیں ہے."
+
+msgid "This course does not use a mode that offers certificates."
+msgstr "یہ کورس ایسے طریقوں کا استعمال نہیں کرتا جو سرٹیفکیٹ پیش کرتا ہے."
+
+msgid "Working with Certificates"
+msgstr "سرٹیفکیٹ کے ساتھ کام کرنا"
+
+msgid ""
+"Specify a course title to use on the certificate if the course's official "
+"title is too long to be displayed well."
+msgstr ""
+"سرٹیفکیٹ استعمال کرنے کے لئے ایک کورس کے عنوان کی وضاحت کریں اگر کورس کے "
+"سرکاری عنوان اچھی طرح سے ظاہر کرنے کے لئے بہت طویل ہے."
+
+msgid ""
+"For verified certificates, specify between one and four signatories and "
+"upload the associated images."
+msgstr ""
+"تصدیق شدہ سرٹیفکیٹس کے لئے، ایک اور چار دستخطوں کے درمیان وضاحت کریں اور "
+"منسلک تصاویر اپ لوڈ کریں."
+
+msgid ""
+"To edit or delete a certificate before it is activated, hover over the top "
+"right corner of the form and select {em_start}Edit{em_end} or the delete "
+"icon."
+msgstr ""
+"کسی بھی سرٹیفکیٹ سے پہلے کسی سرٹیفکیٹ کو ترمیم یا حذف کرنے کے لئے، فارم کے "
+"اوپر دائیں کنارے پر ہورائیں اور {em_start} کو ترمیم کریں {em_end} یا خارج "
+"ہونے والے آئکن کو منتخب کریں."
+
+msgid ""
+"To view a sample certificate, choose a course mode and select "
+"{em_start}Preview Certificate{em_end}."
+msgstr ""
+"نمونہ سرٹیفکیٹ دیکھنے کے لئے، کورس موڈ کا انتخاب کریں اور {em_start} پیش "
+"نظارہ سرٹیفیکیٹ {em_end} منتخب کریں."
+
+msgid "Issuing Certificates to Learners"
+msgstr "سیکھنے کے لئے سرٹیفیکیٹ جاری"
+
+msgid ""
+"To begin issuing course certificates, a course team member with either the "
+"Staff or Admin role selects {em_start}Activate{em_end}. Only course team "
+"members with these roles can edit or delete an activated certificate."
+msgstr ""
+"کورس کے سرٹیفکیٹ جاری کرنے کے لئے، اسٹاف یا ایڈمن کردار کے ساتھ ایک کورس ٹیم"
+" کے رکن {em_start} کو چالو کریں {em_end} کو منتخب کرتا ہے. صرف اس کورس کے "
+"ساتھ کورس ٹیم کے ارکان کو ایک فعال سرٹیفکیٹ میں ترمیم یا حذف کر سکتے ہیں."
+
+msgid ""
+"{em_start}Do not{em_end} delete certificates after a course has started; "
+"learners who have already earned certificates will no longer be able to "
+"access them."
+msgstr ""
+"{em_start} کورس کا آغاز کرنے کے بعد سرٹیفیکیٹ حذف نہیں کریں {em_end}؛ سیکھنے"
+" والوں نے جو پہلے سے ہی سرٹیفکیٹ حاصل کیے ہیں انہیں اب تک رسائی حاصل نہیں ہو"
+" گی."
+
+msgid "Learn more about certificates"
+msgstr "سرٹیفکیٹس کے بارے میں مزید جانیں"
+
+msgid "Other Course Settings"
+msgstr "دیگر کورس کی ترتیبات"
+
+msgid "Details &amp; Schedule"
+msgstr "تفصیلات اور شیڈول"
+
+msgid "Grading"
+msgstr "گریڈنگ"
+
+msgid "Course Team"
+msgstr "کورس ٹیم"
+
+msgid "Advanced Settings"
+msgstr "اعلی درجے کی ترتیبات"
+
+msgid "Group Configurations"
+msgstr "گروپ کی ترتیبات"
+
+msgid "Duplicate"
+msgstr "ڈپلیکیٹ"
+
+msgid "Duplicate this component"
+msgstr "اس جزوی کو نقل"
+
+msgid "Move"
+msgstr "اقدام"
+
+msgid "Delete"
+msgstr "حذف کریں"
+
+msgid "Delete this component"
+msgstr "اس جزو کو حذف کریں"
+
+msgid "Drag to reorder"
+msgstr "دوبارہ ترتیب دینے کے لئے ڈریگ کریں"
+
+msgid "Display Name"
+msgstr "ڈسپلے کا نام"
+
+msgid "Page Actions"
+msgstr "صفحہ اعمال"
+
+msgid "Open the courseware in the LMS"
+msgstr "LMS میں کورس کھولیں"
+
+msgid "View Live Version"
+msgstr "لائیو ورژن ملاحظہ کریں"
+
+msgid "Preview the courseware in the LMS"
+msgstr "LMS میں courseware پیش نظارہ"
+
+msgid "Preview"
+msgstr "پیش نظارہ"
+
+msgid "Adding components"
+msgstr "اجزاء کو شامل کرنا"
+
+msgid ""
+"Select a component type under {strong_start}Add New Component{strong_end}. "
+"Then select a template."
+msgstr ""
+"{strong_start} کے تحت ایک اجزاء کی قسم کا انتخاب کریں نیا اجزاء {strong_end}"
+" شامل کریں. پھر ایک ٹیمپلیٹ منتخب کریں."
+
+msgid ""
+"The new component is added at the bottom of the page or group. You can then "
+"edit and move the component."
+msgstr ""
+"صفحہ یا گروپ کے نچلے حصے میں نیا اجزاء شامل ہے. اس کے بعد آپ جزو کو ترمیم "
+"اور منتقل کر سکتے ہیں."
+
+msgid "Editing components"
+msgstr "اجزاء میں ترمیم کریں"
+
+msgid ""
+"Click the {strong_start}Edit{strong_end} icon in a component to edit its "
+"content."
+msgstr ""
+"اس مواد کو ترمیم کرنے کیلئے ایک مضبوط حصے میں {strong_start} ترمیم کریں "
+"{strong_end} آئکن پر کلک کریں."
+
+msgid "Reorganizing components"
+msgstr "اجزاء کو دوبارہ ترتیب دینا"
+
+msgid "Drag components to new locations within this component."
+msgstr "اس اجزاء کے اندر نئے مقامات پر اجزاء کو گھسیٹیں."
+
+msgid "For content experiments, you can drag components to other groups."
+msgstr "مواد کے استعمال کے لۓ، آپ اجزاء کو دیگر گروپوں میں گھسیٹ سکتے ہیں."
+
+msgid "Working with content experiments"
+msgstr "مواد کے استعمال کے ساتھ کام کرنا"
+
+msgid ""
+"Confirm that you have properly configured content in each of your experiment"
+" groups."
+msgstr ""
+"اس بات کی تصدیق کریں کہ آپ نے اپنے تجربات کے گروپوں میں مواد کو مناسب طریقے "
+"سے ترتیب دیا ہے."
+
+msgid "Learn more about component containers"
+msgstr "اجزاء کنٹینرز کے بارے میں مزید جانیں"
+
+msgid "Unit Location"
+msgstr "یونٹ مقام"
+
+msgid "Location ID"
+msgstr "مقام کی شناخت"
+
+msgid ""
+"To create a link to this unit from an HTML component in this course, enter "
+"\"/jump_to_id/<location ID>\" as the URL value."
+msgstr ""
+"اس کورس میں اس یونٹ میں ایک HTML جزو سے ایک لنک بنانا، &quot;/ jump_to_id / "
+"enter&quot; درج کریں. <location ID> &quot;یو آر ایل کی قیمت کے طور پر."
+
+msgid "Location in Course Outline"
+msgstr "کورس آؤٹ لائن میں مقام"
+
+msgid "Create a Course Rerun of:"
+msgstr "ایک کورس بنائیں Runun کے:"
+
+msgid "Create a re-run of a course"
+msgstr "ایک کورس کا دوبارہ حصہ بنائیں"
+
+msgid "Cancel"
+msgstr "منسوخ کریں"
+
+msgid "You are creating a re-run from:"
+msgstr "آپ دوبارہ دوبارہ چل رہے ہیں:"
+
+msgid ""
+"Provide identifying information for this re-run of the course. The original "
+"course is not affected in any way by a re-run."
+msgstr ""
+"اس کورس کے دوبارہ چلانے کے لئے شناختی معلومات فراہم کریں. اصل کورس کسی بھی "
+"طرح سے دوبارہ چلانے سے متاثر نہیں ہوتا ہے."
+
+msgid ""
+"Note: Together, the organization, course number, and course run must "
+"uniquely identify this new course instance."
+msgstr ""
+"نوٹ: ایک ساتھ ساتھ، تنظیم، کورس نمبر، اور کورس کی دوڑ کو منفرد طور پر اس نئے"
+" کورس کی مثال کی شناخت لازمی ہے."
+
+msgid "Required Information to Create a re-run of a course"
+msgstr "ایک کورس کے دوبارہ چلانے کے لئے ضروری معلومات"
+
+msgid "e.g. Introduction to Computer Science"
+msgstr "مثال کے طور پر کمپیوٹر سائنس کا تعارف"
+
+msgid ""
+"The public display name for the new course. (This name is often the same as "
+"the original course name.)"
+msgstr ""
+"نیا کورس کے لئے عوامی ڈسپلے کا نام. (یہ نام اصل کورس کا نام اکثر ہی ہے.)"
+
+msgid "Organization"
+msgstr "تنظیم"
+
+msgid "e.g. UniversityX or OrganizationX"
+msgstr "مثال کے طور پر یونیورسٹی ایکس یا تنظیم ایکس"
+
+msgid ""
+"The name of the organization sponsoring the new course. (This name is often "
+"the same as the original organization name.)"
+msgstr ""
+"تنظیم کا نام نیا کورس اسپانسر کر رہا ہے. (یہ نام اصل تنظیم کا نام اکثر ہے.)"
+
+msgid "Note: No spaces or special characters are allowed."
+msgstr "نوٹ: کوئی جگہ یا خاص حروف کی اجازت نہیں ہے."
+
+msgid "e.g. CS101"
+msgstr "مثال کے طور پر CS101"
+
+msgid ""
+"The unique number that identifies the new course within the organization.  "
+"(This number will be the same as the original course number and cannot be "
+"changed.)"
+msgstr ""
+"منفرد نمبر جو تنظیم کے اندر نئے کورس کی شناخت کرتا ہے. (یہ نمبر اصل کورس "
+"نمبر کے طور پر ہی ہو گا اور تبدیل نہیں کیا جاسکتا.)"
+
+msgid "Course Run"
+msgstr "کورس چلائیں"
+
+msgid "e.g. 2014_T1"
+msgstr "مثال کے طور پر 2014_T1"
+
+msgid ""
+"The term in which the new course will run. (This value is often different "
+"than the original course run value.)"
+msgstr ""
+"جس اصطلاح میں نیا کورس چلایا جائے گا. (یہ قیمت اکثر اصل کورس چلانے کی قیمت "
+"سے مختلف ہے.)"
+
+msgid "Create Re-run"
+msgstr "دوبارہ چلائیں"
+
+msgid "When will my course re-run start?"
+msgstr "میرا کورس کب دوبارہ شروع ہوگا؟"
+
+msgid "The new course is set to start on January 1, 2030 at midnight (UTC)."
+msgstr "یہ نیا کورس 1 جنوری 2030 ء کو آدھی رات (UTC) پر شروع کرنے کا ہے."
+
+msgid "What transfers from the original course?"
+msgstr "اصل کورس سے کیا منتقلی"
+
+msgid ""
+"The new course has the same course outline and content as the original "
+"course. All problems, videos, announcements, and other files are duplicated "
+"to the new course."
+msgstr ""
+"نیا کورس ایک ہی کورس کے طور پر اور مواد اصل کورس کے طور پر مواد ہے. تمام "
+"مسائل، ویڈیوز، اعلانات، اور دیگر فائلوں کو نئے کورس میں نقل کیا جاتا ہے."
+
+msgid "What does not transfer from the original course?"
+msgstr "اصل کورس سے کیا فرق نہیں ہے؟"
+
+msgid ""
+"You are the only member of the new course's staff. No students are enrolled "
+"in the course, and there is no student data. There is no content in the "
+"discussion topics or wiki."
+msgstr ""
+"آپ نئے کورس کے عملے کا واحد رکن ہیں. کوئی طالب علم اس کورس میں داخل نہیں ہوا"
+" ہے، اور طالب علم کے اعداد و شمار موجود نہیں ہیں. بحث کے موضوعات یا "
+"ویکیپیڈیا میں کوئی مواد نہیں ہے."
+
+msgid "Learn more about Course Re-runs"
+msgstr "کورس دوبارہ رن کے بارے میں مزید جانیں"
+
+msgid "Course Updates"
+msgstr "کورس کی تازہ ترین معلومات"
+
+msgid "New Update"
+msgstr "نیا اپ ڈیٹ"
+
+msgid ""
+"Use course updates to notify students of important dates or exams, highlight"
+" particular discussions in the forums, announce schedule changes, and "
+"respond to student questions. You add or edit updates in HTML."
+msgstr ""
+"اہم تاریخوں یا امتحانوں کے طالب علموں کو مطلع کرنے کے لئے کورس کے اپ ڈیٹس کا"
+" استعمال کریں، فورمز میں خاص بات چیت کو نمایاں کریں، شیڈول میں تبدیلیوں کا "
+"اعلان کریں اور طالب علم کے سوالات کا جواب دیں. آپ HTML میں اپ ڈیٹس شامل یا "
+"ترمیم کریں."
+
+msgid ""
+"This course was created as a re-run. Some manual configuration is needed."
+msgstr ""
+"یہ کورس دوبارہ چلانے کے طور پر تشکیل دیا گیا تھا. کچھ دستی ترتیب کی ضرورت "
+"ہے."
+
+msgid ""
+"No course content is currently visible, and no learners are enrolled. Be "
+"sure to review and reset all dates, including the Course Start Date; set up "
+"the course team; review course updates and other assets for dated material; "
+"and seed the discussions and wiki."
+msgstr ""
+"کوئی کورس کا مواد فی الحال نظر آتا ہے، اور سیکھنے والوں کو اندراج نہیں کیا "
+"جاتا ہے. کورس کے آغاز کی تاریخ بشمول تمام تاریخوں کا جائزہ لیں اور ری سیٹ "
+"کریں. کورس ٹیم قائم جائیداد کی تازہ ترین معلومات اور دیگر اثاثوں سے متعلق "
+"مواد کے لئے؛ اور بات چیت اور ویک بیج."
+
+msgid "Warning"
+msgstr "انتباہ"
+
+msgid "This course uses features that are no longer supported."
+msgstr ""
+"یہ کورس ایسے خصوصیات کا استعمال کرتی ہے جو اب مزید تعاون نہیں کر رہے ہیں."
+
+msgid "You must delete or replace the following components."
+msgstr "آپ کو مندرجہ ذیل اجزاء کو حذف یا تبدیل کرنا ضروری ہے."
+
+msgid "Unsupported Components"
+msgstr "غیر معاون اجزاء"
+
+msgid "Deprecated Component"
+msgstr "ناپسندیدہ اجزاء"
+
+msgid ""
+"To avoid errors, {platform_name} strongly recommends that you remove "
+"unsupported features from the course advanced settings. To do this, go to "
+"the {link_start}Advanced Settings page{link_end}, locate the \"Advanced "
+"Module List\" setting, and then delete the following modules from the list."
+msgstr ""
+"غلطیوں سے بچنے کے لئے، {platform_name} کو سختی سے مشورہ دیا جاتا ہے کہ آپ "
+"کورس کی اعلی درجے کی ترتیبات سے غیر فعال کردہ خصوصیات کو ہٹا دیں. ایسا کرنے "
+"کے لئے، {link_start} اعلی درجے کی ترتیبات کا صفحہ {link_end} پر جائیں، "
+"&quot;اعلی درجے کی ماڈیول کی فہرست&quot; کی ترتیب کو تلاش کریں، اور پھر درج "
+"ذیل ماڈیول کو حذف کریں."
+
+msgid "Unsupported Advance Modules"
+msgstr "غیر معاون ایڈوانس ماڈیولز"
+
+msgid "Click to add a new section"
+msgstr "نیا سیکشن شامل کرنے کے لئے کلک کریں"
+
+msgid "New Section"
+msgstr "نیا سیکشن"
+
+msgid "Reindex current course"
+msgstr "موجودہ کورس کا حوالہ دیتے ہیں"
+
+msgid "Reindex"
+msgstr "دوبارہ ترمیم کریں"
+
+msgid "Collapse All Sections"
+msgstr "تمام حصوں کو ختم کریں"
+
+msgid "Expand All Sections"
+msgstr "تمام حصوں کو کھولیں"
+
+msgid "Click to open the courseware in the LMS in a new tab"
+msgstr "نئے ٹیب میں LMS میں محکمہ کھولنے کے لئے کلک کریں"
+
+msgid "View Live"
+msgstr "لائیو دیکھیں"
+
+msgid "Edit Start Date"
+msgstr "شروع کی تاریخ میں ترمیم کریں"
+
+msgid "Course Pacing"
+msgstr "کورس Pacing"
+
+msgid "Self-Paced"
+msgstr "خود کی جگہ"
+
+msgid "Instructor-Paced"
+msgstr "انسٹریکٹر - پاس"
+
+msgid "Creating your course organization"
+msgstr "اپنا کورس تنظیم بنانا"
+
+msgid "You add sections, subsections, and units directly in the outline."
+msgstr "آپ براہ راست اس لائن میں حصوں، ضمنی حصے اور یونٹس شامل ہیں."
+
+msgid ""
+"Create a section, then add subsections and units. Open a unit to add course "
+"components."
+msgstr ""
+"ایک سیکشن بنائیں، پھر سبسکرائب کریں اور یونٹس شامل کریں. کورس اجزاء کو شامل "
+"کرنے کیلئے ایک یونٹ کھولیں."
+
+msgid "Reorganizing your course"
+msgstr "اپنے کورس کو دوبارہ منظم کرنا"
+
+msgid "Drag sections, subsections, and units to new locations in the outline."
+msgstr "لائن میں نئے مقامات پر حصوں، حصوں، اور یونٹس کو گھسیٹیں."
+
+msgid "Learn more about the course outline"
+msgstr "کورس کے آؤٹ لائن کے بارے میں مزید جانیں"
+
+msgid "Setting release dates and grading policies"
+msgstr "رہائی کی تاریخوں اور گریڈنگ پالیسیوں کی ترتیب"
+
+msgid ""
+"Select the Configure icon for a section or subsection to set its release "
+"date. When you configure a subsection, you can also set the grading policy "
+"and due date."
+msgstr ""
+"اس کی رہائی کی تاریخ مقرر کرنے کے لئے ایک سیکشن یا سبسکرائب کے لئے ترتیب "
+"آئیکٹر منتخب کریں. جب آپ سبسکرائب کرتے ہیں تو، آپ گریڈنگ کی پالیسی اور اس کی"
+" تاریخ بھی مقرر کر سکتے ہیں."
+
+msgid "Learn more about grading policy settings"
+msgstr "گریڈنگ پالیسی کی ترتیبات کے بارے میں مزید جانیں"
+
+msgid "Changing the content learners see"
+msgstr "مواد سیکھنے والے کو تبدیل کرنا پڑتا ہے"
+
+msgid ""
+"To publish draft content, select the Publish icon for a section, subsection,"
+" or unit."
+msgstr ""
+"مسودہ کے مواد شائع کرنے کے لئے، ایک سیکشن، سبسکرائب، یا یونٹ کے لئے شائع "
+"آئکن منتخب کریں."
+
+msgid ""
+"To make a section, subsection, or unit unavailable to learners, select the "
+"Configure icon for that level, then select the appropriate "
+"{em_start}Hide{em_end} option. Grades for hidden sections, subsections, and "
+"units are not included in grade calculations."
+msgstr ""
+"سیکشنرز کے لئے دستیاب ایک سیکشن، سبسکرائب یا یونٹ بنانے کے لئے، اس سطح کے "
+"لئے ترتیب آئکن کو منتخب کریں، پھر مناسب {em_start} چھپائیں {em_end} اختیار "
+"کو منتخب کریں. پوشیدہ حصوں، سبسڈیوں اور یونٹس کے لئے گریڈیں گریڈ کی حساب میں"
+" شامل نہیں ہیں."
+
+msgid ""
+"To hide the content of a subsection from learners after the subsection due "
+"date has passed, select the Configure icon for a subsection, then select "
+"{em_start}Hide content after due date{em_end}. Grades for the subsection "
+"remain included in grade calculations."
+msgstr ""
+"سبسکرائب ہونے والے تاریخ کی تاریخ کے بعد سبسکرائب کرنے والے مواد کو چھپانے "
+"کے لئے، سبسکرائب کے لئے ترتیب آئیکٹر منتخب کریں، پھر {em_start} منتخب تاریخ "
+"{em_end} کے بعد مواد چھپائیں. سبسکرائب کے لئے گریڈیں گریڈ کی حساب میں شامل "
+"ہیں."
+
+msgid "Learn more about content visibility settings"
+msgstr "مواد کی نمائش کی ترتیبات کے بارے میں مزید جانیں"
+
+msgid "Pages"
+msgstr "صفحات"
+
+msgid "New Page"
+msgstr "نیا صفحہ"
+
+msgid ""
+"Note: Pages are publicly visible. If users know the URL of a page, they can "
+"view the page even if they are not registered for or logged in to your "
+"course."
+msgstr ""
+"نوٹ: صفحات عام طور پر نظر آتے ہیں. اگر صارف کسی صفحہ کے URL کو جانتا ہے، تو "
+"وہ صفحہ دیکھ سکتے ہیں یہاں تک کہ اگر وہ آپ کے کورس میں رجسٹرڈ یا لاگ ان نہیں"
+" ہوتے ہیں."
+
+msgid "Show this page"
+msgstr "اس صفحہ کو دکھائیں"
+
+msgid "Show/hide page"
+msgstr "صفحہ دکھائیں / چھپائیں"
+
+msgid "This page cannot be reordered"
+msgstr "یہ صفحہ دوبارہ ترتیب نہیں دیا جا سکتا"
+
+msgid "You can add additional custom pages to your course."
+msgstr "آپ اپنے کورس میں اضافی اپنی مرضی کے صفحات شامل کر سکتے ہیں."
+
+msgid "Add a New Page"
+msgstr "نیا صفحہ شامل کریں"
+
+msgid "What are pages?"
+msgstr "صفحات کیا ہیں؟"
+
+msgid ""
+"Pages are listed horizontally at the top of your course. Default pages "
+"(Home, Course, Discussion, Wiki, and Progress) are followed by textbooks and"
+" custom pages that you create."
+msgstr ""
+"صفحات آپ کے کورس کے اوپر افقی طور پر درج کی جاتی ہیں. پہلے سے طے شدہ صفحات "
+"(ہوم، کورس، بحث، وکیپیڈیا اور ترقی) اس کے بعد درکار کتابیں اور اپنی مرضی کے "
+"مطابق صفحات ہیں جنہیں آپ تخلیق کرتے ہیں."
+
+msgid "Custom pages"
+msgstr "اپنی مرضی کے صفحات"
+
+msgid ""
+"You can create and edit custom pages to provide students with additional "
+"course content. For example, you can create pages for the grading policy, "
+"course slides, and a course calendar. "
+msgstr ""
+"اضافی نصاب کے مواد کے ساتھ طالب علموں کو فراہم کرنے کے لئے آپ اپنی مرضی کے "
+"صفحات تخلیق اور ترمیم کرسکتے ہیں. مثال کے طور پر، آپ گریڈنگ پالیسی، کورس "
+"سلائڈز، اور ایک کورس کیلنڈر کے لئے صفحات بنا سکتے ہیں."
+
+msgid "How do pages look to students in my course?"
+msgstr "صفحات اپنے کورس میں طالب علموں کو کس طرح دیکھتے ہیں؟"
+
+msgid ""
+"Students see the default and custom pages at the top of your course and use "
+"these links to navigate."
+msgstr ""
+"طالب علم اپنے کورس کے سب سے اوپر پر ڈیفالٹ اور اپنی مرضی کے مطابق صفحات "
+"دیکھتے ہیں اور ان لنکس کو نیویگیشن کرنے کے لئے استعمال کرتے ہیں."
+
+msgid "See an example"
+msgstr "ایک مثال دیکھیں"
+
+msgid "Pages in Your Course"
+msgstr "آپ کے کورس میں صفحات"
+
+msgid "Preview of Pages in your course"
+msgstr "اپنے کورس میں صفحات کا پیش نظارہ"
+
+msgid ""
+"Pages appear in your course's top navigation bar. The default pages (Home, "
+"Course, Discussion, Wiki, and Progress) are followed by textbooks and custom"
+" pages."
+msgstr ""
+"صفحات آپ کے کورس کے سب سے اوپر نیویگیشن بار میں ظاہر ہوتے ہیں. پہلے سے طے "
+"شدہ صفحات (ہوم، کورس، بحث، وکیپیڈیا اور پیش رفت) کے بعد درسی کتابوں اور اپنی"
+" مرضی کے مطابق صفحات ہیں."
+
+msgid "close modal"
+msgstr "قریبی موڈل"
+
+msgid "Internal Server Error"
+msgstr "اندرونی سرور کی خرابی"
+
+msgid "The Page You Requested Page Cannot be Found"
+msgstr "آپ کا مطلوب پیج پایا جا سکتا ہے"
+
+msgid ""
+"We're sorry. We couldn't find the {studio_name} page you're looking for. You"
+" may want to return to the {studio_name} Dashboard and try again. If you are"
+" still having problems accessing things, please feel free to "
+"{link_start}contact {studio_name} support{link_end} for further help."
+msgstr ""
+"ہم معذرت خواہ ہیں. ہم {سٹوڈیو_نام} کے صفحے کو تلاش نہیں کرسکتے جنہیں آپ تلاش"
+" کر رہے ہیں. آپ {studio_name} ڈیش بورڈ پر واپس آنا چاہتے ہیں اور دوبارہ کوشش"
+" کریں گے. اگر آپ ابھی تک چیزوں تک رسائی حاصل کرنے میں دشوار ہیں تو، براہ کرم"
+" مزید مدد کیلئے {link_start} رابطہ {سٹوڈیو_ نام} کی حمایت {link_end} پر مفت "
+"محسوس کریں."
+
+msgid "The Server Encountered an Error"
+msgstr "سرور نے غلطی کا سامنا کیا"
+
+msgid ""
+"We're sorry. There was a problem with the server while trying to process "
+"your last request. You may want to return to the {studio_name} Dashboard or "
+"try this request again. If you are still having problems accessing things, "
+"please feel free to {link_start}contact {studio_name} support{link_end} for "
+"further help."
+msgstr ""
+"ہم معذرت خواہ ہیں. آپ کی آخری درخواست پر عملدرآمد کرنے کے دوران سرور کے ساتھ"
+" ایک مسئلہ تھا. آپ {سٹوڈیو_نام} ڈیش بورڈ پر واپس آنا چاہتے ہیں یا دوبارہ اس "
+"درخواست کی کوشش کر سکتے ہیں. اگر آپ ابھی تک چیزوں تک رسائی حاصل کرنے میں "
+"دشوار ہیں تو، براہ کرم مزید مدد کیلئے {link_start} رابطہ {سٹوڈیو_ نام} کی "
+"حمایت {link_end} پر مفت محسوس کریں."
+
+msgid "Back to dashboard"
+msgstr "واپس ڈیش بورڈ پر"
+
+msgid "Library Export"
+msgstr "لائبریری برآمد"
+
+msgid "Course Export"
+msgstr "کورس ایکسپورٹ"
+
+msgid "Tools"
+msgstr "اوزار"
+
+msgid "About Exporting Libraries"
+msgstr "لائبریریوں کو برآمد کرنے کے بارے میں"
+
+msgid ""
+"You can export libraries and edit them outside of {studio_name}. The "
+"exported file is a .tar.gz file (that is, a .tar file compressed with GNU "
+"Zip) that contains the library structure and content. You can also re-import"
+" libraries that you've exported."
+msgstr ""
+"آپ لائبریریوں کو برآمد کر سکتے ہیں اور انہیں {سٹوڈیو_ نام} سے باہر لے سکتے "
+"ہیں. برآمد شدہ فائل ایک .tt.gz فائل ہے (یہ، جی این یو زپ کے ساتھ ایک .تر "
+"فائل کمپریسڈ ہے) جس میں لائبریری کی ساخت اور مواد شامل ہے. آپ لائبریریوں کو "
+"بھی دوبارہ درآمد کرسکتے ہیں جو آپ نے برآمد کیا ہے."
+
+msgid "About Exporting Courses"
+msgstr "ایکسپورٹ کورسز کے بارے میں"
+
+msgid ""
+"You can export courses and edit them outside of {studio_name}. The exported "
+"file is a .tar.gz file (that is, a .tar file compressed with GNU Zip) that "
+"contains the course structure and content. You can also re-import courses "
+"that you've exported."
+msgstr ""
+"آپ کورسز برآمد کر سکتے ہیں اور انہیں {سٹوڈیو_ نام} سے باہر لے سکتے ہیں. "
+"برآمد شدہ فائل ایک .tt.gz فائل ہے (یہ، جی این یو زپ کے ساتھ ایک .ٹار فائل "
+"کمپریسڈ ہے) جس میں کورس کی ساخت اور مواد شامل ہے. آپ بھی برآمد کردہ کورسوں "
+"کو دوبارہ درآمد کرسکتے ہیں."
+
+msgid ""
+"{em_start}Caution:{em_end} When you export a course, information such as "
+"MATLAB API keys, LTI passports, annotation secret token strings, and "
+"annotation storage URLs are included in the exported data. If you share your"
+" exported files, you may also be sharing sensitive or license-specific "
+"information."
+msgstr ""
+"{em_start} احتیاط: {em_end} جب آپ کسی کورس کو برآمد کرتے ہیں تو، MATLAB API "
+"کی چابیاں، LTI پاسپورٹس، تشریح خفیہ ٹوکن کی ترتیبات، اور تشریح سٹوریج یو آر "
+"ایل برآمد شدہ اعداد و شمار میں شامل ہیں. اگر آپ اپنی برآمد کردہ فائلوں کا "
+"اشتراک کرتے ہیں تو آپ حساس یا لائسنس کی مخصوص معلومات بھی شریک کرسکتے ہیں."
+
+msgid "Export My Library Content"
+msgstr "میرا لائبریری مواد برآمد کریں"
+
+msgid "Export My Course Content"
+msgstr "میرا کورس مواد برآمد کریں"
+
+msgid "Export Library Content"
+msgstr "برآمد لائبریری مواد"
+
+msgid "Export Course Content"
+msgstr "برآمد کورس کے مواد"
+
+msgid "Library Export Status"
+msgstr "لائبریری برآمد کی حیثیت"
+
+msgid "Course Export Status"
+msgstr "کورس برآمد کی حیثیت"
+
+msgid "Preparing"
+msgstr "تیاری"
+
+msgid "Preparing to start the export"
+msgstr "برآمد شروع کرنے کی تیاری"
+
+msgid "Exporting"
+msgstr "برآمد"
+
+msgid ""
+"Creating the export data files (You can now leave this page safely, but "
+"avoid making drastic changes to content until this export is complete)"
+msgstr ""
+"ایکسپورٹ ڈیٹا فائلوں کی تخلیق (آپ اب اس صفحہ کو محفوظ طریقے سے چھوڑ سکتے "
+"ہیں، لیکن اس برآمد کو مکمل کرنے تک مواد میں سخت تبدیلیوں سے بچنے سے بچنے کے "
+"لۓ)"
+
+msgid "Compressing"
+msgstr "کمپریسنگ"
+
+msgid "Compressing the exported data and preparing it for download"
+msgstr ""
+"برآمد کردہ اعداد و شمار کو کمپریس کرنا اور اسے ڈاؤن لوڈ کرنے کیلئے تیار کرنا"
+
+msgid "Success"
+msgstr "کامیابی"
+
+msgid "Your exported library can now be downloaded"
+msgstr "آپ کی برآمد کردہ لائبریری اب ڈاؤن لوڈ کی جا سکتی ہے"
+
+msgid "Your exported course can now be downloaded"
+msgstr "آپ کے برآمد شدہ کورس اب ڈاؤن لوڈ کیا جا سکتا ہے"
+
+msgid "Download Exported Library"
+msgstr "برآمد شدہ لائبریری ڈاؤن لوڈ کریں"
+
+msgid "Download Exported Course"
+msgstr "برآمد شدہ کورس ڈاؤن لوڈ کریں"
+
+msgid "Data {em_start}exported with{em_end} your course:"
+msgstr "ڈیٹا {em_start} اپنے کورس {em_end} کے ذریعہ برآمد کیا:"
+
+msgid ""
+"Values from Advanced Settings, including MATLAB API keys and LTI passports"
+msgstr ""
+"MATLAB API کی چابیاں اور LTI پاسپورٹس سمیت اعلی درجے کی ترتیبات سے قدر"
+
+msgid "Course Content (all Sections, Sub-sections, and Units)"
+msgstr "کورس کے مواد (تمام حصے، ذیلی سیکشن، اور یونٹس)"
+
+msgid "Course Structure"
+msgstr "کورس کی ساخت"
+
+msgid "Individual Problems"
+msgstr "انفرادی مسائل"
+
+msgid "Course Assets"
+msgstr "کورس اثاثہ"
+
+msgid "Course Settings"
+msgstr "کورس کی ترتیبات"
+
+msgid "Data {em_start}not exported{em_end} with your course:"
+msgstr "ڈیٹا {em_start} اپنے کورس کے ساتھ {em_end} برآمد نہیں کیا:"
+
+msgid "User Data"
+msgstr "یوزر ڈیٹا"
+
+msgid "Course Team Data"
+msgstr "کورس ٹیم کے اعداد و شمار"
+
+msgid "Forum/discussion Data"
+msgstr "فورم / بحث کے اعداد و شمار"
+
+msgid "Why export a library?"
+msgstr "کیوں ایک لائبریری برآمد؟"
+
+msgid ""
+"You may want to edit the XML in your library directly, outside of "
+"{studio_name}. You may want to create a backup copy of your library. Or, you"
+" may want to create a copy of your library that you can later import into "
+"another library instance and customize."
+msgstr ""
+"آپ {Studio_name} کے باہر، براہ راست اپنی لائبریری میں XML میں ترمیم کرنا "
+"چاہتے ہیں. آپ اپنی لائبریری کا ایک بیک اپ کاپی بنانا چاہتے ہیں. یا، آپ اپنی "
+"لائبریری کا ایک نقل بنانا چاہتے ہیں جو آپ بعد میں کسی اور لائبریری مثال میں "
+"درآمد کرسکتے ہیں اور اپنی مرضی کے مطابق کرسکتے ہیں."
+
+msgid "Opening the downloaded file"
+msgstr "ڈاؤن لوڈ شدہ فائل کھولنے"
+
+msgid ""
+"Use an archive program to extract the data from the .tar.gz file. Extracted "
+"data includes the library.xml file, as well as subfolders that contain "
+"library content."
+msgstr ""
+".tar.gz فائل سے اعداد و شمار کو نکالنے کے لئے آرکائیو پروگرام کا استعمال "
+"کریں. نکالنے والے اعداد و شمار میں لائبریری.کسیم فائل بھی شامل ہے، اس کے "
+"ساتھ ساتھ ذیلی فولڈرز جن میں لائبریری کے مواد شامل ہیں."
+
+msgid "Learn more about exporting a library"
+msgstr "ایک لائبریری برآمد کرنے کے بارے میں مزید جانیں"
+
+msgid "Why export a course?"
+msgstr "کورس کیوں برآمد کرتے ہیں؟"
+
+msgid ""
+"You may want to edit the XML in your course directly, outside of "
+"{studio_name}. You may want to create a backup copy of your course. Or, you "
+"may want to create a copy of your course that you can later import into "
+"another course instance and customize."
+msgstr ""
+"آپ {studio_name} کے باہر براہ راست، اپنے کورس میں XML میں ترمیم کرنا چاہتے "
+"ہیں. آپ اپنے کورس کا ایک بیک اپ کاپی بنانا چاہتے ہیں. یا، آپ اپنے کورس کی "
+"ایک نقل بنانا چاہتے ہیں کہ آپ بعد میں کسی اور کورس کی مثال میں درآمد کرسکتے "
+"ہیں اور اپنی مرضی کے مطابق کرسکتے ہیں."
+
+msgid "What content is exported?"
+msgstr "کیا مواد برآمد کی جاتی ہے؟"
+
+msgid ""
+"The course content and structure (including sections, subsections, and "
+"units) are exported. Values from Advanced Settings, including MATLAB API "
+"keys and LTI passports, are also exported. Other data, including student "
+"data, grading information, discussion forum data, course settings, and "
+"course team information, is not exported."
+msgstr ""
+"کورس کے مواد اور ساخت (بشمول حصوں، ضمنی حصوں اور یونٹس) برآمد کیے جاتے ہیں. "
+"MATLAB API کی چابیاں اور ایل ٹی آئی پاسپورٹ سمیت برآمد کردہ اعلی درجے کی "
+"ترتیبات سے بھی قیمت برآمد کی جاتی ہے. دیگر اعداد و شمار، بشمول طالب علم کے "
+"اعداد و شمار، گریڈنگ کی معلومات، بحث فورم کے اعداد و شمار، کورس کی ترتیبات، "
+"اور کورس ٹیم کی معلومات، برآمد نہیں کیا جاتا ہے."
+
+msgid ""
+"Use an archive program to extract the data from the .tar.gz file. Extracted "
+"data includes the course.xml file, as well as subfolders that contain course"
+" content."
+msgstr ""
+".tar.gz فائل سے اعداد و شمار کو نکالنے کے لئے آرکائیو پروگرام کا استعمال "
+"کریں. نکالنے والے اعداد و شمار کورس .xml فائل، ساتھ ساتھ ذیلی فولڈر شامل ہیں"
+" جن میں کورس کے مواد شامل ہیں."
+
+msgid "Learn more about exporting a course"
+msgstr "ایک کورس برآمد کرنے کے بارے میں مزید جانیں"
+
+msgid "Export Course to Git"
+msgstr "گٹ میں ایکسپورٹ کورس"
+
+msgid "Export to Git"
+msgstr "Git میں برآمد کریں"
+
+msgid "About Export to Git"
+msgstr "Git میں برآمد کے بارے میں"
+
+msgid "Use this to export your course to its git repository."
+msgstr "اپنے گٹ ذخیرہ پر اپنے کورس کو برآمد کرنے کیلئے اسے استعمال کریں."
+
+msgid ""
+"This will then trigger an automatic update of the main LMS site and update "
+"the contents of your course visible there to students if automatic git "
+"imports are configured."
+msgstr ""
+"اس کے بعد، مرکزی LMS سائٹ کا ایک خود کار طریقے سے اپ ڈیٹ کو متحرک کرے گا اور"
+" اگر آپ خود کار طریقے سے گیٹ کی درآمد کو ترتیب دی جاتی ہے تو وہاں طالب علموں"
+" کو اپنے کورس کی موجودگی کو اپ ڈیٹ کریں گے."
+
+msgid "Export Course to Git:"
+msgstr "گٹ کو برآمد کورس:"
+
+msgid ""
+"giturl must be defined in your course settings before you can export to git."
+msgstr ""
+"اس سے پہلے کہ آپ گیٹ میں برآمد کر سکتے ہیں اس سے قبل گٹور کو آپ کے کورس کی "
+"ترتیبات میں بیان کیا جانا چاہئے."
+
+msgid "Export Failed"
+msgstr "برآمد ناکام ہوگئی"
+
+msgid "Export Succeeded"
+msgstr "برآمد کامیاب ہوگیا"
+
+msgid "Your course:"
+msgstr "آپ کا کورس:"
+
+msgid "Course git url:"
+msgstr "کورس گیٹ یو آر ایل:"
+
+msgid "Experiment Group Configurations"
+msgstr "تجربہ گروپ ترتیبات"
+
+msgid "This module is disabled at the moment."
+msgstr "یہ ماڈیول اس وقت غیر فعال ہے."
+
+msgid "Enrollment Track Groups"
+msgstr "اندراج ٹریک گروپ"
+
+msgid ""
+"Enrollment track groups allow you to offer different course content to "
+"learners in each enrollment track. Learners enrolled in each enrollment "
+"track in your course are automatically included in the corresponding "
+"enrollment track group."
+msgstr ""
+"اندراج ٹریک گروپ آپ کو ہر داخلہ ٹریک میں سیکھنے والوں کے لئے مختلف کورس کے "
+"مواد پیش کرنے کی اجازت دیتا ہے. آپ کے کورس میں ہر داخلہ ٹریک میں داخل ہونے "
+"والے قارئین نے خود داخلہ کے اندراج ٹریک گروپ میں شامل کیے ہیں."
+
+msgid ""
+"On unit pages in the course outline, you can restrict access to components "
+"to learners based on their enrollment track."
+msgstr ""
+"کورس کے آؤٹ لائن میں یونٹ کے صفحات پر، آپ اپنے اندراج کے ٹریک پر مبنی سیکھنے"
+" والوں کے اجزاء تک رسائی محدود کر سکتے ہیں."
+
+msgid ""
+"You cannot edit enrollment track groups, but you can expand each group to "
+"view details of the course content that is designated for learners in the "
+"group."
+msgstr ""
+"آپ اندراج ٹریک گروپوں میں ترمیم نہیں کرسکتے ہیں، لیکن آپ گروپ کے سیکھنے کے "
+"لئے نامزد ہونے والے کورس کے مواد کی تفصیلات کو دیکھنے کے لئے ہر گروہ کو بڑھا"
+" سکتے ہیں."
+
+msgid "Content Groups"
+msgstr "مواد کے گروپ"
+
+msgid ""
+"If you have cohorts enabled in your course, you can use content groups to "
+"create cohort-specific courseware. In other words, you can customize the "
+"content that particular cohorts see in your course."
+msgstr ""
+"اگر آپ کے کورس میں آپ کو سہولت ملتی ہے تو، آپ کو مواد مخصوص گروہوں کو کوسٹ "
+"مخصوص مخصوص بنانے کے لئے استعمال کرسکتے ہیں. دوسرے الفاظ میں، آپ ان مواد کو "
+"اپنی مرضی کے مطابق کرسکتے ہیں جو آپ کے کورس میں دیکھتے ہیں."
+
+msgid ""
+"Each content group that you create can be associated with one or more "
+"cohorts. In addition to making course content available to all learners, you"
+" can restrict access to some content to learners in specific content groups."
+" Only learners in the cohorts that are associated with the specified content"
+" groups see the additional content."
+msgstr ""
+"ہر مواد کے گروپ جسے آپ تخلیق کرتے ہیں ایک یا زیادہ سے زیادہ کوہٹ سے منسلک "
+"کیا جا سکتا ہے. تمام سیکھنے والوں کے لئے دستیاب کورس مواد بنانے کے علاوہ، آپ"
+" مخصوص مواد گروپوں میں سیکھنے والوں کو کچھ مواد تک رسائی محدود کرسکتے ہیں. "
+"صرف نصاب میں سیکھنے والے ہیں جو مخصوص مواد گروپ کے ساتھ منسلک ہیں اضافی مواد"
+" کو دیکھتے ہیں."
+
+msgid ""
+"Click {em_start}New content group{em_end} to add a new content group. To "
+"edit the name of a content group, hover over its box and click "
+"{em_start}Edit{em_end}. You can delete a content group only if it is not in "
+"use by a unit. To delete a content group, hover over its box and click the "
+"delete icon."
+msgstr ""
+"نیا مواد گروپ شامل کرنے کیلئے {em_start} نیا مواد گروپ {em_end} پر کلک کریں."
+" مواد کے گروپ کے نام میں ترمیم کرنے کے لئے، اس باکس پر ہور اور {em_start} "
+"میں ترمیم کریں {em_end}. آپ واحد مواد کو حذف کرسکتے ہیں اگر یہ یونٹ کے ذریعہ"
+" استعمال میں نہیں ہے. ایک مواد گروپ کو حذف کرنے کے لئے، اس کے باکس پر ہور "
+"اور خارج ہونے والے آئکن پر کلک کریں."
+
+msgid ""
+"Use experiment group configurations if you are conducting content "
+"experiments, also known as A/B testing, in your course. Experiment group "
+"configurations define how many groups of learners are in a content "
+"experiment. When you create a content experiment for a course, you select "
+"the group configuration to use."
+msgstr ""
+"اگر آپ کے تجربے میں مواد کے تجربات چل رہے ہیں، جو بھی A / B ٹیسٹنگ کے طور پر"
+" جانا جاتا ہے تو استعمال کے گروپ ترتیب استعمال کریں. تجرباتی گروپ کی ترتیبات"
+" یہ بتاتے ہیں کہ سیکھنے والے کتنے گروپوں میں مواد استعمال میں ہیں. جب آپ "
+"کورس کے لئے ایک مواد تجربہ بناتے ہیں، تو آپ کو استعمال کرنے کیلئے گروپ ترتیب"
+" کو منتخب کریں."
+
+msgid ""
+"Click {em_start}New Group Configuration{em_end} to add a new configuration. "
+"To edit a configuration, hover over its box and click "
+"{em_start}Edit{em_end}. You can delete a group configuration only if it is "
+"not in use in an experiment. To delete a configuration, hover over its box "
+"and click the delete icon."
+msgstr ""
+"نئی ترتیب کو شامل کرنے کیلئے {em_start} نیا گروپ کی ترتیب {em_end} پر کلک "
+"کریں. ترتیب میں ترمیم کرنے کے لئے، اس باکس پر ہور اور {em_start} میں ترمیم "
+"کریں {em_end}. آپ صرف ایک گروپ ترتیب کو خارج کر سکتے ہیں اگر یہ استعمال میں "
+"استعمال نہیں ہوتا ہے. ایک ترتیب کو حذف کرنے کے لئے، اس کے باکس پر ہور اور "
+"خارج کرنے والے آئکن پر کلک کریں."
+
+msgid "Details & Schedule"
+msgstr "تفصیلات اور شیڈول"
+
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+msgid "Welcome to {studio_name}"
+msgstr "{studio_name} میں خوش آمدید"
+
+msgid ""
+"{studio_name} helps manage your online courses, so you can focus on teaching"
+" them"
+msgstr ""
+"{سٹوڈیو_ نام} آپ کے آن لائن کورسز کو منظم کرنے میں مدد ملتی ہے، لہذا آپ ان "
+"کو تعلیم دینے پر توجہ دے سکتے ہیں"
+
+msgid "{studio_name}'s Many Features"
+msgstr "{سٹوڈیو_ نام} کی بہت سے خصوصیات"
+
+msgid "{studio_name} Helps You Keep Your Courses Organized"
+msgstr "{سٹوڈیو_ نام} آپ کو اپنے کورسوں کو منظم رکھنے میں مدد ملتی ہے"
+
+msgid "Enlarge image"
+msgstr "تصویر بڑھو"
+
+msgid "Keeping Your Course Organized"
+msgstr "اپنے کورس کو منظم کرنا"
+
+msgid ""
+"The backbone of your course is how it is organized. {studio_name} offers an "
+"{strong_start}Outline{strong_end} editor, providing a simple hierarchy and "
+"easy drag and drop to help you and your students stay organized."
+msgstr ""
+"آپ کے کورس کی ریبون یہ ہے کہ یہ کس طرح منظم ہے. {سٹوڈیو_ نام} ایک "
+"{strong_start} آؤٹ لائن {strong_end} ایڈیٹر پیش کرتا ہے، آپ کی مدد کرنے کے "
+"لئے سادہ سایڈست اور آسان ڈریگ اور ڈراپ فراہم کرتا ہے اور آپ کے طالب علم منظم"
+" رہ جاتے ہیں."
+
+msgid "Simple Organization For Content"
+msgstr "مواد کے لئے سادہ تنظیم"
+
+msgid ""
+"{studio_name} uses a simple hierarchy of {strong_start}sections{strong_end} "
+"and {strong_start}subsections{strong_end} to organize your content."
+msgstr ""
+"{سٹوڈیو_ نام} آپ کے مواد کو منظم کرنے کیلئے {strong_start} کے حصوں "
+"{strong_end} اور {strong_start} سبسڈیشنز {strong_end} کے سادہ تنظیمی ڈھانچے "
+"کا استعمال کرتا ہے."
+
+msgid "Change Your Mind Anytime"
+msgstr "اپنے دماغ میں کسی بھی وقت تبدیل کریں"
+
+msgid ""
+"Draft your outline and build content anywhere. Simple drag and drop tools "
+"let you reorganize quickly."
+msgstr ""
+"اپنے آؤٹ لائن کو مسودہ بنائیں اور کہیں بھی مواد تیار کریں. سادہ ڈریگ اور "
+"ڈراپ ٹولز آپ کو فوری طور پر دوبارہ منظم کرنے دیں."
+
+msgid "Go A Week Or A Semester At A Time"
+msgstr "ایک ہفتہ میں ایک ہفتہ یا سمسٹر جانا"
+
+msgid ""
+"Build and release {strong_start}sections{strong_end} to your students "
+"incrementally. You don't have to have it all done at once."
+msgstr ""
+"اضافی طور پر اپنے طلباء کو {strong_start} حصوں {strong_end} کی تعمیر اور "
+"رہائی دیں. آپ کو ایسا کرنے کی ضرورت نہیں ہے کہ ایک ہی وقت میں ہو."
+
+msgid "Learning is More than Just Lectures"
+msgstr "سیکھنا بس لکچر سے زیادہ ہے"
+
+msgid ""
+"{studio_name} lets you weave your content together in a way that reinforces "
+"learning. Insert videos, discussions, and a wide variety of exercises with "
+"just a few clicks."
+msgstr ""
+"{سٹوڈیو_ نام} آپ کو آپ کے مواد کو ایک دوسرے کے ساتھ بونا کرنے دیتا ہے جس طرح"
+" سیکھنے کو مضبوط بناتا ہے. صرف چند کلکس کے ساتھ ویڈیو، بحث، اور وسیع پیمانے "
+"پر مشقیں شامل کریں."
+
+msgid "Create Learning Pathways"
+msgstr "سیکھنے کے راستے بنائیں"
+
+msgid ""
+"Help your students understand one concept at a time with multimedia, HTML, "
+"and exercises."
+msgstr ""
+"اپنے طالب علموں کو ملٹی میڈیا، ایچ ٹی ایم ایل اور مشقوں کے ساتھ ایک وقت میں "
+"ایک تصور کو سمجھنے میں مدد کریں."
+
+msgid "Work Visually, Organize Quickly"
+msgstr "آفاقی طور پر کام، فوری طور پر منظم کریں"
+
+msgid ""
+"Work visually and see exactly what your students will see. Reorganize all "
+"your content with drag and drop."
+msgstr ""
+"بظاہر کام کریں اور اپنے طالب علموں کو دیکھیں گے بالکل وہی کام کریں. ڈریگ اور"
+" ڈراپ کے ساتھ آپ کے تمام مواد کو دوبارہ ترتیب دیں."
+
+msgid "A Broad Library of Problem Types"
+msgstr "مسئلہ کی اقسام کی وسیع لائبریری"
+
+msgid ""
+"It's more than just multiple choice. {studio_name} supports more than a "
+"dozen types of problems to challenge your learners."
+msgstr ""
+"یہ ایک سے زیادہ انتخاب سے زیادہ ہے. {سٹوڈیو_ نام} اپنے سیکھنے والوں کو چیلنج"
+" کرنے کے لۓ ایک درجن سے زائد قسم کے مسائل کی حمایت کرتا ہے."
+
+msgid ""
+"{studio_name} Gives You Simple, Fast, and Incremental Publishing. With "
+"Friends."
+msgstr ""
+"{سٹوڈیو_ نام} آپ کو سادہ، تیز، اور بڑھنے والی اشاعت دیتا ہے. دوستوں کے ساتھ."
+
+msgid "Simple, Fast, and Incremental Publishing. With Friends."
+msgstr "سادہ، تیز، اور اضافی اشاعت. دوستوں کے ساتھ."
+
+msgid ""
+"{studio_name} works like web applications you already know, yet understands "
+"how you build curriculum. Instant publishing to the web when you want it, "
+"incremental release when it makes sense. And with co-authors, you can have a"
+" whole team building a course, together."
+msgstr ""
+"{سٹوڈیو_ نام} آپ پہلے سے ہی جانتے ہیں ویب ایپلی کیشنز کی طرح کام کرتا ہے، "
+"ابھی تک سمجھتا ہے کہ آپ نصاب کیسے بناتے ہیں. جب آپ اسے چاہتے ہیں تو ویب پر "
+"فوری طور پر پبلک پبلشنگ، جب یہ سمجھتا ہے تو اضافی رہائی. اور شریک مصنفین کے "
+"ساتھ، آپ کو ایک پوری ٹیم ایک کورس کی تعمیر، ایک ساتھ مل سکتا ہے."
+
+msgid "Instant Changes"
+msgstr "فوری تبدیلیاں"
+
+msgid ""
+"Caught a bug? No problem. When you want, your changes go live when you click"
+" Save."
+msgstr ""
+"ایک بگ پکڑ لیا کوئی مسئلہ نہیں. جب آپ چاہتے ہیں تو، آپ کو محفوظ کریں جب آپ "
+"کی تبدیلیاں زندہ رہیں."
+
+msgid "Release-On Date Publishing"
+msgstr "ریلیز پر تاریخ اشاعت"
+
+msgid ""
+"When you've finished a {strong_start}section{strong_end}, pick when you want"
+" it to go live and {studio_name} takes care of the rest. Build your course "
+"incrementally."
+msgstr ""
+"جب آپ {strong_start} سیکشن {strong_end} مکمل کر لیتے ہیں تو، چنیں جب آپ زندہ"
+" رہنے کے لئے چاہتے ہیں اور {سٹوڈیو_ نام} آرام کا خیال رکھتا ہے. اپنے کورس کو"
+" اضافی طور پر بنائیں."
+
+msgid "Work in Teams"
+msgstr "ٹیموں میں کام"
+
+msgid ""
+"Co-authors have full access to all the same authoring tools. Make your "
+"course better through a team effort."
+msgstr ""
+"شریک مصنفین کے پاس تمام ہی مصنفین کے اوزار تک مکمل رسائی ہے. ایک ٹیم کی کوشش"
+" کے ذریعے اپنا کورس بہتر بنائیں."
+
+msgid "Sign Up for {studio_name} Today!"
+msgstr "{سٹوڈیو_ نام} آج کے لئے سائن اپ کریں!"
+
+msgid "Sign Up & Start Making Your {platform_name} Course"
+msgstr "سائن اپ کریں اور آپ {platform_name} کورس شروع کرنا شروع کریں"
+
+msgid "Already have a {studio_name} Account? Sign In"
+msgstr "پہلے سے ہی {studio_name} اکاؤنٹ ہے؟ داخلہ"
+
+msgid "Outlining Your Course"
+msgstr "آپ کا کورس ختم کرنا"
+
+msgid ""
+"Simple two-level outline to organize your course. Drag and drop, and see "
+"your course at a glance."
+msgstr ""
+"اپنے کورس کو منظم کرنے کے لئے سادہ دو درجے کی ترتیبات. ڈریگ اور ڈراپ، اور "
+"اپنے کورس کو ایک نظر میں دیکھیں."
+
+msgid "More than Just Lectures"
+msgstr "بس لیکچر سے زیادہ"
+
+msgid ""
+"Quickly create videos, text snippets, inline discussions, and a variety of "
+"problem types."
+msgstr ""
+"جلدی سے ویڈیوز، متن کے ٹکڑوں، ان لائن بات چیت، اور مختلف اقسام کی دشواری "
+"پیدا کریں."
+
+msgid "Publishing on Date"
+msgstr "تاریخ پر اشاعت"
+
+msgid ""
+"Simply set the date of a section or subsection, and {studio_name} will "
+"publish it to your students for you."
+msgstr ""
+"بس ایک سیکشن یا سبسیکشن کی تاریخ مقرر کرتے ہیں، اور {سٹوڈیو_ نام} آپ کے لئے "
+"اپنے طالب علموں کو شائع کرے گا."
+
+msgid "We're having trouble rendering your component"
+msgstr "ہمیں آپ کا جزو لگانے میں مصیبت ہے"
+
+msgid ""
+"Students will not be able to access this component. Re-edit your component "
+"to fix the error."
+msgstr ""
+"طلباء اس اجزاء تک رسائی حاصل نہیں کر سکیں گے. غلطی کو ٹھیک کرنے کے لئے اپنے "
+"اجزاء کو دوبارہ ترمیم کریں."
+
+msgid "Library Import"
+msgstr "لائبریری درآمد"
+
+msgid "Course Import"
+msgstr "کورس درآمد"
+
+msgid ""
+"Be sure you want to import a library before continuing. The contents of the "
+"imported library will replace the contents of the existing library. "
+"{em_start}You cannot undo a library import{em_end}. Before you proceed, we "
+"recommend that you export the current library, so that you have a backup "
+"copy of it."
+msgstr ""
+"اس بات کا یقین رکھنا کہ آپ جاری رکھنے سے پہلے لائبریری درآمد کرنا چاہتے ہیں."
+" درآمد کردہ لائبریری کے مواد موجودہ لائبریری کے مواد کی جگہ لے لے گی. "
+"{em_start} آپ لائبریری درآمد {em_end} کو واپس نہیں کر سکتے ہیں. آگے بڑھنے سے"
+" پہلے، ہم آپ کی سفارش کرتے ہیں کہ آپ موجودہ لائبریری کو برآمد کریں، تاکہ آپ "
+"کے پاس اس کا بیک اپ کاپی ہے."
+
+msgid ""
+"The library that you import must be in a .tar.gz file (that is, a .tar file "
+"compressed with GNU Zip). This .tar.gz file must contain a library.xml file."
+" It may also contain other files."
+msgstr ""
+"جو لائبریری آپ درآمد کرتے ہیں، اسے ایک .tt.gz فائل میں ہونا ضروری ہے (یہ، جی"
+" این یو زپ کے ساتھ ایک .تر فائل کمپیکٹ ہے). یہ .tar.gz فائل میں لائبریری. "
+"xml فائل پر مشتمل ہونا ضروری ہے. اس میں دیگر فائلیں بھی شامل ہوسکتی ہیں."
+
+msgid ""
+"The import process has five stages. During the first two stages, you must "
+"stay on this page. You can leave this page after the Unpacking stage has "
+"completed. We recommend, however, that you don't make important changes to "
+"your library until the import operation has completed."
+msgstr ""
+"درآمد کے عمل میں پانچ مراحل ہیں. پہلے دو مراحل کے دوران آپ کو اس صفحہ پر "
+"رہنا ہوگا. آپ اس صفحہ کو چھوڑ کر انفارمیشن مرحلے کو مکمل کر سکتے ہیں. تاہم، "
+"ہم سفارش کرتے ہیں کہ آپ اپنے لائبریری میں اہم تبدیلیاں نہ کریں جب تک کہ "
+"درآمدی کارروائی مکمل ہوجائے."
+
+msgid ""
+"Be sure you want to import a course before continuing. The contents of the "
+"imported course will replace the contents of the existing course. "
+"{em_start}You cannot undo a course import{em_end}. Before you proceed, we "
+"recommend that you export the current course, so that you have a backup copy"
+" of it."
+msgstr ""
+"یقینی بنائیں کہ آپ آگے بڑھنے سے قبل ایک کورس درآمد کرنا چاہتے ہیں. درآمد شدہ"
+" کورس کی مواد موجودہ کورس کے مواد کی جگہ لے لے گی. {em_start} آپ کسی کورس "
+"درآمد {em_end} کو واپس نہیں کر سکتے ہیں. آگے بڑھنے سے پہلے، ہم تجویز کرتے "
+"ہیں کہ آپ موجودہ کورس کو برآمد کریں، تاکہ آپ کے پاس ایک بیک اپ کاپی ہے."
+
+msgid ""
+"The course that you import must be in a .tar.gz file (that is, a .tar file "
+"compressed with GNU Zip). This .tar.gz file must contain a course.xml file. "
+"It may also contain other files."
+msgstr ""
+"آپ جس چیز کا درآمد کرتے ہیں وہ ایک .tt.gz فائل میں ہونا ضروری ہے (یہ، جی این"
+" یو زپ سے مطابقت رکھتا ہے .تر فائل ہے). یہ .tar.gz فائل میں ایک کورس. xml "
+"فائل ہونا ضروری ہے. اس میں دیگر فائلیں بھی شامل ہوسکتی ہیں."
+
+msgid ""
+"The import process has five stages. During the first two stages, you must "
+"stay on this page. You can leave this page after the Unpacking stage has "
+"completed. We recommend, however, that you don't make important changes to "
+"your course until the import operation has completed."
+msgstr ""
+"درآمد کے عمل میں پانچ مراحل ہیں. پہلے دو مراحل کے دوران آپ کو اس صفحہ پر "
+"رہنا ہوگا. آپ اس صفحہ کو چھوڑ کر انفارمیشن مرحلے کو مکمل کر سکتے ہیں. تاہم، "
+"ہم سفارش کرتے ہیں کہ درآمدی کارروائی مکمل ہوجائے جب تک آپ اپنے کورس میں اہم "
+"تبدیلیاں نہیں کریں گے."
+
+msgid "Select a .tar.gz File to Replace Your Library Content"
+msgstr "اپنے لائبریری مواد کو تبدیل کرنے کے لئے ایک .tt.gz فائل منتخب کریں"
+
+msgid "Select a .tar.gz File to Replace Your Course Content"
+msgstr "اپنے کورس کے مواد کو تبدیل کرنے کے لئے ایک .tt.gz فائل منتخب کریں"
+
+msgid "Choose a File to Import"
+msgstr "درآمد کرنے کیلئے فائل منتخب کریں"
+
+msgid "File Chosen:"
+msgstr "فائل کا انتخاب:"
+
+msgid "Replace my library with the selected file"
+msgstr "منتخب کردہ فائل کے ساتھ میری لائبریری کو تبدیل کریں"
+
+msgid "Replace my course with the selected file"
+msgstr "منتخب کردہ فائل کے ساتھ اپنے کورس کو تبدیل کریں"
+
+msgid "Library Import Status"
+msgstr "لائبریری درآمد کی حیثیت"
+
+msgid "Course Import Status"
+msgstr "کورس درآمد کی حیثیت"
+
+msgid "Uploading"
+msgstr "اپ لوڈ کرنا"
+
+msgid "Transferring your file to our servers"
+msgstr "آپ کے فائل کو اپنے سرورز میں منتقل کرنے کی"
+
+msgid "Unpacking"
+msgstr "غیر پیکنگ"
+
+msgid ""
+"Expanding and preparing folder/file structure (You can now leave this page "
+"safely, but avoid making drastic changes to content until this import is "
+"complete)"
+msgstr ""
+"فولڈر / فائل ڈھانچہ کی توسیع اور تیاری (آپ اب اس صفحہ کو محفوظ طریقے سے چھوڑ"
+" سکتے ہیں، لیکن اس درآمد تک مکمل ہونے تک مواد میں سخت تبدیلیوں سے بچنے سے "
+"بچنے کے لۓ)"
+
+msgid "Verifying"
+msgstr "توثیقی"
+
+msgid "Reviewing semantics, syntax, and required data"
+msgstr "سیمانکس، نحو، اور ضروری اعداد و شمار کا جائزہ لیں"
+
+msgid "Updating Library"
+msgstr "لائبریری کو اپ ڈیٹ کرنا"
+
+msgid "Updating Course"
+msgstr "کورس کو اپ ڈیٹ کرنا"
+
+msgid ""
+"Integrating your imported content into this library. This process might take"
+" longer with larger libraries."
+msgstr ""
+"اس لائبریری میں اپنی درآمد کردہ مواد کو ضم. یہ عمل بڑی لائبریریوں کے ساتھ "
+"زیادہ وقت لگ سکتا ہے."
+
+msgid ""
+"Integrating your imported content into this course. This process might take "
+"longer with larger courses."
+msgstr ""
+"اس کورس میں اپنی درآمد کردہ مواد کو ضم. یہ عمل بڑے کورسز کے ساتھ طویل عرصے "
+"تک لے جا سکتا ہے."
+
+msgid "Your imported content has now been integrated into this library"
+msgstr "آپ کی درآمد کردہ مواد اب اس لائبریری میں داخل ہو چکی ہے"
+
+msgid "Your imported content has now been integrated into this course"
+msgstr "آپ کی درآمد شدہ مواد اب اس کورس میں شامل ہو چکی ہے"
+
+msgid "View Updated Library"
+msgstr "تازہ کاری لائبریری دیکھیں"
+
+msgid "View Updated Outline"
+msgstr "اپ ڈیٹ آؤٹ لائن دیکھیں"
+
+msgid "Why import a library?"
+msgstr "لائبریری کیوں درآمد"
+
+msgid ""
+"You might want to update an existing library to a new version, or replace an"
+" existing library entirely. You might also have developed a library outside "
+"of {studio_name}."
+msgstr ""
+"شاید آپ کو ایک موجودہ لائبریری کو ایک نیا ورژن اپ ڈیٹ کرنا چاہتے ہیں، یا "
+"موجودہ لائبریری کو مکمل طور پر تبدیل کرنا چاہتے ہیں. شاید آپ نے {سٹوڈیو_ "
+"نام} سے باہر ایک لائبریری تیار کی ہے."
+
+msgid "Note: Library content is not automatically updated in courses"
+msgstr "نوٹ: لائبریری کا مواد خود کار طریقے سے نصاب میں نہیں ہے"
+
+msgid ""
+"If you change and import a library that is referenced by randomized content "
+"blocks in one or more courses, those courses do not automatically use the "
+"updated content. You must manually refresh the randomized content blocks to "
+"bring them up to date with the latest library content."
+msgstr ""
+"اگر آپ ایک لائبریری کو تبدیل کرتے ہیں اور درآمد کرتے ہیں جو بے ترتیب کردہ "
+"مواد کے بلاکس میں ایک یا زیادہ کورسز میں حوالہ دیتے ہیں، وہ ان کورسز کو خود "
+"کار طریقے سے اپ ڈیٹ کردہ مواد کا استعمال نہیں کرتے ہیں. آپ کو تازہ ترین "
+"لائبریری مواد کے ساتھ تازہ ترین مواد کے بلاکس کو دستی طور پر تازہ کاری کرنا "
+"ضروری ہے."
+
+msgid "Learn more about importing a library"
+msgstr "ایک لائبریری درآمد کرنے کے بارے میں مزید جانیں"
+
+msgid "Why import a course?"
+msgstr "کورس کیوں درآمد"
+
+msgid ""
+"You may want to run a new version of an existing course, or replace an "
+"existing course altogether. Or, you may have developed a course outside "
+"{studio_name}."
+msgstr ""
+"آپ موجودہ کورس کا ایک نیا ورژن چلانا چاہتے ہیں یا مکمل طور پر موجودہ کورس کی"
+" جگہ لے سکتے ہیں. یا، آپ {studio_name} کے باہر کورس تیار کر سکتے ہیں."
+
+msgid "What content is imported?"
+msgstr "کیا مواد درآمد کی جاتی ہے؟"
+
+msgid "The following content is imported."
+msgstr "مندرجہ ذیل مواد درآمد کی جاتی ہے."
+
+msgid "Course content and structure"
+msgstr "کورس کے مواد اور ساخت"
+
+msgid "Course dates"
+msgstr "کورس کی تاریخ"
+
+msgid "Grading policy"
+msgstr "گریڈنگ پالیسی"
+
+msgid "Any group configurations"
+msgstr "کسی بھی گروپ ترتیب"
+
+msgid "Settings on the Advanced Settings page"
+msgstr "اعلی درجے کی ترتیبات کے صفحے پر ترتیبات"
+
+msgid "The following content is not imported."
+msgstr "مندرجہ ذیل مواد درآمد نہیں کی جاتی ہے."
+
+msgid ""
+"Learner-specific content, such as learner grades and discussion forum data"
+msgstr ""
+"سیکھنے والے مخصوص مواد، جیسے سیکرٹری گریڈ اور بحث فورم کے اعداد و شمار"
+
+msgid "The course team"
+msgstr "کورس ٹیم"
+
+msgid "Warning: Importing while a course is running"
+msgstr "انتباہ: ایک کورس کے دوران درآمد چل رہا ہے"
+
+msgid ""
+"If you perform an import while your course is running, and you change the "
+"URL names (or url_name nodes) of any Problem components, the student data "
+"associated with those Problem components may be lost. This data includes "
+"students' problem scores."
+msgstr ""
+"اگر آپ کا کورس چل رہا ہے تو آپ درآمد کرتے ہیں، اور آپ کسی بھی مسائل کے اجزاء"
+" کے یو آر ایل کے نام (یا url_name نوڈس) کو تبدیل کرتے ہیں، ان مسائل کے اجزاء"
+" سے منسلک طالب علم کو کھو دیا جا سکتا ہے. اس اعداد و شمار میں طالب علموں کا "
+"مسئلہ اسکور شامل ہے."
+
+msgid "Learn more about importing a course"
+msgstr "کورس درآمد کرنے کے بارے میں مزید جانیں"
+
+msgid "{studio_name} Home"
+msgstr "{سٹوڈیو_نام} ہوم"
+
+msgid "New Course"
+msgstr "نیا کورس"
+
+msgid "Email staff to create course"
+msgstr "ای میل کے عملے کورس بنانے کے لئے"
+
+msgid "New Library"
+msgstr "نئی لائبریری"
+
+msgid "Please correct the highlighted fields below."
+msgstr "ذیل میں نمایاں فیلڈز کو درست کریں."
+
+msgid "Create a New Course"
+msgstr "ایک نیا کورس بنائیں"
+
+msgid "Required Information to Create a New Course"
+msgstr "نیا کورس تخلیق کرنے کے لئے ضروری معلومات"
+
+msgid ""
+"The public display name for your course. This cannot be changed, but you can"
+" set a different display name in Advanced Settings later."
+msgstr ""
+"آپ کے کورس کے لئے عوامی ڈسپلے کا نام. یہ تبدیل نہیں کیا جاسکتا ہے، لیکن آپ "
+"بعد میں اعلی درجے کی ترتیبات میں مختلف ڈسپلے کا نام مقرر کرسکتے ہیں."
+
+msgid ""
+"The name of the organization sponsoring the course. {strong_start}Note: The "
+"organization name is part of the course URL.{strong_end} This cannot be "
+"changed, but you can set a different display name in Advanced Settings "
+"later."
+msgstr ""
+"تنظیم کا نام کورس اسپانسر. {strong_start} نوٹ: تنظیم کا نام کورس URL کا حصہ "
+"ہے. {strong_end} یہ تبدیل نہیں کیا جاسکتا، لیکن آپ بعد میں اعلی درجے کی "
+"ترتیبات میں مختلف ڈسپلے کا نام مقرر کرسکتے ہیں."
+
+msgid ""
+"The unique number that identifies your course within your organization. "
+"{strong_start}Note: This is part of your course URL, so no spaces or special"
+" characters are allowed and it cannot be changed.{strong_end}"
+msgstr ""
+"منفرد نمبر جو آپ کے کورس کے مطابق آپ کی تنظیم کے مطابق ہے. {strong_start} "
+"نوٹ: یہ آپ کے کورس کے یو آر ایل کا حصہ ہے، لہذا کوئی جگہ یا خاص حروف کی "
+"اجازت نہیں ہے اور اسے تبدیل نہیں کیا جا سکتا. {strong_end}"
+
+msgid ""
+"The term in which your course will run. {strong_start}Note: This is part of "
+"your course URL, so no spaces or special characters are allowed and it "
+"cannot be changed.{strong_end}"
+msgstr ""
+"جس اصطلاح میں آپ کا کورس چل جائے گا. {strong_start} نوٹ: یہ آپ کے کورس کے یو"
+" آر ایل کا حصہ ہے، لہذا کوئی جگہ یا خاص حروف کی اجازت نہیں ہے اور اسے تبدیل "
+"نہیں کیا جا سکتا. {strong_end}"
+
+msgid "Create"
+msgstr "بنانا"
+
+msgid "Create a New Library"
+msgstr "ایک نئی لائبریری بنائیں"
+
+msgid "Required Information to Create a New Library"
+msgstr "نئی لائبریری بنانے کے لئے ضروری معلومات"
+
+msgid "Library Name"
+msgstr "لائبریری کا نام"
+
+msgid "e.g. Computer Science Problems"
+msgstr "مثال کے طور پر کمپیوٹر سائنس کے مسائل"
+
+msgid "The public display name for your library."
+msgstr "آپ کی لائبریری کے لئے عوامی ڈسپلے کا نام."
+
+msgid "The public organization name for your library."
+msgstr "آپ کی لائبریری کے لئے عوامی تنظیم کا نام."
+
+msgid "This cannot be changed."
+msgstr "یہ تبدیل نہیں کیا جا سکتا."
+
+msgid "Library Code"
+msgstr "لائبریری کوڈ"
+
+msgid "e.g. CSPROB"
+msgstr "مثال کے طور پر CSPROB"
+
+msgid ""
+"The unique code that identifies this library. {strong_start}Note: This is "
+"part of your library URL, so no spaces or special characters are "
+"allowed.{strong_end} This cannot be changed."
+msgstr ""
+"منفرد کوڈ جو اس لائبریری کی شناخت کرتا ہے. {strong_start} نوٹ: یہ آپ کی "
+"لائبریری یو آر ایل کا حصہ ہے، لہذا کوئی جگہ یا خاص حروف کی اجازت نہیں ہے. "
+"{strong_end} یہ تبدیل نہیں کیا جا سکتا."
+
+msgid "Organization and Library Settings"
+msgstr "تنظیم اور لائبریری کی ترتیبات"
+
+msgid "Show all courses in organization:"
+msgstr "تنظیم میں تمام کورس دکھائیں:"
+
+msgid "For example, MITx"
+msgstr "مثال کے طور پر، MITX"
+
+msgid "Courses Being Processed"
+msgstr "کورسز پر عملدرآمد کیا جا رہا ہے"
+
+msgid "This course run is currently being created."
+msgstr "یہ کورس اب چل رہا ہے."
+
+msgid "Configuring as re-run"
+msgstr "دوبارہ چلانے کے طور پر ترتیب"
+
+msgid ""
+"The new course will be added to your course list in 5-10 minutes. Return to "
+"this page or {link_start}refresh it{link_end} to update the course list. The"
+" new course will need some manual configuration."
+msgstr ""
+"نیا کورس 5-10 منٹ میں آپ کے کورس کی فہرست میں شامل کیا جائے گا. اس صفحہ پر "
+"واپس جائیں یا کورس کی فہرست کو اپ ڈیٹ کرنے کیلئے {link_start} اسے {link_end}"
+" تازہ کریں. نیا کورس کچھ دستی ترتیب کی ضرورت ہوگی."
+
+msgid "This re-run processing status:"
+msgstr "یہ دوبارہ چلانے والی پروسیسنگ کی حیثیت:"
+
+msgid "Configuration Error"
+msgstr "ترتیب کی خرابی"
+
+msgid ""
+"A system error occurred while your course was being processed. Please go to "
+"the original course to try the re-run again, or contact your PM for "
+"assistance."
+msgstr ""
+"آپ کے کورس پر عملدرآمد کے دوران ایک نظام کی خرابی واقع ہوئی. براہ کرم دوبارہ"
+" دوبارہ دوبارہ کوشش کرنے کے لئے اصل کورس پر جائیں، یا مدد کے لئے اپنے PM سے "
+"رابطہ کریں."
+
+msgid "Archived Courses"
+msgstr "آرکائیو کورسز"
+
+msgid "Libraries"
+msgstr "لائبریری"
+
+msgid "Are you staff on an existing {studio_name} course?"
+msgstr "کیا آپ ایک موجودہ {studio_name} کورس پر عملدرآمد ہیں؟"
+
+msgid ""
+"The course creator must give you access to the course. Contact the course "
+"creator or administrator for the course you are helping to author."
+msgstr ""
+"کورس کے خالق کو آپ کو کورس تک رسائی حاصل ہوگی. اس کورس کے لئے کورس تخلیق یا "
+"منتظم سے رابطہ کریں جو آپ مصنف سے مدد کر رہے ہیں."
+
+msgid "Create Your First Course"
+msgstr "اپنا پہلا کورس بنائیں"
+
+msgid "Your new course is just a click away!"
+msgstr "آپ کا نیا کورس صرف ایک کلک دور ہے!"
+
+msgid "Becoming a Course Creator in {studio_name}"
+msgstr "{سٹوڈیو_ نام} میں کورس خالق بننا"
+
+msgid ""
+"{studio_name} is a hosted solution for our xConsortium partners and selected"
+" guests. Courses for which you are a team member appear above for you to "
+"edit, while course creator privileges are granted by {platform_name}. Our "
+"team will evaluate your request and provide you feedback within 24 hours "
+"during the work week."
+msgstr ""
+"{سٹوڈیو_ نام} ہمارے XConsortium شراکت داروں اور منتخب مہمانوں کے لئے ایک "
+"میزبان حل ہے. کورسز جن کے لئے آپ ٹیم ٹیم کا رکن آپ کے پاس ترمیم کرنے کے لئے "
+"مندرجہ بالا ظاہر ہوتا ہے، جبکہ کورس تخلیقی استحقاق {platform_name} کی طرف سے"
+" دی جاتی ہیں. ہماری ٹیم آپ کی درخواست کا جائزہ لے گی اور کام کے ہفتے کے "
+"دوران 24 گھنٹوں کے اندر اندر آپ کی رائے فراہم کرے گی."
+
+msgid "Your Course Creator Request Status:"
+msgstr "آپ کا کورس خالق درخواست کی حیثیت:"
+
+msgid "Request the Ability to Create Courses"
+msgstr "کورسز تخلیق کرنے کی صلاحیت کی درخواست کریں"
+
+msgid "Your Course Creator Request Status"
+msgstr "آپ کا کورس خالق درخواست کی حیثیت"
+
+msgid ""
+"{studio_name} is a hosted solution for our xConsortium partners and selected"
+" guests. Courses for which you are a team member appear above for you to "
+"edit, while course creator privileges are granted by {platform_name}. Our "
+"team is has completed evaluating your request."
+msgstr ""
+"{سٹوڈیو_ نام} ہمارے XConsortium شراکت داروں اور منتخب مہمانوں کے لئے ایک "
+"میزبان حل ہے. کورسز جن کے لئے آپ ٹیم ٹیم کا رکن آپ کے پاس ترمیم کرنے کے لئے "
+"مندرجہ بالا ظاہر ہوتا ہے، جبکہ کورس تخلیقی استحقاق {platform_name} کی طرف سے"
+" دی جاتی ہیں. ہماری ٹیم نے آپ کی درخواست کا اندازہ مکمل کیا ہے."
+
+msgid "Your Course Creator request is:"
+msgstr "آپ کا کورس خالق کی درخواست ہے:"
+
+msgid "Denied"
+msgstr "رد کر دیا"
+
+msgid ""
+"Your request did not meet the criteria/guidelines specified by "
+"{platform_name} Staff."
+msgstr ""
+"آپ کی درخواست نے {platform_name} اسٹافز کی وضاحت کردہ معیار / ہدایات کو پورا"
+" نہیں کیا."
+
+msgid ""
+"{studio_name} is a hosted solution for our xConsortium partners and selected"
+" guests. Courses for which you are a team member appear above for you to "
+"edit, while course creator privileges are granted by {platform_name}. Our "
+"team is currently  evaluating your request."
+msgstr ""
+"{سٹوڈیو_ نام} ہمارے XConsortium شراکت داروں اور منتخب مہمانوں کے لئے ایک "
+"میزبان حل ہے. کورسز جن کے لئے آپ ٹیم ٹیم کا رکن آپ کے پاس ترمیم کرنے کے لئے "
+"مندرجہ بالا ظاہر ہوتا ہے، جبکہ کورس تخلیقی استحقاق {platform_name} کی طرف سے"
+" دی جاتی ہیں. ہماری ٹیم فی الحال آپ کی درخواست کا جائزہ لے رہی ہے."
+
+msgid "Pending"
+msgstr "منتقلی"
+
+msgid ""
+"Your request is currently being reviewed by {platform_name} staff and should"
+" be updated shortly."
+msgstr ""
+"آپ کی درخواست فی الحال {platform_name} کے عملے کی طرف سے جائزہ لیا جا رہا ہے"
+" اور جلد ہی اپ ڈیٹ کیا جانا چاہئے."
+
+msgid "Were you expecting to see a particular library here?"
+msgstr "کیا آپ یہاں ایک خاص لائبریری دیکھ رہے تھے؟"
+
+msgid ""
+"The library creator must give you access to the library. Contact the library"
+" creator or administrator for the library you are helping to author."
+msgstr ""
+"لائبریری تخلیق کار آپ کو لائبریری تک رسائی فراہم کرنا ضروری ہے. لائبریری کے "
+"لئے لائبریری تخلیق یا منتظم سے رابطہ کریں جو آپ لائبریری میں مدد کر رہے ہیں."
+
+msgid "Create Your First Library"
+msgstr "اپنی پہلی لائبریری بنائیں"
+
+msgid ""
+"Libraries hold a pool of components that can be re-used across multiple "
+"courses. Create your first library with the click of a button!"
+msgstr ""
+"لائبریریوں کے اجزاء کی تلاوت ہوتی ہے جو کئی کورسوں میں دوبارہ استعمال کیا جا"
+" سکتا ہے. ایک بٹن پر کلک کریں اپنی پہلی لائبریری بنائیں!"
+
+msgid "New to {studio_name}?"
+msgstr "{سٹوڈیو_ نام} کیلئے نیا؟"
+
+msgid ""
+"Click Help in the upper-right corner to get more information about the "
+"{studio_name} page you are viewing. You can also use the links at the bottom"
+" of the page to access our continually updated documentation and other "
+"{studio_name} resources."
+msgstr ""
+"{سٹوڈیو_ نام} کے صفحے کے بارے میں مزید معلومات حاصل کرنے کے لئے جو آپ دیکھ "
+"رہے ہیں، اوپر دائیں کونے میں مدد پر کلک کریں. آپ صفحے کے نچلے حصے میں ہمارے "
+"مستقل طور پر تازہ ترین دستاویزات اور دیگر {سٹوڈیو_ نام} وسائل تک رسائی حاصل "
+"کرنے کے لئے لنکس بھی استعمال کرسکتے ہیں."
+
+msgid "Getting Started with {studio_name}"
+msgstr "{سٹوڈیو_ نام} کے ساتھ شروع کرنا"
+
+msgid "Can I create courses in {studio_name}?"
+msgstr "کیا میں {studio_name} میں کورس بنا سکتا ہوں؟"
+
+msgid ""
+"In order to create courses in {studio_name}, you must {link_start}contact "
+"{platform_name} staff to help you create a course{link_end}."
+msgstr ""
+"{سٹوڈیو_ نام} میں کورس تخلیق کرنے کے لئے، آپ {link_end} کورس بنانے میں مدد "
+"کرنے کیلئے {link_start} رابطہ {platform_name} کے عملے کو ضرور کرنا ہوگا."
+
+msgid ""
+"In order to create courses in {studio_name}, you must have course creator "
+"privileges to create your own course."
+msgstr ""
+"{سٹوڈیو_ نام} میں کورس تخلیق کرنے کے لئے، آپ کے اپنے کورس کو تخلیق کرنے کے "
+"لئے آپ کے پاس تخلیقی امتیازات ہونا لازمی ہے."
+
+msgid ""
+"Your request to author courses in {studio_name} has been denied. Please "
+"{link_start}contact {platform_name} Staff with further questions{link_end}."
+msgstr ""
+"{studio_name} میں مصنف کورسز کی درخواست رد کردی گئی ہے. براہ مہربانی "
+"{link_start} رابطہ {platform_name} اسٹاف مزید سوالات {link_end} کے ساتھ "
+"کریں."
+
+msgid "Thanks for signing up, {name}!"
+msgstr "سائن اپ کرنے کے لئے شکریہ، {نام}!"
+
+msgid "We need to verify your email address"
+msgstr "ہمیں آپ کا ای میل ایڈریس کی توثیق کرنے کی ضرورت ہے"
+
+msgid ""
+"Almost there! In order to complete your sign up we need you to verify your "
+"email address ({email}). An activation message and next steps should be "
+"waiting for you there."
+msgstr ""
+"تقریبا وہاں! اپنے سائن اپ مکمل کرنے کے لئے ہمیں آپ کے ای میل پتہ ({ای میل}) "
+"کی تصدیق کرنے کی ضرورت ہے. ایک سرگرمی کا پیغام اور اگلے مرحلہ آپ کے لئے "
+"انتظار کر رہے ہیں."
+
+msgid "Need help?"
+msgstr "مدد چاہیے؟"
+
+msgid ""
+"Please check your Junk or Spam folders in case our email isn't in your "
+"INBOX. Still can't find the verification email? Request help via the link "
+"below."
+msgstr ""
+"اگر آپ کا ای میل آپ کے INBOX میں نہیں ہے تو براہ کرم اپنے جنک یا سپیم فولڈر "
+"کو چیک کریں. پھر بھی توثیقی ای میل نہیں مل سکا؟ نیچے دیئے گئے لنک کے ذریعہ "
+"مدد کی درخواست کریں."
+
+msgid "Content Library"
+msgstr "مواد لائبریری"
+
+msgid "Add Component"
+msgstr "اجزاء شامل کریں"
+
+msgid "Adding content to your library"
+msgstr "آپ کی لائبریری میں مواد شامل کرنا"
+
+msgid ""
+"Add components to your library for use in courses, using Add New Component "
+"at the bottom of this page."
+msgstr ""
+"اس صفحہ کے نچلے حصے میں نیا اجزاء شامل کرکے کورسز کے استعمال کے لۓ اپنے "
+"لائبریری میں اجزاء شامل کریں."
+
+msgid ""
+"Components are listed in the order in which they are added, with the most "
+"recently added at the bottom. Use the pagination arrows to navigate from "
+"page to page if you have more than one page of components in your library."
+msgstr ""
+"اجزاء اس ترتیب میں درج کیے گئے ہیں جس میں وہ شامل کیے گئے ہیں، سب سے زیادہ "
+"حال ہی میں نیچے دیئے گئے شامل ہیں. اگر آپ کے پاس لائبریری میں اجزاء کے ایک "
+"سے زائد صفحات ہیں تو صفحے سے صفحے پر تشریف لے جانے کے لئے صفحہ بندی کے تیر "
+"استعمال کریں."
+
+msgid "Using library content in courses"
+msgstr "کورسز میں لائبریری کے مواد کا استعمال کرتے ہوئے"
+
+msgid ""
+"Use library content in courses by adding the "
+"{em_start}library_content{em_end} policy key to the Advanced Module List in "
+"the course's Advanced Settings, then adding a Randomized Content Block to "
+"your courseware. In the settings for each Randomized Content Block, select "
+"this library as the source library, and specify the number of problems to be"
+" randomly selected and displayed to each student."
+msgstr ""
+"کورس کے اعلی درجے کی ترتیبات میں اعلی درجے کی ماڈیول فہرست میں {em_start} "
+"library_content {em_end} کی پالیسی کی کلید کو شامل کرکے کورسز میں لائبریری "
+"مواد کا استعمال کریں، پھر اپنے آپ کو ایک بے ترتیب مواد بلاک کریں. ہر بے "
+"ترتیب شدہ مواد بلاک کے لئے ترتیبات میں، یہ لائبریری ذریعہ لائبریری کے طور پر"
+" منتخب کریں، اور ہر طالب علم کو بے ترتیب طور پر منتخب اور ظاہر کرنے کے لئے "
+"مسائل کی تعداد کی وضاحت کریں."
+
+msgid "Learn more about content libraries"
+msgstr "مواد لائبریریوں کے بارے میں مزید جانیں"
+
+msgid "Course Team Settings"
+msgstr "کورس ٹیم کی ترتیبات"
+
+msgid "New Team Member"
+msgstr "نیا ٹیم کے رکن"
+
+msgid "Add a User to Your Course's Team"
+msgstr "اپنے کورس کی ٹیم کے لئے صارف شامل کریں"
+
+msgid "New Team Member Information"
+msgstr "نئی ٹیم کے رکن کی معلومات"
+
+msgid "User's Email Address"
+msgstr "صارف کا ای میل ایڈریس"
+
+msgid "Provide the email address of the user you want to add as Staff"
+msgstr ""
+"اس صارف کا ای میل پتہ فراہم کریں جسے آپ اسٹاف کے طور پر شامل کرنا چاہتے ہیں"
+
+msgid "Add User"
+msgstr "یوزر شامل کریں"
+
+msgid "Add Team Members to This Course"
+msgstr "اس کورس میں ٹیم کے ارکان شامل کریں"
+
+msgid ""
+"Adding team members makes course authoring collaborative. Users must be "
+"signed up for {studio_name} and have an active account."
+msgstr ""
+"ٹیم کے ارکان کو شامل کرنے کے کورس کو باہمی تعاون کے ساتھ تعاون فراہم کرتا "
+"ہے. صارف {studio_name} کے لئے دستخط کرنا ضروری ہے اور ایک فعال اکاؤنٹ ہے."
+
+msgid "Add a New Team Member"
+msgstr "ایک نیا ٹیم کے رکن شامل کریں"
+
+msgid "Course Team Roles"
+msgstr "کورس ٹیم رولز"
+
+msgid ""
+"Course team members with the Staff role are course co-authors. They have "
+"full writing and editing privileges on all course content."
+msgstr ""
+"اسٹاف کردار کے ساتھ کورس کے ٹیم کے ارکان شریک مصنفین ہیں. انہوں نے تمام کورس"
+" کے مواد پر مکمل تحریری اور استحقاق میں ترمیم کیا ہے."
+
+msgid ""
+"Admins are course team members who can add and remove other course team "
+"members."
+msgstr ""
+"اداروں کورس کے ٹیم کے ارکان ہیں جو دوسرے کورس کے ٹیم کے ارکان کو شامل اور ہٹ"
+" سکتے ہیں."
+
+msgid ""
+"All course team members can access content in Studio, the LMS, and Insights,"
+" but are not automatically enrolled in the course."
+msgstr ""
+"تمام کورس ٹیم کے ارکان سٹوڈیو، ایل ایم ایم اور اندراج میں مواد تک رسائی حاصل"
+" کرسکتے ہیں، لیکن اس کورس میں خود بخود داخلہ نہیں ہوتا."
+
+msgid "Transferring Ownership"
+msgstr "مالک کی منتقلی"
+
+msgid ""
+"Every course must have an Admin. If you are the Admin and you want to "
+"transfer ownership of the course, click <strong>Add admin access</strong> to"
+" make another user the Admin, then ask that user to remove you from the "
+"Course Team list."
+msgstr ""
+"ہر کورس میں ایڈمن ہونا ضروری ہے. اگر آپ ایڈمن ہیں اور آپ کورس کے مالکیت کو "
+"منتقل کرنا چاہتے ہیں تو، صارف کا ایڈمن بنانے کے لئے <strong>ایڈمن تک رسائی "
+"شامل کریں پر</strong> کلک <strong>کریں</strong> ، پھر اس صارف سے آپ کو کورس "
+"ٹیم کی لسٹ سے نکالنے کے لئے پوچھیں."
+
+msgid "Library User Access"
+msgstr "لائبریری صارف تک رسائی"
+
+msgid "User Access"
+msgstr "صارف تک رسائی"
+
+msgid "Grant Access to This Library"
+msgstr "اس لائبریری میں رسائی حاصل کریں"
+
+msgid "Provide the email address of the user you want to add"
+msgstr "اس صارف کا ای میل پتہ فراہم کریں جسے آپ شامل کرنا چاہتے ہیں"
+
+msgid "Add More Users to This Library"
+msgstr "اس لائبریری میں مزید صارفین کو شامل کریں"
+
+msgid ""
+"Grant other members of your course team access to this library. New library "
+"users must have an active {studio_name} account."
+msgstr ""
+"آپ کے کورس کی ٹیم کے دوسرے اراکین کو اس لائبریری تک رسائی حاصل ہے. نئی "
+"لائبریری صارفین کو ایک فعال {سٹوڈیو_ نام} اکاؤنٹ ہونا لازمی ہے."
+
+msgid "Add a New User"
+msgstr "نیا صارف شامل کریں"
+
+msgid "Library Access Roles"
+msgstr "لائبریری رسائی رولز"
+
+msgid "There are three access roles for libraries: User, Staff, and Admin."
+msgstr "لائبریریوں کے لئے تین تک رسائی رول ہیں: صارف، اسٹاف، اور ایڈمن."
+
+msgid ""
+"Library Users can view library content and can reference or use library "
+"components in their courses, but they cannot edit the contents of a library."
+msgstr ""
+"لائبریری صارفین لائبریری کے مواد کو دیکھ سکتے ہیں اور ان کے نصاب میں "
+"لائبریری اجزاء کا حوالہ دیتے ہیں یا استعمال کرسکتے ہیں، لیکن وہ کسی لائبریری"
+" کے مندرجات میں ترمیم نہیں کرسکتے ہیں."
+
+msgid ""
+"Library Staff are content co-authors. They have full editing privileges on "
+"the contents of a library."
+msgstr ""
+"لائبریری اسٹاف مواد شریک مصنفین ہیں. انہوں نے ایک لائبریری کے مواد پر مکمل "
+"تدوین کا استقبال کیا ہے."
+
+msgid ""
+"Library Admins have full editing privileges and can also add and remove "
+"other team members. There must be at least one user with the Admin role in a"
+" library."
+msgstr ""
+"لائبریری ایڈمنز کو مکمل ترمیم کے امتیاز حاصل ہیں اور دیگر ٹیم کے ارکان کو "
+"بھی شامل اور ہٹانے میں مدد مل سکتی ہے. لائبریری میں ایڈمن کردار کے ساتھ کم "
+"از کم ایک صارف ہونا لازمی ہے."
+
+msgid "Sign Up"
+msgstr "سائن اپ"
+
+msgid "Sign Up for {studio_name}"
+msgstr "{سٹوڈیو_ نام} کیلئے سائن اپ کریں"
+
+msgid "Already have a {studio_name} Account? Sign in"
+msgstr "پہلے سے ہی {studio_name} اکاؤنٹ ہے؟ داخلہ"
+
+msgid ""
+"Ready to start creating online courses? Sign up below and start creating "
+"your first {platform_name} course today."
+msgstr ""
+"آن لائن کورسز بنانے کے لئے تیار ہیں؟ ذیل میں سائن اپ کریں اور اپنے پہلے "
+"{platform_name} کورس کو آج شروع کریں."
+
+msgid "Required Information to Sign Up for {studio_name}"
+msgstr "{سٹوڈیو_ نام} کیلئے سائن اپ کرنے کے لئے ضروری معلومات"
+
+msgid ""
+"This will be used in public discussions with your courses and in our edX101 "
+"support forums"
+msgstr ""
+"یہ آپ کے کورسز اور ہمارے edX101 سپورٹ فورمز کے ساتھ عوامی بات چیت میں "
+"استعمال کیا جائے گا"
+
+msgid "Your Location"
+msgstr "آپ کی جگہ"
+
+msgid "Preferred Language"
+msgstr "پسندیدہ زبان"
+
+msgid "I agree to the {a_start} Terms of Service {a_end}"
+msgstr "میں {a_start} سروس کی شرائط {a_end} سے متفق ہوں"
+
+msgid "Create My Account &amp; Start Authoring Courses"
+msgstr "میرا اکاؤنٹ بنائیں اور اکاونٹنگ کے کورسز شروع کریں"
+
+msgid "Common {studio_name} Questions"
+msgstr "عام {سٹوڈیو_نام} سوالات"
+
+msgid "Who is {studio_name} for?"
+msgstr "{studio_name} کون ہے؟"
+
+msgid ""
+"{studio_name} is for anyone that wants to create online courses that "
+"leverage the global {platform_name} platform. Our users are often faculty "
+"members, teaching assistants and course staff, and members of instructional "
+"technology groups."
+msgstr ""
+"{سٹوڈیو_ نام} ہر کسی کے لئے ہے جو آن لائن کورسز تخلیق کرنا چاہتا ہے جو عالمی"
+" {platform_name} پلیٹ فارم کو فائدہ پہنچاتا ہے. ہمارے صارفین اکثر فیکلٹی کے "
+"ارکان ہیں، اساتذہ اور کورس کے عملے، اور انسٹی ٹیوٹ ٹیکنالوجی گروپوں کے "
+"ارکان."
+
+msgid ""
+"How technically savvy do I need to be to create courses in {studio_name}?"
+msgstr ""
+"{studio_name} میں کورس بنانے کے لئے مجھے کس طرح تکنیکی طور پر حساس ضرورت ہے؟"
+
+msgid ""
+"{studio_name} is designed to be easy to use by almost anyone familiar with "
+"common web-based authoring environments (Wordpress, Moodle, etc.). No "
+"programming knowledge is required, but for some of the more advanced "
+"features, a technical background would be helpful. As always, we are here to"
+" help, so don't hesitate to dive right in."
+msgstr ""
+"{سٹوڈیو_ نام} عام ویب پر مبنی تصویری ماحول (ورڈپریس، موڈل، وغیرہ) کے ساتھ "
+"واقف ہونے والے تقریبا کسی بھی شخص کو استعمال کرنے کے لئے ڈیزائن کیا گیا ہے. "
+"کوئی پروگرامنگ کی ضرورت نہیں ہے، لیکن کچھ اعلی درجے کی خصوصیات کے لئے، ایک "
+"تکنیکی پس منظر مددگار ثابت ہوگا. ہمیشہ کی طرح، ہم یہاں مدد کرنے کے لئے ہیں، "
+"لہذا حق میں ڈوب کرنے میں ہچکچاتے نہیں ہیں."
+
+msgid "I've never authored a course online before. Is there help?"
+msgstr "میں نے پہلے کبھی بھی آن لائن کورس کا تحریر نہیں کیا. کیا مدد ہے؟"
+
+msgid ""
+"Absolutely. We have created an online course, edX101, that describes some "
+"best practices: from filming video, creating exercises, to the basics of "
+"running an online course. Additionally, we're always here to help, just drop"
+" us a note."
+msgstr ""
+"بالکل. ہم نے ایک آن لائن کورس، edX101، جس میں کچھ بہترین طریقوں کی وضاحت کی "
+"ہے: ویڈیو فلمنگ سے، مشق تخلیق، آن لائن کورس چلانے کی بنیادی باتوں سے. اس کے "
+"علاوہ، ہم یہاں ہمیشہ مدد کے لئے ہیں، صرف ہمیں ایک نوٹ چھوڑ دیں."
+
+msgid "Schedule & Details Settings"
+msgstr "شیڈول اور تفصیلات کی ترتیبات"
+
+msgid "Schedule & Details"
+msgstr "شیڈول اور تفصیلات"
+
+msgid "Basic Information"
+msgstr "بنیادی معلومات"
+
+msgid "The nuts and bolts of your course"
+msgstr "آپ کے کورس کے گری دار میوے اور بولٹ"
+
+msgid "This field is disabled: this information cannot be changed."
+msgstr "یہ فیلڈ غیر فعال ہے: یہ معلومات تبدیل نہیں کی جا سکتی."
+
+msgid "Course Summary Page"
+msgstr "کورس خلاصہ پیج"
+
+msgid "(for student enrollment and access)"
+msgstr "(طالب علم داخلہ اور رسائی کے لئے)"
+
+msgid "Enroll in {course_display_name}"
+msgstr "{course_display_name} میں اندراج کریں"
+
+msgid ""
+"The course \"{course_display_name}\", provided by {platform_name}, is open "
+"for enrollment. Please navigate to this course at {link_for_about_page} to "
+"enroll."
+msgstr ""
+"کورس &quot;{course_display_name}&quot;، {platform_name} کی طرف سے فراہم کردہ"
+" اندراج کے لئے کھلا ہے. درج ذیل میں {link_for_about_page} پر اس کورس پر "
+"تشریف لے جائیں."
+
+msgid "Send a note to students via email"
+msgstr "ای میل کے ذریعے طالب علموں کو ایک نوٹ بھیجیں"
+
+msgid "Invite your students"
+msgstr "اپنے طلباء کو مدعو کریں"
+
+msgid "Promoting Your Course with {platform_name}"
+msgstr "{platform_name} کے ساتھ اپنے کورس کو فروغ دینا"
+
+msgid ""
+"Your course summary page will not be viewable until your course has been "
+"announced. To provide content for the page and preview it, follow the "
+"instructions provided by your Program Manager."
+msgstr ""
+"جب تک آپ کا کورس اعلان نہیں کیا گیا ہے، اس وقت تک آپ کا کورس کا خلاصہ صفحہ "
+"ملاحظہ نہیں کیا جائے گا. صفحہ کے لئے مواد فراہم کرنے اور اس کا پیش نظارہ "
+"کرنے کے لئے، اپنے پروگرام مینیجر کے ذریعہ فراہم شدہ ہدایات پر عمل کریں."
+
+msgid "Course Credit Requirements"
+msgstr "کورس کریڈٹ کی ضروریات"
+
+msgid "Steps required to earn course credit"
+msgstr "کورس کریڈٹ حاصل کرنے کے لئے ضروری اقدامات"
+
+msgid "Minimum Grade"
+msgstr "کم از کم گریڈ"
+
+msgid "Successful Proctored Exam"
+msgstr "کامیاب پروکیکڈ امتحان"
+
+msgid "Proctored Exam {number}"
+msgstr "پروجیکٹ کردہ امتحان {نمبر}"
+
+msgid "ID Verification"
+msgstr "ID کی توثیق"
+
+msgid "In-Course Reverification {number}"
+msgstr "کورس کورس میں ترمیم {نمبر}"
+
+msgid "Course Schedule"
+msgstr "کورس شیڈول"
+
+msgid "Dates that control when your course can be viewed"
+msgstr "جب آپ کا کورس دیکھا جاسکتا ہے تو اس کا بندوبست"
+
+msgid "First day the course begins"
+msgstr "پہلا دن شروع ہوتا ہے"
+
+msgid "Course Start Time"
+msgstr "کورس شروع وقت"
+
+msgid "(UTC)"
+msgstr "(یو این سی)"
+
+msgid "Last day your course is active"
+msgstr "آخری دن آپ کا کورس فعال ہے"
+
+msgid "Course End Time"
+msgstr "کورس کے اختتام کا وقت"
+
+msgid "Certificates Available Date"
+msgstr "سرٹیفکیٹ دستیاب تاریخ"
+
+msgid "By default, 48 hours after course end date"
+msgstr "ڈیفالٹ کی طرف سے، کورس کے آخری تاریخ کے بعد 48 گھنٹے"
+
+msgid "Enrollment Start Date"
+msgstr "اندراج کی تاریخ شروع"
+
+msgid "First day students can enroll"
+msgstr "پہلا دن طلبا اندراج کرسکتے ہیں"
+
+msgid "Enrollment Start Time"
+msgstr "اندراج کا آغاز وقت"
+
+msgid "Enrollment End Date"
+msgstr "اندراج ختم ہونے کی تاریخ"
+
+msgid "Last day students can enroll."
+msgstr "آخری دن طالب علموں کو اندراج کر سکتا ہے."
+
+msgid "Contact your edX partner manager to update these settings."
+msgstr "ان ترتیبات کو اپ ڈیٹ کرنے کیلئے اپنے EDX پارٹنر مینیجر سے رابطہ کریں."
+
+msgid "Enrollment End Time"
+msgstr "اندراج ختم ہونے کا وقت"
+
+msgid "These Dates Are Not Used When Promoting Your Course"
+msgstr "آپ کے کورس کو فروغ دینے کے وقت یہ تاریخ استعمال نہیں ہوتے ہیں"
+
+msgid ""
+"These dates impact {strong_start}when your courseware can be "
+"viewed{strong_end}, but they are {strong_start}not the dates shown on your "
+"course summary page{strong_end}. To provide the course start and "
+"registration dates as shown on your course summary page, follow the "
+"instructions provided by your Program Manager."
+msgstr ""
+"یہ تاریخوں {strong_start} پر اثر انداز ہوتے ہیں جب آپ کے کورس {strong_end} "
+"کو دیکھا جا سکتا ہے، لیکن وہ {strong_start} نہیں ہیں جو آپ کے کورس کے خلاصہ "
+"صفحے پر دکھایا گیا ہے {strong_end}. کورس کورس اور رجسٹریشن کی تاریخ فراہم "
+"کرنے کے لۓ اپنے کورس خلاصہ صفحے پر دکھایا گیا ہے، آپ کے پروگرام مینیجر کے "
+"ذریعہ فراہم شدہ ہدایات پر عمل کریں."
+
+msgid "Course Details"
+msgstr "کورس کی تفصیلات"
+
+msgid "Provide useful information about your course"
+msgstr "اپنے کورس کے بارے میں مفید معلومات فراہم کریں"
+
+msgid "Course Language"
+msgstr "کورس کی زبان"
+
+msgid ""
+"Identify the course language here. This is used to assist users find courses"
+" that are taught in a specific language. It is also used to localize the "
+"'From:' field in bulk emails."
+msgstr ""
+"یہاں کورس کی زبان کی شناخت کریں. یہ صارفین کو اس کورس میں تلاش کرنے کے لئے "
+"استعمال کیا جاتا ہے جو مخصوص زبان میں پڑھا جاتا ہے. یہ بڑے پیمانے پر ای میلز"
+" میں &#39;سے:&#39; فیلڈ کو مقامی بنانے کیلئے بھی استعمال کیا جاتا ہے."
+
+msgid "Introducing Your Course"
+msgstr "آپ کا کورس متعارف کرایا"
+
+msgid "Information for prospective students"
+msgstr "ممکنہ طالب علموں کے لئے معلومات"
+
+msgid "Course Title"
+msgstr "کورس کا عنوان"
+
+msgid "Displayed as title on the course details page. Limit to 50 characters."
+msgstr "کورس کے تفصیلات کے صفحے پر عنوان کے طور پر ڈسپلے. 50 حروف تک محدود"
+
+msgid "Course Subtitle"
+msgstr "کورس ذیلی ٹائٹل"
+
+msgid ""
+"Displayed as subtitle on the course details page. Limit to 150 characters."
+msgstr ""
+"کورس کے تفصیلات کے صفحے پر ذیلی عنوان کے طور پر ڈسپلے. 150 حروف تک محدود"
+
+msgid "Course Duration"
+msgstr "کورس دورانیہ"
+
+msgid "Displayed on the course details page. Limit to 50 characters."
+msgstr "کورس تفصیلات کے صفحے پر ظاہر 50 حروف تک محدود"
+
+msgid "Course Description"
+msgstr "کورس کی تفصیل"
+
+msgid "Displayed on the course details page. Limit to 1000 characters."
+msgstr "کورس تفصیلات کے صفحے پر ظاہر 1000 حروف تک محدود"
+
+msgid "Course Short Description"
+msgstr "کورس مختصر تفصیل"
+
+msgid ""
+"Appears on the course catalog page when students roll over the course name. "
+"Limit to ~150 characters"
+msgstr ""
+"طالب علم کورس کے نام پر چلتے وقت کورس کیٹلوگ صفحہ پر ظاہر ہوتا ہے. ~ 150 "
+"حروف تک محدود"
+
+msgid "Course Overview"
+msgstr "کورس کا جائزہ"
+
+msgid "HTML Code Editor"
+msgstr "ایچ ٹی ایم ایل کوڈ ایڈیٹر"
+
+msgid ""
+"Introductions, prerequisites, FAQs that are used on {a_link_start}your "
+"course summary page{a_link_end} (formatted in HTML)"
+msgstr ""
+"{a_link_start} پر اپنے کورس خلاصہ صفحے {a_link_end} پر استعمال کی جانے والی "
+"تعارف، ضروریات، سوالات، (HTML میں فارمیٹ)"
+
+msgid "Course Card Image"
+msgstr "کورس کارڈ کی تصویر"
+
+msgid ""
+"You can manage this image along with all of your other {a_link_start}files "
+"and uploads{a_link_end}"
+msgstr ""
+"آپ اس تصویر کو اپنے تمام دوسرے {a_link_start} فائلوں اور اپلوڈوں "
+"{a_link_end} کے ساتھ ساتھ منظم کرسکتے ہیں."
+
+msgid ""
+"Your course currently does not have an image. Please upload one (JPEG or PNG"
+" format, and minimum suggested dimensions are 375px wide by 200px tall)"
+msgstr ""
+"آپ کا کورس فی الحال ایک تصویر نہیں ہے. براہ کرم ایک اپ لوڈ کریں (JPEG یا PNG"
+" کی شکل، اور کم از کم تجویز کردہ طول و عرض 375px وسیع 200px کی طرف سے وسیع "
+"ہیں)"
+
+msgid "Your course image URL"
+msgstr "آپ کا کورس تصویر URL"
+
+msgid ""
+"Please provide a valid path and name to your course image (Note: only JPEG "
+"or PNG format supported)"
+msgstr ""
+"براہ کرم اپنے کورس کی تصویر پر درست راستے اور نام فراہم کریں (نوٹ: صرف JPEG "
+"یا PNG فارمیٹ کی حمایت کی ہے)"
+
+msgid "Upload Course Card Image"
+msgstr "کورس کارڈ کی تصویر اپ لوڈ کریں"
+
+msgid "Course Banner Image"
+msgstr "کورس بینر کی تصویر"
+
+msgid ""
+"Your course currently does not have an image. Please upload one (JPEG or PNG"
+" format, and minimum suggested dimensions are 1440px wide by 400px tall)"
+msgstr ""
+"آپ کا کورس فی الحال ایک تصویر نہیں ہے. براہ کرم ایک اپ لوڈ کریں (JPEG یا PNG"
+" کی شکل، اور کم از کم تجویز کردہ طول و عرض 1440px وسیع 400px کی طرف سے وسیع "
+"ہیں)"
+
+msgid "Your banner image URL"
+msgstr "آپ بینر تصویر URL"
+
+msgid ""
+"Please provide a valid path and name to your banner image (Note: only JPEG "
+"or PNG format supported)"
+msgstr ""
+"براہ کرم اپنے بینر کی تصویر پر درست راستہ اور نام فراہم کریں (نوٹ: صرف JPEG "
+"یا PNG فارمیٹ کی حمایت کی ہے)"
+
+msgid "Upload Course Banner Image"
+msgstr "اپ لوڈ کورس بینر کی تصویر"
+
+msgid "Course Video Thumbnail Image"
+msgstr "کورس ویڈیو تھمب نیل تصویر"
+
+msgid "Video Thumbnail Image"
+msgstr "ویڈیو تھمب نیل تصویر"
+
+msgid ""
+"Your course currently does not have a video thumbnail image. Please upload "
+"one (JPEG or PNG format, and minimum suggested dimensions are 375px wide by "
+"200px tall)"
+msgstr ""
+"آپ کے کورس میں ویڈیو تھمب نیل تصویر نہیں ہے. براہ کرم ایک اپ لوڈ کریں (JPEG "
+"یا PNG کی شکل، اور کم از کم تجویز کردہ طول و عرض 375px وسیع 200px کی طرف سے "
+"وسیع ہیں)"
+
+msgid "Your video thumbnail image URL"
+msgstr "آپ کا ویڈیو تھمب نیل تصویر URL"
+
+msgid ""
+"Please provide a valid path and name to your video thumbnail image (Note: "
+"only JPEG or PNG format supported)"
+msgstr ""
+"براہ کرم اپنے ویڈیو تھمب نیل کی تصویر پر ایک درست راستہ اور نام فراہم کریں "
+"(نوٹ: صرف JPEG یا PNG فارمیٹ کی حمایت کی ہے)"
+
+msgid "Upload Video Thumbnail Image"
+msgstr "ویڈیو تھمب نیل تصویر اپ لوڈ کریں"
+
+msgid "Course Introduction Video"
+msgstr "کورس کا تعارف ویڈیو"
+
+msgid "Delete Current Video"
+msgstr "موجودہ ویڈیو حذف کریں"
+
+msgid "your YouTube video's ID"
+msgstr "آپ کی YouTube ویڈیو کی شناخت"
+
+msgid "Enter your YouTube video's ID (along with any restriction parameters)"
+msgstr ""
+"اپنی YouTube ویڈیو کی شناخت (کسی بھی پابندی کے پیرامیٹرز کے ساتھ) درج کریں"
+
+msgid "Learning Outcomes"
+msgstr "تدریسی نتائج"
+
+msgid "Add the learning outcomes for this course"
+msgstr "اس کورس کے لئے سیکھنے کا نتیجہ شامل کریں"
+
+msgid "Add Learning Outcome"
+msgstr "سیکھنے کے نتائج شامل کریں"
+
+msgid "Add details about the instructors for this course"
+msgstr "اس کورس کے لئے اساتذہ کے بارے میں تفصیلات شامل کریں"
+
+msgid "Add Instructor"
+msgstr "انسٹریکٹر شامل کریں"
+
+msgid "Expectations of the students taking this course"
+msgstr "طالب علموں کی توقعات اس کورس کو لے رہی ہیں"
+
+msgid "Hours of Effort per Week"
+msgstr "فی گھنٹہ فی گھنٹہ کوشش"
+
+msgid "Time spent on all course work"
+msgstr "تمام کورس کے کام پر وقت گزرا"
+
+msgid "Prerequisite Course"
+msgstr "لازمی کورس"
+
+msgid "None"
+msgstr "کوئی بھی نہیں"
+
+msgid "Course that students must complete before beginning this course"
+msgstr "کورس اس بات کو شروع کرنے سے قبل طلباء کو مکمل کرنا ضروری ہے"
+
+msgid "set pre-requisite course"
+msgstr "پہلے سے لازمی کورس مقرر کریں"
+
+msgid "Entrance Exam"
+msgstr "داخلے کا امتحان"
+
+msgid "Require students to pass an exam before beginning the course."
+msgstr "طلباء کو کورس کے آغاز سے پہلے امتحان پاس کرنے کی ضرورت ہے."
+
+msgid ""
+"You can now view and author your course entrance exam from the "
+"{link_start}Course Outline{link_end}."
+msgstr ""
+"اب آپ {link_start} کورس آؤٹ لائن {link_end} سے اپنا کورس داخلہ امتحان دیکھ "
+"سکتے ہیں اور مصنف کرسکتے ہیں."
+
+msgid "Grade Requirements"
+msgstr "گریڈ کی ضروریات"
+
+msgid " %"
+msgstr "٪"
+
+msgid ""
+"The score student must meet in order to successfully complete the entrance "
+"exam. "
+msgstr ""
+"داخلہ امتحان کو کامیابی سے مکمل کرنے کے لئے سکور طالب علم کو پورا کرنا ضروری"
+" ہے."
+
+msgid "Set the pacing for this course"
+msgstr "اس کورس کے لئے پینٹنگ مقرر کریں"
+
+msgid ""
+"Instructor-paced courses progress at the pace that the course author sets. "
+"You can configure release dates for course content and due dates for "
+"assignments."
+msgstr ""
+"کورس کے مصنف کا کہنا ہے کہ رفتار سے اس کورس کے پیچیدہ کورسوں کی ترقی ہے. آپ "
+"کورس کے مواد اور تفویض کے لئے تاریخوں کے لئے رہائشی تاریخوں کو ترتیب دے سکتے"
+" ہیں."
+
+msgid ""
+"Self-paced courses do not have release dates for course content or due dates"
+" for assignments. Learners can complete course material at any time before "
+"the course end date."
+msgstr ""
+"خود پیڈ کورسز کورس کے مواد یا تفویض کے لئے تاریخوں کے لئے تاریخوں کی رہائی "
+"کی تاریخ نہیں ہے. کورسز کورس کے اختتام کی تاریخ سے پہلے کسی بھی وقت کورس "
+"مواد مکمل کرسکتے ہیں."
+
+msgid "Course Content License"
+msgstr "کورس مواد لائسنس"
+
+msgid "Select the default license for course content"
+msgstr "کورس کے مواد کیلئے ڈیفالٹ لائسنس منتخب کریں"
+
+msgid "How are these settings used?"
+msgstr "یہ ترتیبات کیسے استعمال کی جاتی ہیں؟"
+
+msgid ""
+"Your course's schedule determines when students can enroll in and begin a "
+"course."
+msgstr ""
+"آپ کے کورس کے شیڈول کا تعین ہوتا ہے جب طالب علم داخل ہوسکتے ہیں اور کورس "
+"شروع کرسکتے ہیں."
+
+msgid ""
+"Other information from this page appears on the About page for your course. "
+"This information includes the course overview, course image, introduction "
+"video, and estimated time requirements. Students use About pages to choose "
+"new courses to take."
+msgstr ""
+"اس صفحے سے دیگر معلومات آپ کے کورس کے بارے میں صفحہ پر ظاہر ہوتا ہے. اس "
+"معلومات میں کورس کا جائزہ، کورس کی تصویر، تعارف ویڈیو، اور متوقع وقت کی "
+"ضروریات شامل ہیں. طالب علموں کو لینے کے لۓ نئے کورسز منتخب کرنے کے لئے صفحات"
+" کے بارے میں استعمال کرتے ہیں."
+
+msgid "Your policy changes have been saved."
+msgstr "آپ کی پالیسی میں تبدیلیوں کو بچایا گیا ہے."
+
+msgid "There was an error saving your information. Please see below."
+msgstr "آپ کی معلومات کو بچانے میں ایک خرابی تھی. نیچے ملاحظہ کریں."
+
+msgid "Manual Policy Definition"
+msgstr "دستی پالیسی کی تعریف"
+
+msgid ""
+"{strong_start}Warning{strong_end}: Do not modify these policies unless you "
+"are familiar with their purpose."
+msgstr ""
+"{strong_start} انتباہ {strong_end}: ان پالیسیوں میں ترمیم نہ کریں جب تک کہ "
+"آپ ان کے مقصد سے واقف نہیں ہیں."
+
+msgid "Show Deprecated Settings"
+msgstr "بے ترتیب ترتیبات دکھائیں"
+
+msgid "What do advanced settings do?"
+msgstr "اعلی درجے کی ترتیبات کیا کرتے ہیں؟"
+
+msgid ""
+"Advanced settings control specific course functionality. On this page, you "
+"can edit manual policies, which are JSON-based key and value pairs that "
+"control specific course settings."
+msgstr ""
+"اعلی درجے کی ترتیبات مخصوص کورس فعالیت کو کنٹرول کرتی ہیں. اس صفحے پر، آپ "
+"دستی پالیسیوں میں ترمیم کرسکتے ہیں، جو JSON کی بنیاد پر کلیدی اور قدر کے "
+"جوڑوں ہیں جو مخصوص کورس ترتیبات کو کنٹرول کرتی ہیں."
+
+msgid ""
+"Any policies you modify here override all other information you've defined "
+"elsewhere in {studio_name}. Do not edit policies unless you are familiar "
+"with both their purpose and syntax."
+msgstr ""
+"آپ کی کوئی بھی پالیسی جس میں آپ ترمیم کرتے ہیں وہ دوسری دوسری معلومات جنہیں "
+"آپ نے {سٹوڈیو_ نام} میں کہیں اور بیان کیا ہے. پالیسیوں میں ترمیم نہ کریں جب "
+"تک آپ ان کے مقصد اور نحو دونوں سے واقف نہیں ہیں."
+
+msgid ""
+"{em_start}Note:{em_end} When you enter strings as policy values, ensure that"
+" you use double quotation marks (\") around the string. Do not use single "
+"quotation marks (')."
+msgstr ""
+"{em_start} نوٹ: {em_end} جب آپ پالیسی اقدار کے طور پر ڈور داخل کرتے ہیں، تو "
+"یقینی بنائیں کہ آپ سٹرنگ کے ارد گرد ڈبل quotation marks (&quot;) استعمال "
+"کرتے ہیں. واحد کوٹیشن نمبروں کا استعمال نہ کریں (&#39;)."
+
+msgid "Grading Settings"
+msgstr "گریڈنگ کی ترتیبات"
+
+msgid "Overall Grade Range"
+msgstr "مجموعی طور پر گریڈ رینج"
+
+msgid "Your overall grading scale for student final grades"
+msgstr "طالب علم فائنل گریڈ کیلئے آپ کے مجموعی درجہ بندی کا پیمانہ"
+
+msgid "Add grade"
+msgstr "گریڈ شامل کریں"
+
+msgid "Credit Eligibility"
+msgstr "کریڈٹ اہلیت"
+
+msgid "Settings for course credit eligibility"
+msgstr "کورس کریڈٹ اہلیت کے لئے ترتیبات"
+
+msgid "Minimum Credit-Eligible Grade:"
+msgstr "کم سے کم کریڈٹ مستحق گریڈ:"
+
+msgid "Must be greater than or equal to the course passing grade"
+msgstr "کورس گزر گریڈ سے زیادہ یا برابر ہونا ضروری ہے"
+
+msgid "Grading Rules &amp; Policies"
+msgstr "گریڈنگ قواعد و ضوابط"
+
+msgid "Deadlines, requirements, and logistics around grading student work"
+msgstr "گریڈنگ طالب علم کے کام کے ارد گرد ڈیڈ لائنز، ضروریات، اور لاجسٹکس"
+
+msgid "Grace Period on Deadline:"
+msgstr "آخری وقت پر فضل کا دورہ:"
+
+msgid "Leeway on due dates"
+msgstr "لیون کی وجہ سے تاریخوں پر"
+
+msgid "Assignment Types"
+msgstr "تفویض کی اقسام"
+
+msgid "Categories and labels for any exercises that are gradable"
+msgstr "کسی بھی مشقوں کے لئے زمرہ جات اور لیبلز جو سایڈست ہوتے ہیں"
+
+msgid "New Assignment Type"
+msgstr "نیا تفویض کی قسم"
+
+msgid "What can I do on this page?"
+msgstr "میں اس صفحہ پر کیا کر سکتا ہوں؟"
+
+msgid ""
+"You can use the slider under Overall Grade Range to specify whether your "
+"course is pass/fail or graded by letter, and to establish the thresholds for"
+" each grade."
+msgstr ""
+"آپ اس سلائیڈر کو مجموعی طور پر گریڈ رینج کے تحت استعمال کرسکتے ہیں کہ یہ "
+"بتائیں کہ آیا آپ کا کورس پاس / ناکام یا درجہ بندی کے ذریعہ ہے، اور ہر گریڈ "
+"کے لئے تختوں کا تعین کرنا ہے."
+
+msgid ""
+"You can specify whether your course offers students a grace period for late "
+"assignments."
+msgstr ""
+"آپ اس بات کی وضاحت کر سکتے ہیں کہ آیا آپ کا کورس طالب علموں کو دیر سے تفویض "
+"کے لئے فضل کی مدت پیش کرتا ہے."
+
+msgid ""
+"You can also create assignment types, such as homework, labs, quizzes, and "
+"exams, and specify how much of a student's grade each assignment type is "
+"worth."
+msgstr ""
+"آپ تفویض کی اقسام، جیسے ہوم ورک، لیبز، کوئز، اور امتحان بھی تشکیل دے سکتے "
+"ہیں، اور اس بات کی وضاحت کریں کہ کتنی طالب علم کی گریڈ ہر تفویض کی قسم ہے."
+
+msgid "Expand or Collapse"
+msgstr "توسیع یا ختم کریں"
+
+msgid "Access Settings"
+msgstr "رسائی کی ترتیبات"
+
+msgid "Set Access"
+msgstr "رسائی سیٹ کریں"
+
+msgid "This block contains multiple components."
+msgstr "یہ بلاک ایک سے زیادہ اجزاء پر مشتمل ہے."
+
+msgid "Textbooks"
+msgstr "درسی کتابیں"
+
+msgid "New Textbook"
+msgstr "نیا متن کتاب"
+
+msgid "Why should I break my textbook into chapters?"
+msgstr "میں اپنی نصری کتاب کو بابوں میں کیوں برباد کروں؟"
+
+msgid ""
+"Breaking your textbook into multiple chapters reduces loading times for "
+"students, especially those with slow Internet connections. Breaking up "
+"textbooks into chapters can also help students more easily find topic-based "
+"information."
+msgstr ""
+"اپنی نصابی کتاب کو متعدد باب میں توڑنے والے طالب علموں کے لئے لوڈنگ کا وقت "
+"کم کر دیتا ہے، خاص طور پر ان لوگوں کو سست انٹرنیٹ کنکشن کے ساتھ. نصاب میں "
+"نصاب کتابیں توڑ سکتے ہیں طالب علموں کو مزید آسانی سے مرکزی خیال، موضوع پر "
+"مبنی معلومات مل سکتی ہے."
+
+msgid "What if my book isn't divided into chapters?"
+msgstr "کیا ہوگا اگر میری کتاب بابوں میں تقسیم نہ ہو؟"
+
+msgid ""
+"If your textbook doesn't have individual chapters, you can upload the entire"
+" text as a single chapter and enter a name of your choice in the Chapter "
+"Name field."
+msgstr ""
+"اگر آپ کے نصابی کتاب میں انفرادی باب نہیں ہے تو، آپ پورے متن کو ایک باب کے "
+"طور پر اپ لوڈ کر سکتے ہیں اور باب نام فیلڈ میں اپنی پسند کا نام درج کرسکتے "
+"ہیں."
+
+msgid "Learn more about textbooks"
+msgstr "درسی کتابوں کے بارے میں مزید جانیں"
+
+msgid "Video Uploads"
+msgstr "ویڈیو اپ لوڈ"
+
+msgid "Course Video Settings"
+msgstr "کورس ویڈیو کی ترتیبات"
+
+msgid "Access is not restricted"
+msgstr "رسائی محدود نہیں ہے"
+
+msgid ""
+"Access to this unit is not restricted, but visibility might be affected by "
+"inherited settings."
+msgstr ""
+"اس یونٹ تک رسائی محدود نہیں ہے، لیکن وراثت کی ترتیبات کی طرف سے متاثر کی جا "
+"سکتی ہے."
+
+msgid ""
+"Access to this component is not restricted, but visibility might be affected"
+" by inherited settings."
+msgstr ""
+"اس اجزاء تک رسائی محدود نہیں ہے، لیکن وراثت کی ترتیبات کی طرف سے اثر انداز "
+"ہوسکتا ہے."
+
+msgid ""
+"You can restrict access to this unit to learners in specific enrollment "
+"tracks or content groups."
+msgstr ""
+"آپ اس اندراج کو مخصوص اندراج کے پٹریوں یا مواد کے گروپوں میں سیکھنے والوں تک"
+" محدود کر سکتے ہیں."
+
+msgid ""
+"You can restrict access to this component to learners in specific enrollment"
+" tracks or content groups."
+msgstr ""
+"آپ مخصوص اندراج کے پٹریوں یا مواد گروپوں میں سیکھنے والوں کو اس اجزاء تک "
+"رسائی محدود کر سکتے ہیں."
+
+msgid ""
+"You can restrict access to this unit to learners in specific content groups."
+msgstr ""
+"آپ مخصوص یونٹ گروپوں میں سیکھنے والوں کو اس یونٹ تک رسائی محدود کر سکتے ہیں."
+
+msgid ""
+"You can restrict access to this component to learners in specific content "
+"groups."
+msgstr ""
+"آپ مخصوص مواد کے گروپوں میں سیکھنے والوں کو اس جزو تک رسائی محدود کر سکتے "
+"ہیں."
+
+msgid "Manage content groups"
+msgstr "مواد گروپوں کا نظم کریں"
+
+msgid ""
+"{screen_reader_start}Warning:{screen_reader_end} The unit that contains this"
+" component is hidden from learners. The unit setting overrides the component"
+" access settings defined here."
+msgstr ""
+"{screen_reader_start} انتباہ: {screen_reader_end} اس اجزاء پر مشتمل ہے جس "
+"میں اس سیکشن کو سیکھنے والوں سے پوشیدہ ہے. یونٹ کی ترتیب یہاں وضاحت کی جزو "
+"رسائی کی ترتیبات پر قبضہ کرتی ہے."
+
+msgid "Access is restricted to:"
+msgstr "تک رسائی محدود ہے:"
+
+msgid "Restrict access to:"
+msgstr "تک رسائی محدود"
+
+msgid "Select a group type"
+msgstr "ایک گروپ کی قسم منتخب کریں"
+
+msgid "All Learners and Staff"
+msgstr "تمام سیکھنے اور اسٹاف"
+
+msgid "Select one or more groups:"
+msgstr "ایک یا زیادہ گروپ منتخب کریں:"
+
+msgid "Deleted Group"
+msgstr "حذف کردہ گروپ"
+
+msgid ""
+"This group no longer exists.  Choose another group or remove the access "
+"restriction."
+msgstr ""
+"یہ گروپ اب موجود نہیں ہے. کسی دوسرے گروپ کا انتخاب کریں یا رسائی کی پابندی "
+"کو ہٹا دیں."
+
+msgid ""
+"Thank you for signing up for {studio_name}! To activate your account, please"
+" copy and paste this address into your web browser's address bar:"
+msgstr ""
+"{سٹوڈیو_ نام} کیلئے سائن اپ کرنے کے لئے آپ کا شکریہ! اپنے اکاؤنٹ کو چالو "
+"کرنے کے لئے، براہ کرم اس پتہ کو اپنے ویب براؤزر کے ایڈریس بار میں چسپاں "
+"کریں."
+
+msgid ""
+"If you didn't request this, you don't need to do anything; you won't receive"
+" any more email from us. Please do not reply to this e-mail; if you require "
+"assistance, check the help section of the {studio_name} web site."
+msgstr ""
+"اگر آپ نے اس کی درخواست نہیں کی، تو آپ کو کچھ کرنے کی ضرورت نہیں ہے. آپ "
+"ہمارے پاس مزید ای میل نہیں ملیں گے. براہ مہربانی اس ای میل کا جواب نہ دیں؛ "
+"اگر آپ کو مدد کی ضرورت ہو تو، {سٹوڈیو_ نام} ویب سائٹ کی مدد کے سیکشن کو چیک "
+"کریں."
+
+msgid "Your account for {studio_name}"
+msgstr "{سٹوڈیو_ نام} کیلئے آپ کا اکاؤنٹ"
+
+msgid "{email} has requested {studio_name} course creator privileges on edge"
+msgstr ""
+"{ای میل} نے کنارے پر {سٹوڈیو_ نام} کورس سازی کے استحکام کا مطالبہ کیا ہے"
+
+msgid ""
+"User '{user}' with e-mail {email} has requested {studio_name} course creator"
+" privileges on edge."
+msgstr ""
+"صارف {{صارف} &#39;کے ساتھ ای میل {ای میل} نے کنارے پر {سٹوڈیو_ نام} کورس "
+"تخلیق کے استحکام کا مطالبہ کیا ہے."
+
+msgid "To grant or deny this request, use the course creator admin table."
+msgstr ""
+"اس درخواست کو منظور یا انکار کرنے کے لئے، کورس کے تخلیق منتظم منتظم کی "
+"میزبانی کریں."
+
+msgid ""
+"Your request for course creation rights to {studio_name} have been denied. "
+"If you believe this was in error, please contact {email}"
+msgstr ""
+"{سٹوڈیو_ نام} کے کورس تخلیق کے حقوق کے لئے آپ کی درخواست مسترد کردی گئی ہے. "
+"اگر آپ کو یقین ہے کہ یہ غلطی میں تھا، تو براہ مہربانی {ای میل} سے رابطہ کریں"
+
+msgid ""
+"Your request for course creation rights to {studio_name} have been granted. To create your first course, visit\n"
+"\n"
+"{url}"
+msgstr ""
+"{سٹوڈیو_ نام} کے کورس تخلیق کے حقوق کے لئے آپ کی درخواست دی گئی ہے. اپنا "
+"پہلا کورس تخلیق کرنے کیلئے {url} ملاحظہ کریں"
+
+msgid ""
+"Your course creation rights to {studio_name} have been revoked. If you "
+"believe this was in error, please contact {email}"
+msgstr ""
+"{سٹوڈیو_ نام} کے کورس کے تخلیق کردہ حقوق کو منسوخ کر دیا گیا ہے. اگر آپ کو "
+"یقین ہے کہ یہ غلطی میں تھا، تو براہ مہربانی {ای میل} سے رابطہ کریں"
+
+msgid "Your course creator status for {studio_name}"
+msgstr "{سٹوڈیو_ نام} کیلئے آپ کا کورس تخلیق کی حیثیت"
+
+msgid ""
+"Your {task_name} task has completed with the status '{task_status}'. Use "
+"this URL to view task details or download any files created: {detail_url}"
+msgstr ""
+"آپ {task_name} کے کام نے حیثیت &#39;{task_status}&#39; کے ساتھ مکمل کر لیا "
+"ہے. کام کی تفصیلات دیکھنے کے لئے یا اس فائلوں کو پیدا کرنے کیلئے اس URL کو "
+"استعمال کریں: {detail_url}"
+
+msgid ""
+"Your {task_name} task has completed with the status '{task_status}'. Sign in"
+" to view the details of your task or download any files created."
+msgstr ""
+"آپ {task_name} کے کام نے حیثیت &#39;{task_status}&#39; کے ساتھ مکمل کر لیا "
+"ہے. اپنے کام کی تفصیلات دیکھنے کے لئے سائن ان کریں یا پیدا کردہ کسی بھی "
+"فائلوں کو ڈاؤن لوڈ کریں."
+
+msgid "{platform_name} {studio_name}: Task Status Update"
+msgstr "{platform_name} {سٹوڈیو_ نام}: ٹاسک اسٹیٹ اپ ڈیٹ"
+
+msgid "Required data to force publish course."
+msgstr "کورس شائع کرنے کے لئے ضروری اعداد و شمار."
+
+msgid "course-v1:edX+DemoX+Demo_Course"
+msgstr "کورس V1: edX + ڈیمو ایکس + ڈیموکوس"
+
+msgid "Force Publish Course"
+msgstr "فورس شائع کریں کورس"
+
+msgid "Reset values"
+msgstr "اقدار کو دوبارہ ترتیب دیں"
+
+msgid "Maintenance Dashboard"
+msgstr "بحالی ڈیش بورڈ"
+
+msgid "Thanks for activating your account."
+msgstr "اپنے اکاؤنٹ کو فعال کرنے کے لئے شکریہ."
+
+msgid "This account has already been activated."
+msgstr "یہ اکاؤنٹ پہلے ہی چالو کر دیا گیا ہے."
+
+msgid "Visit your {link_start}dashboard{link_end} to see your courses."
+msgstr ""
+"اپنے کورسوں کو دیکھنے کے لئے اپنے {link_start} ڈیش بورڈ {link_end} پر جائیں."
+
+msgid "You can now {link_start}sign in{link_end}."
+msgstr "آپ {link_start} سائن ان {link_end} کرسکتے ہیں."
+
+msgid "Activation Invalid"
+msgstr "چالو کرنے کی غلط"
+
+msgid ""
+"Something went wrong. Email programs sometimes split URLs into two lines, so"
+" make sure the URL you're using is formatted correctly. If you still have "
+"issues, send us an email message at {email_start}{email}{email_end}."
+msgstr ""
+"کچھ غلط ہو گیا. ای میل پروگرام کبھی کبھی دو لائنوں میں یو آر ایل کو تقسیم "
+"کرتی ہیں، لہذا اس بات کو یقینی بنائیں کہ آپ جو استعمال کرتے ہوئے یو آر ایل "
+"درست طریقے سے فارمیٹ کیا گیا ہے. اگر آپ اب بھی مسائل ہیں تو ہمیں "
+"{email_start} {ای میل} {email_end} پر ایک ای میل پیغام بھیجیں."
+
+msgid "Return to the {link_start}home page{link_end}."
+msgstr "{link_start} ہوم پیج {link_end} پر واپس جائیں."
+
+msgid ""
+"We've sent an email message to {email} with instructions for activating your"
+" account."
+msgstr ""
+"ہم نے اپنے اکاؤنٹ کو فعال کرنے کیلئے ہدایات کے ساتھ {ای میل} کو ایک ای میل "
+"پیغام بھیجا ہے."
+
+msgid "Policies"
+msgstr "پالیسییں"
+
+msgid "Accessibility Accommodation Request"
+msgstr "رسائی کی رہائش کی درخواست"
+
+msgid ""
+"EdX, Open edX, Studio, and the edX and Open edX logos are registered "
+"trademarks or trademarks of {link_start}edX Inc.{link_end}"
+msgstr ""
+"ایڈ ایکس، اوپن EDX، سٹوڈیو، اور edX اور اوپن edX لوگوز {link_start} edX "
+"انکارپوریٹڈ {link_end} کے رجسٹرڈ ٹریڈ مارک یا ٹریڈ مارک ہیں."
+
+msgid "Current Course:"
+msgstr "موجودہ کورس:"
+
+msgid "Course Navigation"
+msgstr "کورس نیوی گیشن"
+
+msgid "Outline"
+msgstr "آؤٹ لائن"
+
+msgid "Import"
+msgstr "درآمد کریں"
+
+msgid "Export"
+msgstr "برآمد کریں"
+
+msgid "Current Library:"
+msgstr "موجودہ لائبریری:"
+
+msgid "Library"
+msgstr "لائبریری"
+
+msgid "Language preference"
+msgstr "زبان کی ترجیحات"
+
+msgid "Account Navigation"
+msgstr "اکاؤنٹ نیویگیشن"
+
+msgid "Contextual Online Help"
+msgstr "متضاد آن لائن مدد"
+
+msgid "Launch Latex Source Compiler"
+msgstr "لیٹیکس ماخذ کمپائلر شروع کریں"
+
+msgid "Heading"
+msgstr "سرخی"
+
+msgid "Insert a heading"
+msgstr "سرخی ڈالیں"
+
+msgid "Multiple Choice"
+msgstr "کثیر الانتخاب"
+
+msgid "Add a multiple choice question"
+msgstr "ایک سے زیادہ پسند سوال شامل کریں"
+
+msgid "Checkboxes"
+msgstr "چیک باکس"
+
+msgid "Add a question with checkboxes"
+msgstr "چیک باکس کے ساتھ ایک سوال شامل کریں"
+
+msgid "Text Input"
+msgstr "ٹیکسٹ ان پٹ"
+
+msgid "Insert a text response"
+msgstr "ایک متن کے جواب داخل کریں"
+
+msgid "Numerical Input"
+msgstr "عددی ان پٹ"
+
+msgid "Insert a numerical response"
+msgstr "عددی جواب داخل کریں"
+
+msgid "Dropdown"
+msgstr "نیچے گرجانا"
+
+msgid "Insert a dropdown response"
+msgstr "ڈراپ ڈاؤن جواب داخل کریں"
+
+msgid "Explanation"
+msgstr "وضاحت"
+
+msgid "Add an explanation for this question"
+msgstr "اس سوال کے بارے میں وضاحت شامل کریں"
+
+msgid "Advanced Editor"
+msgstr "اعلی درجے کی ایڈیٹر"
+
+msgid "Toggle Cheatsheet"
+msgstr "دھوکہ / فشنگ"
+
+msgid "Label"
+msgstr "لیبل"
+
+msgid "Access the Open edX Portal"
+msgstr "کھولیں edX پورٹل تک رسائی حاصل کریں"
+
+msgid "Open edX Portal"
+msgstr "edX پورٹل کھولیں"
+
+msgid "Currently signed in as:"
+msgstr "فی الحال سائن ان کے طور پر:"
+
+msgid "Maintenance"
+msgstr "بحالی"
