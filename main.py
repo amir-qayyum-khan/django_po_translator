@@ -14,7 +14,7 @@ import polib
 translate_client = translate.Client()
 
 
-def chunks(array, max_size=50):
+def chunks(array, max_size=100):
     """Yield successive n-sized chunks from l."""
     for i in range(0, len(array), max_size):
         yield array[i:i + max_size]
@@ -47,6 +47,7 @@ def translate_file(lang, source_file_path, destination_folder, destination_name)
     for entry in po:
         list_of_translateables.append(entry.msgid)
 
+    check_count = 0
     for array in chunks(list_of_translateables):
         translations = translate_client.translate(
             array,
@@ -59,6 +60,11 @@ def translate_file(lang, source_file_path, destination_folder, destination_name)
             )
             po_dest.append(entry)
 
+        check_count +=1
+        print "Chunk count: {}".format(check_count)
+        if check_count % 17 == 0:
+            sleep(101)
+
     po_dest.save(destination_file)
 
 
@@ -67,6 +73,7 @@ def validate_and_translate_file(lang, file_path, dest_path):
         file_name = path.basename(file_path)
         file_base_name, extension = path.splitext(file_name)
         if extension == '.po':
+            print "Translating file path: {file_path}".format(file_path=file_path)
             translate_file(lang, file_path, dest_path, file_name)
             print "Translated file: {file_name}".format(file_name=file_name)
 
@@ -75,9 +82,8 @@ def extract_files_and_translate_folder(lang, folder_path, dest_path):
     if folder_path:
         files = find_files(folder_path)
         for file_path in files:
-            print "File translating path: {file_path}".format(file_path=file_path)
             validate_and_translate_file(lang, file_path, dest_path)
-            sleep(101)
+        print "Folder: {} is translated".format(folder_path)
 
 
 if __name__ == '__main__':

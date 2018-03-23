@@ -1,10 +1,16 @@
-For osx or linux.
+#### Introduction:
+This tool uses google translator to translate msgid(s) in django PO file. You can supply a target language 
+and folder or **.PO** file absolute location in the input and tool will provide you translated file(s) 
+in **dest** folder. 
 
 #### Setup
+- For osx or linux only.
 - Install requirements by running command on console.
+    
     ```pip install -r requirements.txt```
 - Setup google [service account key](https://cloud.google.com/translate/docs/reference/libraries#client-libraries-usage-python).
 - Export google service account key variable on console.
+ 
     ```export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"```
 
 
