@@ -5,8 +5,10 @@ in **dest** folder.
 
 I used this tool to translate [edX](https://github.com/edx/edx-platform/) strings in urdu language. 
 
+- Python 2 is used.
+- Tutorial for osx or linux only.
+
 #### Setup
-- For osx or linux only.
 - Install requirements by running command on console.
     
     ```pip install -r requirements.txt```
