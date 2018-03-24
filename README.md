@@ -21,15 +21,20 @@ I used this tool to translate [edX](https://github.com/edx/edx-platform/) string
 #### To run:
 - Use command ```python main.py```
 - Input file path like ```/Users/myname/work/sample/wiki.po```
-- Input language for example `ur` for `urdu` and `en` for `english`
+- Input language or languages for example `ur` for `urdu` and `en` for `english`.
+- For single language input like: `ur`
+- For multi language input like: `zh-CN,ur,ar`. You can add as much languages you want.
+ Add comma to separate them without spaces.
+- You can find list of supported languages [here](https://ctrlq.org/code/19899-google-translate-languages).
 
 ```python
 (ven) amir$ python main.py
 Please input file or folder full path: /Users/source/sample  # whole folder
-Please input target language i.e en for english: ur  # language code urdu selected
+Please input target language(s) comma separated i.e en for english: ur,ar  # language codes urdu, arabic
 ```
 
 #### Useful links
 - https://cloud.google.com/translate/quotas
 - http://polib.readthedocs.io/en/latest/quickstart.html#creating-po-catalogs-from-scratch
 - https://cloud.google.com/translate/docs/reference/libraries#client-libraries-resources-go
+ 

@@ -1,0 +1,508 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Course team user does not exist"
+msgstr "مستخدم فريق الدورة التدريبية غير موجود"
+
+msgid ""
+"The groups in this configuration can be mapped to cohorts in the Instructor "
+"Dashboard."
+msgstr ""
+"يمكن تعيين المجموعات في هذا التكوين إلى مجموعات نموذجية في لوحة معلومات "
+"المعلم."
+
+msgid "Content Groups"
+msgstr "مجموعات المحتوى"
+
+msgid "invalid JSON"
+msgstr "غير صالح JSON"
+
+msgid "must have name of the configuration"
+msgstr "يجب أن يكون اسم التكوين"
+
+msgid "must have at least one group"
+msgstr "يجب أن يكون لديك مجموعة واحدة على الأقل"
+
+msgid "Invalid course update id."
+msgstr "معرف تحديث دورة غير صالح."
+
+msgid "Course update not found."
+msgstr "لم يتم العثور على تحديث الدورة التدريبية."
+
+msgid "Could not index item: {}"
+msgstr "تعذر فهرسة العنصر: {}"
+
+msgid "General indexing error occurred"
+msgstr "حدث خطأ عام في الفهرسة"
+
+msgid "(Unnamed)"
+msgstr "(لم يذكر اسمه)"
+
+msgid ""
+"GIT_REPO_EXPORT_DIR not set or path {0} doesn't exist, please create it, or "
+"configure a different path with GIT_REPO_EXPORT_DIR"
+msgstr ""
+"GIT_REPO_EXPORT_DIR لم يتم التعيين أو المسار {0} غير موجود ، يرجى إنشائه ، "
+"أو تكوين مسار مختلف باستخدام GIT_REPO_EXPORT_DIR"
+
+msgid ""
+"Non writable git url provided. Expecting something like: "
+"git@github.com:mitocw/edx4edx_lite.git"
+msgstr ""
+"غير قابل للكتابة رابط url المقدمة. توقع شيء من هذا القبيل: git@github.com: "
+"mitocw / edx4edx_lite.git"
+
+msgid ""
+"If using http urls, you must provide the username and password in the url. "
+"Similar to https://user:pass@github.com/user/course."
+msgstr ""
+"إذا كنت تستخدم عناوين url http ، فيجب عليك تقديم اسم المستخدم وكلمة المرور "
+"في عنوان url. على غرار https: // user: pass@github.com/user/course."
+
+msgid "Unable to determine branch, repo in detached HEAD mode"
+msgstr "غير قادر على تحديد الفرع ، الريبو في وضع HEAD منفصل"
+
+msgid "Unable to update or clone git repository."
+msgstr "غير قادر على تحديث أو استنساخ مستودع git."
+
+msgid "Unable to export course to xml."
+msgstr "غير قادر على تصدير الدورة التدريبية إلى xml."
+
+msgid "Unable to configure git username and password"
+msgstr "غير قادر على تكوين اسم المستخدم git وكلمة المرور"
+
+msgid ""
+"Unable to commit changes. This is usually because there are no changes to be"
+" committed"
+msgstr ""
+"غير قادر على ارتكاب التغييرات. هذا عادة بسبب عدم وجود تغييرات يتم الالتزام "
+"بها"
+
+msgid ""
+"Unable to push changes.  This is usually because the remote repository "
+"cannot be contacted"
+msgstr ""
+"غير قادر على دفع التغييرات. هذا عادة لأنه لا يمكن الاتصال بمستودع التخزين عن"
+" بعد"
+
+msgid "Bad course location provided"
+msgstr "مكان سيئة بالطبع المقدمة"
+
+msgid "Missing branch on fresh clone"
+msgstr "فرع مفقود على استنساخ جديد"
+
+msgid ""
+"Take the specified course and attempt to export it to a git repository\n"
+". Course directory must already be a git repository. Usage:  git_export <course_loc> <git_url>"
+msgstr ""
+"خذ الدورة المحددة وحاول تصديرها إلى مستودع git. يجب أن يكون دليل الدورة "
+"بالفعل مستودع git. الاستخدام: git_export <course_loc><git_url>"
+
+msgid "Unknown User ID: {0}"
+msgstr "معرف المستخدم غير معروف: {0}"
+
+msgid "Permission denied"
+msgstr "طلب الاذن مرفوض"
+
+msgid "We only support uploading a .tar.gz file."
+msgstr "نحن ندعم فقط تحميل ملف .tar.gz."
+
+msgid "Tar file not found"
+msgstr "ملف القطران غير موجود"
+
+msgid "Unsafe tar file. Aborting import."
+msgstr "ملف tar غير آمن. إحباط الاستيراد."
+
+msgid "Could not find the {0} file in the package."
+msgstr "تعذر العثور على الملف {0} في الحزمة."
+
+msgid "Deleted Group"
+msgstr "مجموعة محذوفة"
+
+msgid "{previous_groups}, {current_group}"
+msgstr "{previous_groups} ، {current_group}"
+
+msgid "Upload completed"
+msgstr "اكتمل التحميل"
+
+msgid ""
+"File {filename} exceeds maximum size of {maximum_size_in_megabytes} MB."
+msgstr ""
+"يتجاوز الملف {filename} الحجم الأقصى {maximum_size_in_megabytes} ميغابايت."
+
+msgid "must have name of the certificate"
+msgstr "يجب أن يكون اسم الشهادة"
+
+msgid "Certificate dict {0} missing value key '{1}'"
+msgstr "شهادة dict {0} مفتاح القيمة المفقودة &#39;{1}&#39;"
+
+msgid "PermissionDenied: Failed in authenticating {user}"
+msgstr "PermiedDenied: فشل في المصادقة على {user}"
+
+msgid "{platform_name} Support Levels:"
+msgstr "{platform_name} مستويات الدعم:"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Video"
+msgstr "فيديو"
+
+msgid "Blank"
+msgstr "فراغ"
+
+msgid "Course has been successfully reindexed."
+msgstr "تم إعادة فهرسة الدورة بنجاح."
+
+msgid "Unscheduled"
+msgstr "غير المجدولة"
+
+msgid ""
+"Special characters not allowed in organization, course number, and course "
+"run."
+msgstr ""
+"لا يُسمح بالحروف الخاصة في المؤسسة ورقم الدورة التدريبية والمسار الدراسي."
+
+msgid ""
+"There is already a course defined with the same organization and course "
+"number. Please change either organization or course number to be unique."
+msgstr ""
+"هناك بالفعل دورة محددة مع نفس المنظمة ورقم الدورة التدريبية. يرجى تغيير إما "
+"رقم المنظمة أو الدورة ليكون فريدًا."
+
+msgid ""
+"Please change either the organization or course number so that it is unique."
+msgstr "الرجاء تغيير رقم المؤسسة أو الدورة التدريبية بحيث تكون فريدة."
+
+msgid ""
+"Unable to create course '{name}'.\n"
+"\n"
+"{err}"
+msgstr "يتعذر إنشاء الدورة التدريبية &quot;{name}&quot;. {يخطئ}"
+
+msgid ""
+"You must link this course to an organization in order to continue. "
+"Organization you selected does not exist in the system, you will need to add"
+" it to the system"
+msgstr ""
+"يجب عليك ربط هذه الدورة التدريبية بمؤسسة من أجل المتابعة. المنظمة التي "
+"حددتها غير موجودة في النظام ، ستحتاج إلى إضافتها إلى النظام"
+
+msgid "Invalid prerequisite course key"
+msgstr "مفتاح دورة أساسية غير صالح"
+
+msgid "An error occurred while trying to save your tabs"
+msgstr "حدث خطأ أثناء محاولة حفظ علامات التبويب"
+
+msgid "Tabs Exception"
+msgstr "استثناءات علامات التبويب"
+
+msgid "This group configuration is in use and cannot be deleted."
+msgstr "تكون تهيئة المجموعة قيد الاستخدام ولا يمكن حذفها."
+
+msgid "This content group is in use and cannot be deleted."
+msgstr "مجموعة المحتوى هذه قيد الاستخدام ولا يمكن حذفها."
+
+msgid "Entrance Exam - Subsection"
+msgstr "امتحان الدخول - قسم فرعي"
+
+msgid "Completed Course Entrance Exam"
+msgstr "اكتمل اختبار مدخل الدورة التدريبية"
+
+msgid "Course successfully exported to git repository"
+msgstr "تم تصدير الدورة بنجاح إلى مستودع git"
+
+msgid "Vertical"
+msgstr "عمودي"
+
+msgid "File upload corrupted. Please try again"
+msgstr "تحميل الملف تالف. حاول مرة اخرى"
+
+msgid "Invalid data"
+msgstr "بيانات غير صالحة"
+
+msgid "Invalid data ({details})"
+msgstr "بيانات غير صالحة ({التفاصيل})"
+
+msgid "You can not move {source_type} into {target_parent_type}."
+msgstr "لا يمكنك نقل {source_type} إلى {target_parent_type}."
+
+msgid "Item is already present in target location."
+msgstr "العنصر موجود بالفعل في الموقع المستهدف."
+
+msgid "You can not move an item into itself."
+msgstr "لا يمكنك نقل عنصر داخل نفسه."
+
+msgid "You can not move an item into it's child."
+msgstr "لا يمكنك نقل عنصر داخل الطفل."
+
+msgid "You can not move an item directly into content experiment."
+msgstr "لا يمكنك نقل عنصر مباشرةً إلى تجربة المحتوى."
+
+msgid "{source_usage_key} not found in {parent_usage_key}."
+msgstr "{source_usage_key} غير موجود في {parent_usage_key}."
+
+msgid ""
+"You can not move {source_usage_key} at an invalid index ({target_index})."
+msgstr "لا يمكنك نقل {source_usage_key} في فهرس غير صالح ({target_index})."
+
+msgid "You must provide target_index ({target_index}) as an integer."
+msgstr "يجب عليك تقديم target_index ({target_index}) كعدد صحيح."
+
+msgid "Duplicate of {0}"
+msgstr "تكرار من {0}"
+
+msgid "Duplicate of '{0}'"
+msgstr "نسخة مكررة من &#39;{0}&#39;"
+
+msgid ""
+"Students must score {score}{pct_sign} or higher to access course materials."
+msgstr ""
+"يجب أن يسجل الطلاب {score} {pct_sign} أو أعلى للوصول إلى مواد الدورة "
+"التدريبية."
+
+msgid "%"
+msgstr "٪"
+
+msgid "{section_or_subsection} \"{display_name}\""
+msgstr "{section_or_subsection} &quot;{display_name}&quot;"
+
+msgid "Unable to create library - missing required field '{field}'"
+msgstr "يتعذر إنشاء المكتبة - الحقل المطلوب مفقود &quot;{field}&quot;"
+
+msgid ""
+"Unable to create library '{name}'.\n"
+"\n"
+"{err}"
+msgstr "يتعذر إنشاء المكتبة &quot;{name}&quot;. {يخطئ}"
+
+msgid ""
+"There is already a library defined with the same organization and library "
+"code. Please change your library code so that it is unique within your "
+"organization."
+msgstr ""
+"توجد بالفعل مكتبة محددة بنفس المنظمة ورمز المكتبة. يرجى تغيير رمز مكتبتك "
+"بحيث تكون فريدة داخل مؤسستك."
+
+msgid "Access restricted to: {list_of_groups}"
+msgstr "الدخول مقيد إلى: {list_of_groups}"
+
+msgid "The information you entered is incorrect."
+msgstr "المعلومات التي أدخلتها غير صحيحة."
+
+msgid "The following parameters are required: {missing}."
+msgstr "المعلمات التالية مطلوبة: {missing}."
+
+msgid "A transcript with the \"{language_code}\" language code already exists."
+msgstr "يوجد بالفعل نص مع رمز اللغة &quot;{language_code}&quot;."
+
+msgid "A transcript file is required."
+msgstr "ملف النص مطلوب."
+
+msgid ""
+"There is a problem with this transcript file. Try to upload a different "
+"file."
+msgstr "هناك مشكلة في ملف النص هذا. حاول تحميل ملف مختلف."
+
+msgid "Incoming video data is empty."
+msgstr "بيانات الفيديو الواردة فارغة."
+
+msgid "Can't find item by locator."
+msgstr "لا يمكن العثور على العنصر حسب الموقع."
+
+msgid "Transcripts are supported only for \"video\" modules."
+msgstr "يتم دعم النصوص فقط لوحدات &quot;الفيديو&quot;."
+
+msgid "Insufficient permissions"
+msgstr "أذونات غير كافية"
+
+msgid "Could not find user by email address '{email}'."
+msgstr ""
+"تعذر العثور على المستخدم عن طريق عنوان البريد الإلكتروني "
+"&quot;{email}&quot;."
+
+msgid "No `role` specified."
+msgstr "لا &quot;دور&quot; محدد."
+
+msgid "User {email} has registered but has not yet activated his/her account."
+msgstr "سجل المستخدم {email} ولكنه لم يقم بعد بتنشيط حسابه."
+
+msgid "Invalid `role` specified."
+msgstr "&quot;دور&quot; غير صالح محدد."
+
+msgid "You may not remove the last Admin. Add another Admin first."
+msgstr "لا يجوز لك إزالة المشرف الأخير. أضف مسؤولاً آخر أولاً."
+
+msgid "Uploading"
+msgstr "تحميل"
+
+msgid "In Progress"
+msgstr "في تَقَدم"
+
+msgid "Ready"
+msgstr "جاهز"
+
+msgid "Uploaded"
+msgstr "تم تحميلها"
+
+msgid "Failed"
+msgstr "فشل"
+
+msgid "Cancelled"
+msgstr "ألغيت"
+
+msgid "Failed Duplicate"
+msgstr "فشل تكرار"
+
+msgid "YouTube Duplicate"
+msgstr "يوتيوب مكررة"
+
+msgid "Invalid Token"
+msgstr "رمز غير صالح"
+
+msgid "Imported"
+msgstr "مستورد"
+
+msgid "Unknown"
+msgstr "غير معروف"
+
+msgid "Transcription in Progress"
+msgstr "النسخ قيد التقدم"
+
+msgid "Transcript Ready"
+msgstr "نسخة جاهزة"
+
+msgid "The image must have name, content type, and size information."
+msgstr "يجب أن تحتوي الصورة على اسم ونوع المحتوى ومعلومات الحجم."
+
+msgid ""
+"This image file type is not supported. Supported file types are "
+"{supported_file_formats}."
+msgstr ""
+"نوع ملف الصورة هذا غير مدعوم. أنواع الملفات المدعومة هي "
+"{supported_file_formats}."
+
+msgid "This image file must be smaller than {image_max_size}."
+msgstr "يجب أن يكون ملف الصورة أصغر من {image_max_size}."
+
+msgid "This image file must be larger than {image_min_size}."
+msgstr "يجب أن يكون ملف الصورة هذا أكبر من {image_min_size}."
+
+msgid ""
+"There is a problem with this image file. Try to upload a different file."
+msgstr "هناك مشكلة في ملف الصورة هذا. حاول تحميل ملف مختلف."
+
+msgid ""
+"Recommended image resolution is "
+"{image_file_max_width}x{image_file_max_height}. The minimum resolution is "
+"{image_file_min_width}x{image_file_min_height}."
+msgstr ""
+"دقة الصورة الموصى بها هي {image_file_max_width} x {image_file_max_height}. "
+"الحد الأدنى للدقة هو {image_file_min_width} x {image_file_min_height}."
+
+msgid ""
+"This image file must have an aspect ratio of "
+"{video_image_aspect_ratio_text}."
+msgstr ""
+"يجب أن يكون لملف الصورة هذا نسبة عرض إلى ارتفاع "
+"{video_image_aspect_ratio_text}."
+
+msgid ""
+"The image file name can only contain letters, numbers, hyphens (-), and "
+"underscores (_)."
+msgstr ""
+"لا يمكن أن يحتوي اسم ملف الصورة إلا على أحرف وأرقام وواصلات (-) وشرطات سفلية"
+" (_)."
+
+msgid "An image file is required."
+msgstr "ملف الصورة مطلوب."
+
+msgid "{profile_name} URL"
+msgstr "{profile_name} URL"
+
+msgid "Duration"
+msgstr "المدة الزمنية"
+
+msgid "Date Added"
+msgstr "تم إضافة التاريخ"
+
+msgid "{course}_video_urls"
+msgstr "{بالطبع} _video_urls"
+
+msgid "unrequested"
+msgstr "غير مطلوبة"
+
+msgid "pending"
+msgstr "قيد الانتظار"
+
+msgid "granted"
+msgstr "منحت"
+
+msgid "denied"
+msgstr "رفض"
+
+msgid "Studio user"
+msgstr "مستخدم الاستوديو"
+
+msgid "The date when state was last updated"
+msgstr "تاريخ آخر تحديث للولاية"
+
+msgid "Current course creator state"
+msgstr "دولة مبدع الدورة الحالية"
+
+msgid ""
+"Optional notes about this user (for example, why course creation access was "
+"denied)"
+msgstr ""
+"ملاحظات اختيارية حول هذا المستخدم (على سبيل المثال ، سبب رفض الوصول إلى "
+"الدورة التدريبية)"
+
+msgid "Force Publish Course"
+msgstr "قوة نشر الدورة"
+
+msgid ""
+"Sometimes the draft and published branches of a course can get out of sync. "
+"Force publish course command resets the published branch of a course to "
+"point to the draft branch, effectively force publishing the course. This "
+"view dry runs the force publish command"
+msgstr ""
+"في بعض الأحيان ، قد لا تتم مزامنة مسودة وأقسام مقررات الدورة التدريبية. يقوم"
+" أمر فرض نشر الدورة بإعادة تعيين الفرع المنشور للدورة التدريبية للإشارة إلى "
+"مسودة الفرع ، مما يجبر فعليًا على نشر الدورة التدريبية. تعمل هذه طريقة العرض"
+" الجافة على تشغيل أمر النشر force"
+
+msgid "Please provide course id."
+msgstr "يرجى تقديم معرف الدورة."
+
+msgid "Invalid course key."
+msgstr "مفتاح دورة غير صالح."
+
+msgid "No matching course found."
+msgstr "لم يتم العثور على دورة مطابقة."
+
+msgid "Force publishing course is not supported with old mongo courses."
+msgstr "لا يتم دعم الدورة التدريبية عبر النشر باستخدام دورات mongo القديمة."
+
+msgid "Course is already in published state."
+msgstr "بالطبع بالفعل في حالة المنشورة."
+
+msgid "Incorrect format for field '{name}'. {detailed_message}"
+msgstr "تنسيق غير صحيح للحقل &quot;{name}&quot;. {DETAILED_MESSAGE}"
+
+msgid "Your Platform Studio"
+msgstr "ستوديو النظام الأساسي الخاص بك"
+
+msgid "Studio"
+msgstr "ستوديو"
+
+msgid "Dictionary with the available tags"
+msgstr "القاموس مع العلامات المتاحة"
+
+msgid "Studio Administration"
+msgstr "إدارة الاستوديو"

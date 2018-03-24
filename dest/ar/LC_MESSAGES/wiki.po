@@ -1,0 +1,522 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: amir.qayyum.khan@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "created"
+msgstr "خلقت"
+
+msgid "Wiki notifications"
+msgstr "إشعارات ويكي"
+
+msgid "Wiki images"
+msgstr "صور ويكي"
+
+msgid "Wiki attachments"
+msgstr "مرفقات ويكي"
+
+msgid "Only localhost... muahahaha"
+msgstr "فقط localhost ... muahahaha"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Initial title of the article. May be overridden with revision titles."
+msgstr "العنوان الأولي للمقال. قد يتم تجاوز عناوين المراجعة."
+
+msgid "Type in some contents"
+msgstr "اكتب في بعض المحتويات"
+
+msgid ""
+"This is just the initial contents of your article. After creating it, you "
+"can use more complex features like adding plugins, meta data, related "
+"articles etc..."
+msgstr ""
+"هذه فقط المحتويات الأولية لمقالتك. بعد إنشائه ، يمكنك استخدام ميزات أكثر "
+"تعقيدًا مثل إضافة مكونات إضافية وبيانات وصفية ومقالات ذات صلة وما إلى ذلك "
+"..."
+
+msgid "Contents"
+msgstr "محتويات"
+
+msgid "Summary"
+msgstr "ملخص"
+
+msgid ""
+"Give a short reason for your edit, which will be stated in the revision log."
+msgstr "حدد سببًا قصيريًا لتعديلك ، والذي سيتم ذكره في سجل المراجعة."
+
+msgid ""
+"While you were editing, someone else changed the revision. Your contents "
+"have been automatically merged with the new contents. Please review the text"
+" below."
+msgstr ""
+"أثناء تعديلك ، غيّر شخص آخر المراجعة. تم دمج محتوياتك تلقائيًا مع المحتويات "
+"الجديدة. يرجى مراجعة النص أدناه."
+
+msgid "No changes made. Nothing to save."
+msgstr "لم يتم إجراء أي تغييرات. لا شيء لإنقاذ."
+
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+msgid "Slug"
+msgstr "سبيكة"
+
+msgid ""
+"This will be the address where your article can be found. Use only "
+"alphanumeric characters and - or _. Note that you cannot change the slug "
+"after creating the article."
+msgstr ""
+"سيكون هذا هو العنوان الذي يمكن العثور فيه على مقالك. استخدم فقط الأحرف "
+"الأبجدية الرقمية و - أو _. لاحظ أنه لا يمكنك تغيير المقدار بعد إنشاء "
+"المقالة."
+
+msgid "Write a brief message for the article's history log."
+msgstr "اكتب رسالة مختصرة لسجل سجل المقالات."
+
+msgid "A slug may not begin with an underscore."
+msgstr "قد لا تبدأ سبيكة مع شرطة سفلية."
+
+msgid "A deleted article with slug \"%s\" already exists."
+msgstr "توجد بالفعل مقالة محذوفة تحتوي على كود &quot;٪ s&quot;."
+
+msgid "A slug named \"%s\" already exists."
+msgstr "يوجد بالفعل عنصر ثابت يسمى &quot;٪ s&quot;."
+
+msgid "Yes, I am sure"
+msgstr "نعم أنا متأكد"
+
+msgid "Purge"
+msgstr "تطهير"
+
+msgid ""
+"Purge the article: Completely remove it (and all its contents) with no undo."
+" Purging is a good idea if you want to free the slug such that users can "
+"create new articles in its place."
+msgstr ""
+"تطهير المقالة: قم بإزالتها تمامًا (وجميع محتوياتها) بدون أي تراجع. Purging "
+"هي فكرة جيدة إذا كنت ترغب في تحرير سبيكة بحيث يمكن للمستخدمين إنشاء مقالات "
+"جديدة في مكانها."
+
+msgid "You are not sure enough!"
+msgstr "أنت غير متأكد بما فيه الكفاية!"
+
+msgid "While you tried to delete this article, it was modified. TAKE CARE!"
+msgstr "أثناء محاولة حذف هذه المقالة ، تم تعديلها. اعتن بنفسك!"
+
+msgid "Lock article"
+msgstr "قفل المادة"
+
+msgid "Deny all users access to edit this article."
+msgstr "رفض جميع المستخدمين الوصول إلى تحرير هذه المقالة."
+
+msgid "Permissions"
+msgstr "أذونات"
+
+msgid "Owner"
+msgstr "صاحب"
+
+msgid "Enter the username of the owner."
+msgstr "أدخل اسم المستخدم الخاص بالمالك."
+
+msgid "(none)"
+msgstr "(لا يوجد)"
+
+msgid "Inherit permissions"
+msgstr "وراثة الأذونات"
+
+msgid ""
+"Check here to apply the above permissions recursively to articles under this"
+" one."
+msgstr ""
+"تحقق هنا لتطبيق الأذونات المذكورة أعلاه بشكل متكرر على المقالات الموجودة تحت"
+" هذه المقالة."
+
+msgid "Permission settings for the article were updated."
+msgstr "تم تحديث إعدادات إذن للمادة."
+
+msgid "Your permission settings were unchanged, so nothing saved."
+msgstr "لم تتغير إعدادات الإذن ، لذا لم يتم حفظ أي شيء."
+
+msgid "No user with that username"
+msgstr "لا يوجد مستخدم بهذا الاسم"
+
+msgid "Article locked for editing"
+msgstr "مقفل مقفل للتحرير"
+
+msgid "Article unlocked for editing"
+msgstr "المادة غير مقفلة للتحرير"
+
+msgid "Filter"
+msgstr "منقي"
+
+msgid "Settings for plugin"
+msgstr "إعدادات البرنامج المساعد"
+
+msgid "current revision"
+msgstr "مراجعة حالية"
+
+msgid ""
+"The revision being displayed for this article. If you need to do a roll-"
+"back, simply change the value of this field."
+msgstr ""
+"المراجعة التي يتم عرضها لهذه المقالة. إذا كنت بحاجة إلى إجراء التراجع ، فما "
+"عليك سوى تغيير قيمة هذا الحقل."
+
+msgid "modified"
+msgstr "تم التعديل"
+
+msgid "Article properties last modified"
+msgstr "آخر تعديل للمادة"
+
+msgid "owner"
+msgstr "صاحب"
+
+msgid ""
+"The owner of the article, usually the creator. The owner always has both "
+"read and write access."
+msgstr ""
+"مالك المقال ، عادةً المنشئ. يمتلك المالك دائمًا حق الوصول للقراءة والكتابة."
+
+msgid "group"
+msgstr "مجموعة"
+
+msgid ""
+"Like in a UNIX file system, permissions can be given to a user according to "
+"group membership. Groups are handled through the Django auth system."
+msgstr ""
+"كما هو الحال في نظام ملفات UNIX ، يمكن إعطاء الأذونات إلى مستخدم وفقًا "
+"لعضوية المجموعة. يتم التعامل مع المجموعات من خلال نظام المصادقة Django."
+
+msgid "group read access"
+msgstr "مجموعة قراءة الوصول"
+
+msgid "group write access"
+msgstr "وصول مجموعة الكتابة"
+
+msgid "others read access"
+msgstr "الآخرين قراءة الوصول"
+
+msgid "others write access"
+msgstr "الآخرين الكتابة الوصول"
+
+msgid "Article without content (%(id)d)"
+msgstr "المادة دون محتوى (٪ (معرف) د)"
+
+msgid "content type"
+msgstr "نوع المحتوى"
+
+msgid "object ID"
+msgstr "معرف الكائن"
+
+msgid "Article for object"
+msgstr "المادة للكائن"
+
+msgid "Articles for object"
+msgstr "مقالات عن وجوه"
+
+msgid "revision number"
+msgstr "رقم المراجعة"
+
+msgid "IP address"
+msgstr "عنوان IP"
+
+msgid "user"
+msgstr "المستعمل"
+
+msgid "deleted"
+msgstr "تم الحذف"
+
+msgid "locked"
+msgstr "مقفل"
+
+msgid "article"
+msgstr "مقالة - سلعة"
+
+msgid "article contents"
+msgstr "محتويات المقالة"
+
+msgid "article title"
+msgstr "عنوان المقال"
+
+msgid ""
+"Each revision contains a title field that must be filled out, even if the "
+"title has not changed"
+msgstr "تحتوي كل مراجعة على حقل عنوان يجب ملؤه ، حتى إذا لم يتغير العنوان"
+
+msgid "original article"
+msgstr "المقالة الأصلية"
+
+msgid "Permissions are inherited from this article"
+msgstr "يتم توريث الأذونات من هذه المقالة"
+
+msgid "A plugin was changed"
+msgstr "تم تغيير المكون الإضافي"
+
+msgid ""
+"The revision being displayed for this plugin.If you need to do a roll-back, "
+"simply change the value of this field."
+msgstr ""
+"يتم عرض النسخة السابقة لهذا المكون الإضافي.إذا كنت بحاجة إلى إجراء التراجع ،"
+" ما عليك سوى تغيير قيمة هذا الحقل."
+
+msgid "Cache lookup value for articles"
+msgstr "قيمة بحث ذاكرة التخزين المؤقت للمقالات"
+
+msgid "slug"
+msgstr "سبيكة"
+
+msgid "(root)"
+msgstr "(جذر)"
+
+msgid "URL path"
+msgstr "مسار عنوان URL"
+
+msgid "URL paths"
+msgstr "مسارات عنوان URL"
+
+msgid "Sorry but you cannot have a root article with a slug."
+msgstr "عذرًا ، ولكن لا يمكنك الحصول على مقالة جذرية تحتوي على سبيكة."
+
+msgid "A non-root note must always have a slug."
+msgstr "يجب أن تحتوي الملاحظة غير الجذرية دائمًا على سبيكة."
+
+msgid "There is already a root node on %s"
+msgstr "توجد بالفعل عقدة جذر في٪ s"
+
+msgid ""
+"Articles who lost their parents\n"
+"===============================\n"
+"\n"
+"The children of this article have had their parents deleted. You should probably find a new home for them."
+msgstr ""
+"المقالات الذين فقدوا والديهم =============================== لقد تم حذف "
+"آبائهم من هذا المقال. ربما يجب عليك العثور على منزل جديد لهم."
+
+msgid "Lost and found"
+msgstr "فقدت ووجدت"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "A short summary of what the file contains"
+msgstr "ملخص قصير لما يحتويه الملف"
+
+msgid "Yes I am sure..."
+msgstr "نعم أنا متأكد..."
+
+msgid "Click to download file"
+msgstr "انقر لتنزيل الملف"
+
+msgid ""
+"The revision of this attachment currently in use (on all articles using the "
+"attachment)"
+msgstr "مراجعة هذا المرفق قيد الاستخدام (على جميع المقالات باستخدام المرفق)"
+
+msgid "original filename"
+msgstr "اسم الملف الأصلي"
+
+msgid "attachment"
+msgstr "المرفق"
+
+msgid "attachments"
+msgstr "مرفقات"
+
+msgid "file"
+msgstr "ملف"
+
+msgid "attachment revision"
+msgstr "مراجعة المرفق"
+
+msgid "attachment revisions"
+msgstr "مراجعات المرفقات"
+
+msgid "%s was successfully added."
+msgstr "تمت إضافة٪ s بنجاح."
+
+msgid "Your file could not be saved: %s"
+msgstr "تعذر حفظ الملف الخاص بك:٪ s"
+
+msgid ""
+"Your file could not be saved, probably because of a permission error on the "
+"web server."
+msgstr "تعذر حفظ ملفك ، ربما بسبب خطأ في الإذن على خادم الويب."
+
+msgid "%s uploaded and replaces old attachment."
+msgstr "٪ s تم تحميلها وتحل محل المرفق القديم."
+
+msgid ""
+"Your new file will automatically be renamed to match the file already "
+"present. Files with different extensions are not allowed."
+msgstr ""
+"ستتم إعادة تسمية ملفك الجديد تلقائيًا ليطابق الملف الموجود بالفعل. الملفات "
+"ذات الامتدادات المختلفة غير مسموح بها."
+
+msgid "Current revision changed for %s."
+msgstr "تم تغيير النسخة الحالية لـ٪ s."
+
+msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
+msgstr "تمت إضافة مرجع إلى &quot;٪ (att) s&quot; من &quot;٪ (art) s&quot;."
+
+msgid "The file %s was deleted."
+msgstr "تم حذف الملف٪ s."
+
+msgid "This article is no longer related to the file %s."
+msgstr "لم تعد هذه المقالة مرتبطة بالملف٪ s."
+
+msgid "Attachments"
+msgstr "مرفقات"
+
+msgid "A file was changed: %s"
+msgstr "تم تغيير الملف:٪ s"
+
+msgid "A file was deleted: %s"
+msgstr "تم حذف الملف:٪ s"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid ""
+"New image %s was successfully uploaded. You can use it by selecting it from "
+"the list of available images."
+msgstr ""
+"تم تحميل صورة جديدة٪ s بنجاح. يمكنك استخدامه عن طريق تحديده من قائمة الصور "
+"المتاحة."
+
+msgid "Are you sure?"
+msgstr "هل أنت واثق؟"
+
+msgid "image"
+msgstr "صورة"
+
+msgid "images"
+msgstr "صور"
+
+msgid "Image: %s"
+msgstr "الصورة:٪ s"
+
+msgid "Current revision not set!!"
+msgstr "المراجعة الحالية لم يتم ضبطها !!"
+
+msgid "image revision"
+msgstr "مراجعة الصورة"
+
+msgid "image revisions"
+msgstr "صور التنقيحات"
+
+msgid "Image Revsion: %d"
+msgstr "Revsion الصورة:٪ d"
+
+msgid "%s has been restored"
+msgstr "تمت استعادة٪ s"
+
+msgid "%s has been marked as deleted"
+msgstr "تم وضع علامة على٪ s كمحذف"
+
+msgid "%(file)s has been changed to revision #%(revision)d"
+msgstr "تم تغيير٪ (file) s إلى المراجعة #٪ (المراجعة) d"
+
+msgid "%(file)s has been saved."
+msgstr "تم حفظ٪ (file) s."
+
+msgid "Images"
+msgstr "صور"
+
+msgid "An image was added: %s"
+msgstr "تمت إضافة صورة:٪ s"
+
+msgid "Links"
+msgstr "الروابط"
+
+msgid "Notifications"
+msgstr "إخطارات"
+
+msgid "When this article is edited"
+msgstr "عندما يتم تحرير هذه المقالة"
+
+msgid "Also receive emails about article edits"
+msgstr "تلقي أيضًا رسائل إلكترونية حول تعديلات المقالة"
+
+msgid "Your notification settings were updated."
+msgstr "تم تحديث إعدادات الإشعارات الخاصة بك."
+
+msgid "Your notification settings were unchanged, so nothing saved."
+msgstr "لم تتغير إعدادات الإشعارات ، لذا لم يتم حفظ أي شيء."
+
+msgid "%(user)s subscribing to %(article)s (%(type)s)"
+msgstr "٪ (user) s subscribing to٪ (article) s (٪ (type) s)"
+
+msgid "Article deleted: %s"
+msgstr "المادة المحذوفة:٪ s"
+
+msgid "Article modified: %s"
+msgstr "تعديل المادة:٪ s"
+
+msgid "New article created: %s"
+msgstr "تم إنشاء مقالة جديدة:٪ s"
+
+msgid "You are now sign up... and now you can sign in!"
+msgstr "أنت الآن تسجل ... والآن يمكنك تسجيل الدخول!"
+
+msgid "You are no longer logged in. Bye bye!"
+msgstr "لم تعد مسجلاً للدخول."
+
+msgid "You are now logged in! Have fun!"
+msgstr "قمت بتسجيل الدخول الآن في! إستمتع!"
+
+msgid "New article '%s' created."
+msgstr "تم إنشاء مقالة جديدة &quot;٪ s&quot;."
+
+msgid "There was an error creating this article: %s"
+msgstr "حدث خطأ أثناء إنشاء هذه المقالة:٪ s"
+
+msgid "There was an error creating this article."
+msgstr "حدث خطأ أثناء إنشاء هذه المقالة."
+
+msgid ""
+"This article cannot be deleted because it has children or is a root article."
+msgstr "لا يمكن حذف هذه المقالة لأنها تحتوي على أطفال أو أنها مقالة أساسية."
+
+msgid ""
+"This article together with all its contents are now completely gone! Thanks!"
+msgstr "هذه المادة مع جميع محتوياتها هي الآن ذهبت تماما! شكر!"
+
+msgid ""
+"The article \"%s\" is now marked as deleted! Thanks for keeping the site "
+"free from unwanted material!"
+msgstr ""
+"تم وضع علامة على المقالة &quot;٪ s&quot; كمحذوفة الآن! شكرا لحفظ الموقع "
+"خالية من المواد غير المرغوب فيها!"
+
+msgid "Your changes were saved."
+msgstr "تم حفظ التغييرات الخاصة بك."
+
+msgid "A new revision of the article was successfully added."
+msgstr "تمت إضافة مراجعة جديدة للمادة بنجاح."
+
+msgid "Restoring article"
+msgstr "استعادة المادة"
+
+msgid "The article \"%s\" and its children are now restored."
+msgstr "تتم الآن استعادة المقالة &quot;٪ s&quot; وأطفالها."
+
+msgid ""
+"The article %(title)s is now set to display revision #%(revision_number)d"
+msgstr ""
+"يتم الآن تعيين المقالة٪ (title) s لعرض المراجعة #٪ (revision_number) d"
+
+msgid "New title"
+msgstr "العنوان الجديد"
+
+msgid "Merge between Revision #%(r1)d and Revision #%(r2)d"
+msgstr "دمج بين المراجعة #٪ (r1) د ومراجعة #٪ (r2) د"
+
+msgid ""
+"A new revision was created: Merge between Revision #%(r1)d and Revision "
+"#%(r2)d"
+msgstr "تم إنشاء مراجعة جديدة: دمج بين المراجعة #٪ (r1) d ومراجعة #٪ (r2) د"
