@@ -53,8 +53,13 @@ def translate_file(languages, source_file_path, destination_folder, destination_
     if not translate_client:
         return
 
+    list_of_translateables = {}
+    po = polib.pofile(source_file_path)
+    for entry in po:
+        list_of_translateables[entry.msgid] = entry.occurrences
+
     for lang in languages:
-        print "Translating in language: {}".format(lang)
+        print("Translating in language: {}".format(lang))
         lang_destination_folder = path.join(destination_folder, lang, 'LC_MESSAGES')
         if not path.isdir(lang_destination_folder):
             makedirs(lang_destination_folder)
@@ -66,24 +71,22 @@ def translate_file(languages, source_file_path, destination_folder, destination_
             'MIME-Version': '1.0',
             'Content-Type': 'text/plain; charset=utf-8',
             'Content-Transfer-Encoding': '8bit',
+            'Language': lang
         }
 
-        po = polib.pofile(source_file_path)
-        list_of_translateables = []
-        for entry in po:
-            list_of_translateables.append(entry.msgid)
-
         check_count = 0
-        for array in chunks(list_of_translateables):
+        for array in chunks(list_of_translateables.keys()):
             try:
                 translations = translate_client.translate(
                     array,
                     target_language=lang.strip()
                 )
             except (BadRequest, Forbidden) as ex:
-                print "Waiting for a {} seconds after exception: {}".format(
-                    RATE_LIMIT_WAITING,
-                    ex.message
+                print(
+                    "Waiting for a {} seconds after exception: {}".format(
+                        RATE_LIMIT_WAITING,
+                        ex.message
+                    )
                 )
                 sleep(RATE_LIMIT_WAITING)
                 translations = translate_client.translate(
@@ -94,7 +97,8 @@ def translate_file(languages, source_file_path, destination_folder, destination_
             for translation in translations:
                 entry = polib.POEntry(
                     msgid=translation["input"],
-                    msgstr=translation[u'translatedText']
+                    msgstr=translation[u'translatedText'],
+                    occurrences=list_of_translateables[translation["input"]]
                 )
                 po_dest.append(entry)
 
@@ -104,8 +108,6 @@ def translate_file(languages, source_file_path, destination_folder, destination_
             # print "Chunk count: {}".format(check_count)
 
         po_dest.save(destination_file)
-        print "Waiting for a {} seconds".format(RATE_LIMIT_WAITING)
-        sleep(RATE_LIMIT_WAITING)
 
 
 def validate_and_translate_file(languages, file_path, dest_path):

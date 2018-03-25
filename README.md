@@ -13,6 +13,7 @@ I used this tool to translate [edX](https://github.com/edx/edx-platform/) string
     
     ```pip install -r requirements.txt```
 - Setup google [service account key](https://cloud.google.com/translate/docs/reference/libraries#client-libraries-usage-python).
+- Enable google translator api on your project from google cloud console.
 - Export google service account key variable on console.
  
     ```export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"```
