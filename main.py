@@ -1,3 +1,4 @@
+import gc
 from os import (
     getcwd,
     listdir,
@@ -10,6 +11,8 @@ from time import sleep
 from google.cloud import translate
 from google.api_core.exceptions import BadRequest, Forbidden
 import polib
+from parser import Translatable
+from list_of_translateables import ListOfTranslateAbles
 
 
 # Instantiates a client
@@ -53,10 +56,10 @@ def translate_file(languages, source_file_path, destination_folder, destination_
     if not translate_client:
         return
 
-    list_of_translateables = {}
+    translate_ables = ListOfTranslateAbles()
     po = polib.pofile(source_file_path)
     for entry in po:
-        list_of_translateables[entry.msgid] = entry.occurrences
+        translate_ables.append(Translatable(entry.msgid, entry.occurrences))
 
     for lang in languages:
         print("Translating in language: {}".format(lang))
@@ -74,8 +77,8 @@ def translate_file(languages, source_file_path, destination_folder, destination_
             'Language': lang
         }
 
-        check_count = 0
-        for array in chunks(list_of_translateables.keys()):
+        # check_count = 0
+        for array in chunks(translate_ables.keys()):
             try:
                 translations = translate_client.translate(
                     array,
@@ -95,19 +98,28 @@ def translate_file(languages, source_file_path, destination_folder, destination_
                 )
 
             for translation in translations:
+                input_entered = translation.get("input")
+                translate_able = translate_ables.get_translate_able(input_entered)
                 entry = polib.POEntry(
-                    msgid=translation["input"],
-                    msgstr=translation[u'translatedText'],
-                    occurrences=list_of_translateables[translation["input"]]
+                    msgid=translate_able.original_msgid.strip(),
+                    msgstr=translate_able.construct_translated_msgid(
+                        translation.get('translatedText').strip()
+                    ),
+                    occurrences=translate_able.occurrences
                 )
                 po_dest.append(entry)
 
-            check_count += 1
+            # check_count += 1
             # print for debugging purposes. This is to check if data chunk translated.
             # This is to avoid rate limit errors
             # print "Chunk count: {}".format(check_count)
 
         po_dest.save(destination_file)
+        # compile it to an mo file
+        file_base_name, __ = path.splitext(destination_name)
+        destination_mo_file = path.join(lang_destination_folder, "{}.mo".format(file_base_name))
+        po_dest.save_as_mofile(destination_mo_file)
+        gc.collect()
 
 
 def validate_and_translate_file(languages, file_path, dest_path):
