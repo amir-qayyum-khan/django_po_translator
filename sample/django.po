@@ -1,64 +1,53 @@
-# #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
-# edX community translations have been downloaded from Urdu (http://www.transifex.com/open-edx/edx-platform/language/ur/).
-# Copyright (C) 2018 EdX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
-# Translators:
-# Aurish Hammad Hafeez <aurishhammad@quranacademy.com>, 2016
-# Qastaff Andhelpers <qastaffandhelpers@gmail.com>, 2016
-# #-#-#-#-#  django-studio.po (edx-platform)  #-#-#-#-#
+# #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2018 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
-# Translators:
-# #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
-# edX community translations have been downloaded from Urdu (http://www.transifex.com/open-edx/edx-platform/language/ur/)
-# Copyright (C) 2018 edX
+# EdX Team <info@edx.org>, 2018.
+#
+# #-#-#-#-#  django-studio.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2018 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
-# Translators:
-# Aurish Hammad Hafeez <aurishhammad@quranacademy.com>, 2016
-# Haroon Nafees <haroon@grappetite.com>, 2016
-# Majid Hussain <90skype@gmail.com>, 2014
-# Qastaff Andhelpers <qastaffandhelpers@gmail.com>, 2016
-# #-#-#-#-#  mako-studio.po (edx-platform)  #-#-#-#-#
+# EdX Team <info@edx.org>, 2018.
+#
+# #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
-# Translators:
-# #-#-#-#-#  wiki.po (edx-platform)  #-#-#-#-#
+# EdX Team <info@edx.org>, 2018.
+#
+# #-#-#-#-#  mako-studio.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
-# Translators:
-# Khurram Shahzad <dastkhut@gmail.com>, 2016
-# Majid Hussain <90skype@gmail.com>, 2015
-# Muhammad Sohaib Raza <sohaibraza000@gmail.com>, 2016
-# Qastaff Andhelpers <qastaffandhelpers@gmail.com>, 2016
+# EdX Team <info@edx.org>, 2018.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2018 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2018.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: edx-platform\n"
+"Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2018-02-22 07:36+0000\n"
-"PO-Revision-Date: 2017-09-28 17:01+0000\n"
-"Last-Translator: Zimeng Chen <schen@edx.org>\n"
-"Language-Team: Urdu (http://www.transifex.com/open-edx/edx-platform/language/ur/)\n"
+"POT-Creation-Date: 2018-04-22 20:36+0000\n"
+"PO-Revision-Date: 2018-04-22 20:36:16.392376\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
-"Language: ur\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: 'Discussion' refers to the tab in the courseware that leads to
 #. the discussion forums
 #: cms/djangoapps/contentstore/views/component.py
 #: lms/djangoapps/courseware/tabs.py lms/djangoapps/discussion/plugins.py
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html
 msgid "Discussion"
@@ -124,7 +113,7 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This is listed as the duration for a video that has not
 #. yet reached the point in its processing by the servers where its
 #. duration is determined.
@@ -209,7 +198,7 @@ msgstr ""
 #: common/lib/xmodule/xmodule/videoannotation_module.py
 #: common/lib/xmodule/xmodule/word_cloud_module.py
 #: common/lib/xmodule/xmodule/x_module.py
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 #: cms/templates/container.html cms/templates/library.html
 msgid "Display Name"
 msgstr ""
@@ -258,12 +247,12 @@ msgstr ""
 msgid "Verified modes cannot be free."
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This will look like '$50', where {currency_symbol} is a symbol
 #. such as '$' and {price} is a
 #. numerical amount in that currency. Adjust this display as needed for your
 #. language.
-#. #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: currency_symbol is a symbol indicating type of currency, ex
 #. "$".
 #. This string would look like this when all variables are in:
@@ -403,15 +392,6 @@ msgstr ""
 
 #: common/djangoapps/student/forms.py
 msgid "You are missing one or more required fields"
-msgstr ""
-
-#: common/djangoapps/student/forms.py
-msgid "Username and password fields cannot match"
-msgstr ""
-
-#: common/djangoapps/student/forms.py
-#: common/djangoapps/student/views/management.py
-msgid "Password: "
 msgstr ""
 
 #: common/djangoapps/student/forms.py
@@ -857,6 +837,11 @@ msgstr ""
 
 #: common/djangoapps/student/views/management.py
 #, python-brace-format
+msgid "{html_start}This account has already been activated.{html_end}"
+msgstr ""
+
+#: common/djangoapps/student/views/management.py
+#, python-brace-format
 msgid "{html_start}Success{html_end} You have activated your account."
 msgstr ""
 
@@ -867,33 +852,6 @@ msgid ""
 "receive email updates and alerts from us related to the courses you are "
 "enrolled in. Sign In to continue."
 msgstr ""
-
-#: common/djangoapps/student/views/management.py
-#, python-brace-format
-msgid "{html_start}This account has already been activated.{html_end}"
-msgstr ""
-
-#: common/djangoapps/student/views/management.py
-#, python-brace-format
-msgid ""
-"You are re-using a password that you have used recently. You must have {num}"
-" distinct password before reusing a previous password."
-msgid_plural ""
-"You are re-using a password that you have used recently. You must have {num}"
-" distinct passwords before reusing a previous password."
-msgstr[0] ""
-msgstr[1] ""
-
-#: common/djangoapps/student/views/management.py
-#, python-brace-format
-msgid ""
-"You are resetting passwords too frequently. Due to security policies, {num} "
-"day must elapse between password resets."
-msgid_plural ""
-"You are resetting passwords too frequently. Due to security policies, {num} "
-"days must elapse between password resets."
-msgstr[0] ""
-msgstr[1] ""
 
 #: common/djangoapps/student/views/management.py
 msgid "Password reset unsuccessful"
@@ -960,6 +918,12 @@ msgstr ""
 msgid ""
 "If this option is selected, users will not be required to confirm their "
 "email, and their account will be activated immediately upon registration."
+msgstr ""
+
+#: common/djangoapps/third_party_auth/models.py
+msgid ""
+"If this option is selected, users will be sent a welcome email upon "
+"registration."
 msgstr ""
 
 #: common/djangoapps/third_party_auth/models.py
@@ -1379,58 +1343,141 @@ msgstr ""
 msgid "System defined milestone"
 msgstr ""
 
+#. Translators: This appears in a list of password requirements
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "Invalid Length ({0})"
+msgid "{num} letter"
+msgid_plural "{num} letters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} uppercase letter"
+msgid_plural "{num} uppercase letters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} lowercase letter"
+msgid_plural "{num} lowercase letters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} digit"
+msgid_plural "{num} digits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} number"
+msgid_plural "{num} numbers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} punctuation mark"
+msgid_plural "{num} punctuation marks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} symbol"
+msgid_plural "{num} symbols"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This appears in a list of password requirements
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "{num} word"
+msgid_plural "{num} words"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid "Your password must contain at least {num} character."
+msgid_plural "Your password must contain at least {num} characters."
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/djangoapps/util/password_policy_validators.py
+#, python-brace-format
+msgid ""
+"Your password must contain at least {num} character, including "
+"{requirements}."
+msgid_plural ""
+"Your password must contain at least {num} characters, including "
+"{requirements}."
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/djangoapps/util/password_policy_validators.py
+msgid "Invalid password."
 msgstr ""
 
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "must be {0} characters or more"
+msgid "Enter a password with at least {requirements}."
 msgstr ""
 
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "must be {0} characters or fewer"
-msgstr ""
+msgid ""
+"You are re-using a password that you have used recently. You must have {num}"
+" distinct password before reusing a previous password."
+msgid_plural ""
+"You are re-using a password that you have used recently. You must have {num}"
+" distinct passwords before reusing a previous password."
+msgstr[0] ""
+msgstr[1] ""
 
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "Must be more complex ({0})"
-msgstr ""
+msgid ""
+"You are resetting passwords too frequently. Due to security policies, {num} "
+"day must elapse between password resets."
+msgid_plural ""
+"You are resetting passwords too frequently. Due to security policies, {num} "
+"days must elapse between password resets."
+msgstr[0] ""
+msgstr[1] ""
 
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "must contain {0} or more uppercase characters"
-msgstr ""
+msgid "{num} character"
+msgid_plural "{num} characters"
+msgstr[0] ""
+msgstr[1] ""
 
 #: common/djangoapps/util/password_policy_validators.py
 #, python-brace-format
-msgid "must contain {0} or more lowercase characters"
+msgid "Enter a password with at most {num} character."
+msgid_plural "Enter a password with at most {num} characters."
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: This message is shown to users who enter a password matching
+#. the username they enter(ed).
+#: common/djangoapps/util/password_policy_validators.py
+msgid "Password cannot be the same as the username."
 msgstr ""
 
 #: common/djangoapps/util/password_policy_validators.py
-#, python-brace-format
-msgid "must contain {0} or more digits"
-msgstr ""
-
-#: common/djangoapps/util/password_policy_validators.py
-#, python-brace-format
-msgid "must contain {0} or more punctuation characters"
-msgstr ""
-
-#: common/djangoapps/util/password_policy_validators.py
-#, python-brace-format
-msgid "must contain {0} or more non ascii characters"
-msgstr ""
-
-#: common/djangoapps/util/password_policy_validators.py
-#, python-brace-format
-msgid "must contain {0} or more unique words"
-msgstr ""
-
-#: common/djangoapps/util/password_policy_validators.py
-msgid "Too similar to a restricted dictionary word."
+msgid "Password is too similar to a dictionary word."
 msgstr ""
 
 #: common/djangoapps/xblock_django/admin.py
@@ -1749,12 +1796,12 @@ msgid ""
 "There was a problem with the staff answer to this problem: empty boundary."
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: Separator used in NumericalResponse to display multiple
 #. answers.
 #. Translators: Separator used in StringResponse to display multiple answers.
 #. Example: "Answer: Answer_1 or Answer_2 or Answer_3".
-#. #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: this is the last choice of a number of choices of how to log
 #. in
 #. to the site.
@@ -1924,7 +1971,7 @@ msgstr ""
 #: common/lib/xmodule/xmodule/videoannotation_module.py
 #: common/lib/xmodule/xmodule/word_cloud_module.py
 #: common/lib/xmodule/xmodule/x_module.py
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid "The display name for this component."
 msgstr ""
 
@@ -2135,6 +2182,7 @@ msgstr ""
 #: common/lib/xmodule/xmodule/capa_base.py cms/templates/index.html
 #: lms/templates/help_modal.html lms/templates/manage_user_standing.html
 #: lms/templates/register-shib.html
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 #: lms/templates/peer_grading/peer_grading_problem.html
 #: lms/templates/survey/survey.html
@@ -2510,13 +2558,13 @@ msgstr ""
 msgid ""
 "Enter discussion categories in the following format: \"CategoryName\": "
 "{\"id\": \"i4x-InstitutionName-CourseNumber-course-CourseRun\"}. For "
-"example, one discussion category may be \"Lydian Mode\": {\"id\": \"i4x-"
-"UniversityX-MUS101-course-2015_T1\"}. The \"id\" value for each category "
-"must be unique. In \"id\" values, the only special characters that are "
-"supported are underscore, hyphen, and period. You can also specify a "
+"example, one discussion category may be \"Lydian Mode\": {\"id\": "
+"\"i4x-UniversityX-MUS101-course-2015_T1\"}. The \"id\" value for each "
+"category must be unique. In \"id\" values, the only special characters that "
+"are supported are underscore, hyphen, and period. You can also specify a "
 "category as the default for new posts in the Discussion page by setting its "
-"\"default\" attribute to true. For example, \"Lydian Mode\": {\"id\": \"i4x-"
-"UniversityX-MUS101-course-2015_T1\", \"default\": true}."
+"\"default\" attribute to true. For example, \"Lydian Mode\": {\"id\": "
+"\"i4x-UniversityX-MUS101-course-2015_T1\", \"default\": true}."
 msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
@@ -4532,10 +4580,10 @@ msgid ""
 "their respective logos are trademarks or registered trademarks of edX Inc."
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: 'Open edX' is a brand, please keep this untranslated.
 #. See http://openedx.org for more information.
-#. #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: 'Open edX' is a brand, please keep this untranslated. See
 #. http://openedx.org for more information.
 #: lms/djangoapps/branding/api.py cms/templates/widgets/footer.html
@@ -4594,7 +4642,7 @@ msgstr ""
 msgid "Terms of Service & Honor Code"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: A 'Privacy Policy' is a legal document/statement describing a
 #. website's use of personal information
 #: lms/djangoapps/branding/api.py lms/djangoapps/certificates/views/webview.py
@@ -4615,7 +4663,7 @@ msgstr ""
 msgid "Sitemap"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This is a legal document users must agree to
 #. in order to register a new account.
 #: lms/djangoapps/branding/api.py openedx/core/djangoapps/user_api/api.py
@@ -4635,7 +4683,7 @@ msgid "Open edX"
 msgstr ""
 
 #: lms/djangoapps/branding/api.py
-msgid "Trademarks"
+msgid "Trademark Policy"
 msgstr ""
 
 #: lms/djangoapps/branding/api.py
@@ -5126,7 +5174,7 @@ msgid "Use the checkout page hosted by the E-Commerce service."
 msgstr ""
 
 #: lms/djangoapps/commerce/models.py
-msgid "Path to single course checkout page hosted by the E-Commerce service."
+msgid "Path to course(s) checkout page hosted by the E-Commerce service."
 msgstr ""
 
 #: lms/djangoapps/commerce/models.py openedx/core/djangoapps/catalog/models.py
@@ -5482,7 +5530,7 @@ msgstr ""
 msgid "Progress"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: 'Textbooks' refers to the tab in the course that leads to the
 #. course' textbooks
 #: lms/djangoapps/courseware/tabs.py cms/templates/textbooks.html
@@ -5499,13 +5547,13 @@ msgstr ""
 
 #: lms/djangoapps/courseware/views/index.py
 #: lms/djangoapps/courseware/views/views.py
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid "sign in"
 msgstr ""
 
 #: lms/djangoapps/courseware/views/index.py
 #: lms/djangoapps/courseware/views/views.py
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 #: openedx/features/course_experience/views/course_home_messages.py
 msgid "register"
 msgstr ""
@@ -6102,6 +6150,10 @@ msgid ""
 "review provider."
 msgstr ""
 
+#: lms/djangoapps/instructor/settings/common.py
+msgid "Your Platform Insights"
+msgstr ""
+
 #: lms/djangoapps/instructor/views/api.py
 #, python-brace-format
 msgid ""
@@ -6217,7 +6269,7 @@ msgstr ""
 msgid "User ID"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the password reset
 #. form meant to hold the user's email address.
 #. Translators: This label appears above a field on the login form
@@ -6244,7 +6296,7 @@ msgstr ""
 msgid "Birth Year"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a dropdown menu on the registration
 #. form used to select the user's gender.
 #: lms/djangoapps/instructor/views/api.py
@@ -6288,7 +6340,7 @@ msgstr ""
 msgid "Team"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the registration form
 #. which allows the user to input the city in which they live.
 #: lms/djangoapps/instructor/views/api.py
@@ -6345,6 +6397,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/e-commerce.html
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html
 #: wiki/plugins/attachments/forms.py
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
 msgid "Description"
 msgstr ""
 
@@ -6809,7 +6862,7 @@ msgstr ""
 msgid "No due date extension is set for that student and unit."
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the registration form
 #. meant to hold the user's full name.
 #: lms/djangoapps/instructor/views/tools.py
@@ -6887,11 +6940,15 @@ msgstr ""
 msgid "reset"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This is a past-tense verb that is inserted into task progress
 #. messages as {action}.
 #: lms/djangoapps/instructor_task/tasks.py
 #: lms/templates/wiki/plugins/attachments/index.html wiki/models/article.py
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+#: wiki/templates/wiki/includes/revision_info.html
 msgid "deleted"
 msgstr ""
 
@@ -6955,12 +7012,13 @@ msgstr ""
 msgid "Company Name"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the registration form
 #. which allows the user to input the Title
 #: lms/djangoapps/instructor_task/tasks_helper/enrollments.py
 #: lms/djangoapps/student_account/views.py
 #: openedx/core/djangoapps/user_api/api.py wiki/forms.py
+#: wiki/templates/wiki/dir.html
 msgid "Title"
 msgstr ""
 
@@ -8255,7 +8313,7 @@ msgstr ""
 msgid "Job Title"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the registration form
 #. meant to hold the user's mailing address.
 #: lms/djangoapps/student_account/views.py
@@ -8314,6 +8372,15 @@ msgstr ""
 
 #: lms/djangoapps/support/views/index.py
 msgid "Disable User Account"
+msgstr ""
+
+#: lms/djangoapps/support/views/index.py
+#: lms/templates/support/entitlement.html
+msgid "Entitlements"
+msgstr ""
+
+#: lms/djangoapps/support/views/index.py
+msgid "View, create, and reissue learner entitlements"
 msgstr ""
 
 #: lms/djangoapps/support/views/manage_user.py
@@ -8451,11 +8518,6 @@ msgid ""
 msgstr ""
 
 #: lms/djangoapps/verify_student/models.py
-#, python-brace-format
-msgid "Your {platform_name} verification has expired."
-msgstr ""
-
-#: lms/djangoapps/verify_student/models.py
 msgid "The course for which this deadline applies"
 msgstr ""
 
@@ -8463,6 +8525,18 @@ msgstr ""
 msgid ""
 "The datetime after which users are no longer allowed to submit photos for "
 "verification."
+msgstr ""
+
+#: lms/djangoapps/verify_student/services.py
+#, python-brace-format
+msgid "Your {platform_name} verification has expired."
+msgstr ""
+
+#: lms/djangoapps/verify_student/utils.py
+#, python-brace-format
+msgid ""
+"Could not send verification status email having subject: {subject} and email"
+" of user: {email}"
 msgstr ""
 
 #: lms/djangoapps/verify_student/views.py
@@ -8533,7 +8607,18 @@ msgid "Image data is not valid."
 msgstr ""
 
 #: lms/djangoapps/verify_student/views.py
-msgid "Verification photos received"
+#, python-brace-format
+msgid "{platform_name} ID Verification Photos Received"
+msgstr ""
+
+#: lms/djangoapps/verify_student/views.py
+#, python-brace-format
+msgid "Your {platform_name} ID Verification Approved"
+msgstr ""
+
+#: lms/djangoapps/verify_student/views.py
+#, python-brace-format
+msgid "Your {platform_name} Verification Has Been Denied"
 msgstr ""
 
 #: lms/envs/common.py
@@ -8637,10 +8722,6 @@ msgstr ""
 #: lms/envs/common.py
 #, python-brace-format
 msgid "Subscribe to the {platform_name} YouTube channel"
-msgstr ""
-
-#: lms/envs/common.py
-msgid "Your Platform Insights"
 msgstr ""
 
 #: lms/envs/common.py
@@ -8765,79 +8846,94 @@ msgstr ""
 msgid "See all children"
 msgstr ""
 
-#: lms/templates/wiki/article.html
+#: lms/templates/wiki/article.html wiki/templates/wiki/article.html
 msgid "This article was last modified:"
 msgstr ""
 
 #: lms/templates/wiki/create.html lms/templates/wiki/create.html.py
+#: wiki/templates/wiki/create.html
 msgid "Add new article"
 msgstr ""
 
-#: lms/templates/wiki/create.html
+#: lms/templates/wiki/create.html wiki/templates/wiki/create.html
 msgid "Create article"
 msgstr ""
 
 #: lms/templates/wiki/create.html lms/templates/wiki/delete.html
 #: lms/templates/wiki/delete.html.py
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html
+#: wiki/templates/wiki/create.html wiki/templates/wiki/delete.html
 msgid "Go back"
 msgstr ""
 
 #: lms/templates/wiki/delete.html lms/templates/wiki/delete.html.py
-#: lms/templates/wiki/edit.html
+#: lms/templates/wiki/edit.html wiki/templates/wiki/delete.html
+#: wiki/templates/wiki/edit.html
 msgid "Delete article"
 msgstr ""
 
 #: lms/templates/wiki/delete.html
 #: lms/templates/wiki/plugins/attachments/index.html
 #: cms/templates/component.html cms/templates/studio_xblock_wrapper.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/templates/wiki/delete.html
 msgid "Delete"
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid "You cannot delete a root article."
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid ""
 "You cannot delete this article because you do not have permission to delete "
 "articles with children. Try to remove the children manually one-by-one."
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid ""
 "You are deleting an article. This means that its children will be deleted as"
 " well. If you choose to purge, children will also be purged!"
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid "Articles that will be deleted"
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid "...and more!"
 msgstr ""
 
-#: lms/templates/wiki/delete.html
+#: lms/templates/wiki/delete.html wiki/templates/wiki/delete.html
 msgid "You are deleting an article. Please confirm."
 msgstr ""
 
 #: lms/templates/wiki/edit.html cms/templates/component.html
 #: cms/templates/container.html cms/templates/studio_xblock_wrapper.html
 #: lms/templates/instructor/instructor_dashboard_2/e-commerce.html
-#: lms/templates/wiki/includes/article_menu.html
+#: lms/templates/wiki/includes/article_menu.html wiki/templates/wiki/edit.html
+#: wiki/templates/wiki/includes/article_menu.html
 msgid "Edit"
 msgstr ""
 
 #: lms/templates/wiki/edit.html lms/templates/wiki/edit.html.py
-#: lms/templates/ccx/schedule.html
+#: lms/templates/ccx/schedule.html wiki/templates/wiki/edit.html
+#: wiki/templates/wiki/settings.html
 msgid "Save changes"
 msgstr ""
 
 #: lms/templates/wiki/edit.html cms/templates/container.html
+#: wiki/templates/wiki/edit.html
 msgid "Preview"
 msgstr ""
 
-#. #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: this is a control to allow users to exit out of this modal
 #. interface (a menu or piece of UI that takes the full focus of the screen)
 #: lms/templates/wiki/edit.html lms/templates/wiki/history.html
@@ -8853,6 +8949,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html
 #: lms/templates/modal/_modal-settings-language.html
 #: themes/edx.org/lms/templates/dashboard.html
+#: themes/edx.org/lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html
 msgid "Close"
 msgstr ""
 
@@ -8860,7 +8957,7 @@ msgstr ""
 msgid "Wiki Preview"
 msgstr ""
 
-#. #-#-#-#-#  mako.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: this text gives status on if the modal interface (a menu or
 #. piece of UI that takes the full focus of the screen) is open or not
 #: lms/templates/wiki/edit.html lms/templates/wiki/history.html
@@ -8868,18 +8965,21 @@ msgstr ""
 #: lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html
 #: lms/templates/modal/_modal-settings-language.html
 #: themes/edx.org/lms/templates/dashboard.html
+#: themes/edx.org/lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html
 msgid "window open"
 msgstr ""
 
-#: lms/templates/wiki/edit.html
+#: lms/templates/wiki/edit.html wiki/templates/wiki/edit.html
 msgid "Back to editor"
 msgstr ""
 
 #: lms/templates/wiki/history.html
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+#: wiki/templates/wiki/history.html
 msgid "History"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid ""
 "Click each revision to see a list of edited lines. Click the Preview button "
 "to see how the article looked at this stage. At the bottom of this page, you"
@@ -8891,23 +8991,23 @@ msgstr ""
 msgid "(no log message)"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Preview this revision"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Auto log:"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Change"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Merge selected with current..."
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Switch to selected version"
 msgstr ""
 
@@ -8915,11 +9015,11 @@ msgstr ""
 msgid "Wiki Revision Preview"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Back to history view"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Switch to this version"
 msgstr ""
 
@@ -8927,25 +9027,26 @@ msgstr ""
 msgid "Merge Revision"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Merge with current"
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid ""
 "When you merge a revision with the current, all data will be retained from "
 "both versions and merged at its approximate location from each revision."
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "After this, it's important to do a manual review."
 msgstr ""
 
-#: lms/templates/wiki/history.html
+#: lms/templates/wiki/history.html wiki/templates/wiki/history.html
 msgid "Create new merged version"
 msgstr ""
 
 #: lms/templates/wiki/includes/anonymous_blocked.html
+#: wiki/templates/wiki/includes/anonymous_blocked.html
 #, python-format
 msgid ""
 "\n"
@@ -8984,6 +9085,7 @@ msgid "Miniature Markdown Guide"
 msgstr ""
 
 #: lms/templates/wiki/includes/cheatsheet.html
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
 msgid ""
 "To create a new wiki article, create a link to it. Clicking the link gives "
 "you the creation page."
@@ -9067,14 +9169,17 @@ msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
 #: wiki/plugins/attachments/wiki_plugin.py
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Attachments"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Upload new file"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Search and add file"
 msgstr ""
 
@@ -9083,14 +9188,17 @@ msgid "Upload File"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Upload file"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
 msgid "Search files and articles"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid ""
 "You can reuse files from other articles. These files are subject to updates "
 "on other articles which may or may not be a good thing."
@@ -9107,24 +9215,35 @@ msgstr ""
 #: openedx/features/course_search/templates/course_search/course-search-fragment.html
 #: themes/edx.org/lms/templates/dashboard.html
 #: themes/stanford-style/lms/templates/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Search"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid ""
 "The following files are available for this article. Copy the markdown tag to"
 " directly refer to a file from the article text."
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
 msgid "Markdown tag"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
 msgid "Uploaded by"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
 msgid "Size"
 msgstr ""
 
@@ -9133,30 +9252,40 @@ msgid "File History"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "Detach"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
 msgid "Replace"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
+#: wiki/templates/wiki/deleted.html
 msgid "Restore"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/templates/wiki/includes/revision_info.html
 msgid "anonymous (IP logged)"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "File history"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "revisions"
 msgstr ""
 
 #: lms/templates/wiki/plugins/attachments/index.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html
 msgid "There are no attachments for this article."
 msgstr ""
 
@@ -9169,10 +9298,12 @@ msgid "Previewing a merge between two revisions:"
 msgstr ""
 
 #: lms/templates/wiki/preview_inline.html
+#: wiki/templates/wiki/preview_inline.html
 msgid "This revision has been deleted."
 msgstr ""
 
 #: lms/templates/wiki/preview_inline.html
+#: wiki/templates/wiki/preview_inline.html
 msgid "Restoring to this revision will mark the article as deleted."
 msgstr ""
 
@@ -10034,25 +10165,6 @@ msgstr ""
 msgid "Enter a valid email address that contains at least {min} characters."
 msgstr ""
 
-#: openedx/core/djangoapps/user_api/accounts/__init__.py
-msgid "Enter a password."
-msgstr ""
-
-#: openedx/core/djangoapps/user_api/accounts/__init__.py
-msgid "Password is not long enough."
-msgstr ""
-
-#: openedx/core/djangoapps/user_api/accounts/__init__.py
-#, python-brace-format
-msgid "Password cannot be longer than {max} character."
-msgstr ""
-
-#. Translators: This message is shown to users who enter a password matching
-#. the username they enter(ed).
-#: openedx/core/djangoapps/user_api/accounts/__init__.py
-msgid "Password cannot be the same as the username."
-msgstr ""
-
 #. Translators: These messages are shown to users who do not enter information
 #. into the required field or enter it incorrectly.
 #: openedx/core/djangoapps/user_api/accounts/__init__.py
@@ -10126,7 +10238,7 @@ msgstr ""
 msgid "The email address you used to register with {platform_name}"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the login form
 #. meant to hold the user's password.
 #. Translators: This label appears above a field on the registration form
@@ -10164,7 +10276,7 @@ msgstr ""
 msgid "This name will be used on any certificates that you earn."
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the registration form
 #. meant to hold the user's public username.
 #: openedx/core/djangoapps/user_api/api.py cms/templates/register.html
@@ -10189,7 +10301,7 @@ msgstr ""
 msgid "Highest level of education completed"
 msgstr ""
 
-#. #-#-#-#-#  django-partial.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a dropdown menu on the registration
 #. form used to select the user's year of birth.
 #: openedx/core/djangoapps/user_api/api.py lms/templates/signup_modal.html
@@ -10231,6 +10343,16 @@ msgstr ""
 msgid "You must agree to the {platform_name} {terms_of_service}"
 msgstr ""
 
+#: openedx/core/djangoapps/user_api/api.py
+#, python-brace-format
+msgid ""
+"By creating an account with {platform_name}, you agree                   to "
+"abide by our {platform_name}                   "
+"{terms_of_service_link_start}{terms_of_service}{terms_of_service_link_end}"
+"                   and agree to our {privacy_policy_link_start}Privacy "
+"Policy{privacy_policy_link_end}."
+msgstr ""
+
 #. Translators: "Terms of service" is a legal document users must agree to
 #. in order to register a new account.
 #: openedx/core/djangoapps/user_api/api.py
@@ -10238,6 +10360,10 @@ msgstr ""
 msgid ""
 "I agree to the {platform_name} "
 "{tos_link_start}{terms_of_service}{tos_link_end}"
+msgstr ""
+
+#: openedx/core/djangoapps/user_api/config/waffle.py
+msgid "System maintenance in progress. Please try again later."
 msgstr ""
 
 #: openedx/core/djangoapps/user_api/preferences/api.py
@@ -10352,31 +10478,31 @@ msgid ""
 "A license defines how the contents of this block can be shared and reused."
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid "Category"
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid "Week 1"
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid ""
 "A category name for the discussion. This name appears in the left pane of "
 "the discussion forum for the course."
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid "Subcategory"
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 msgid ""
 "A subcategory name for the discussion. This name appears in the left pane of"
 " the discussion forum for the course."
 msgstr ""
 
-#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion.py
+#: openedx/core/lib/xblock_builtin/xblock_discussion/xblock_discussion/__init__.py
 #, python-brace-format
 msgid ""
 "You are not signed in. To view the discussion content, {sign_in_link} or "
@@ -10441,14 +10567,14 @@ msgstr ""
 
 #: openedx/features/enterprise_support/api.py
 #, python-brace-format
-msgid ""
-"If you have concerns about sharing your data, please contact your "
-"administrator at {enterprise_customer_name}."
+msgid "Enrollment in {course_title} was not complete."
 msgstr ""
 
 #: openedx/features/enterprise_support/api.py
 #, python-brace-format
-msgid "Enrollment in {course_name} was not complete."
+msgid ""
+"If you have concerns about sharing your data, please contact your "
+"administrator at {enterprise_customer_name}."
 msgstr ""
 
 #: openedx/features/enterprise_support/utils.py
@@ -10917,7 +11043,7 @@ msgstr ""
 msgid "You may not remove the last Admin. Add another Admin first."
 msgstr ""
 
-#. #-#-#-#-#  django-studio.po (edx-platform)  #-#-#-#-#
+#. #-#-#-#-#  django-studio.po (0.1a)  #-#-#-#-#
 #. Translators: This is the status of an active video upload
 #: cms/djangoapps/contentstore/views/videos.py cms/templates/import.html
 msgid "Uploading"
@@ -11171,23 +11297,25 @@ msgstr ""
 msgid "Content"
 msgstr ""
 
-#: cms/templates/asset_index.html cms/templates/certificates.html
-#: cms/templates/container.html cms/templates/course_outline.html
-#: cms/templates/group_configurations.html cms/templates/library.html
-#: cms/templates/manage_users.html cms/templates/manage_users_lib.html
-#: lms/templates/courseware/courses.html lms/templates/edxnotes/edxnotes.html
-#: lms/templates/instructor/instructor_dashboard_2/certificates.html
-#: lms/templates/instructor/instructor_dashboard_2/metrics.html
-#: openedx/features/learner_profile/templates/learner_profile/learner_profile.html
-msgid "Loading"
-msgstr ""
-
 #: cms/templates/certificates.html cms/templates/group_configurations.html
 #: cms/templates/manage_users.html cms/templates/manage_users_lib.html
 #: cms/templates/settings.html cms/templates/settings_advanced.html
 #: cms/templates/settings_graders.html cms/templates/widgets/header.html
 #: lms/templates/wiki/includes/article_menu.html
+#: wiki/templates/wiki/settings.html
+#: wiki/templates/wiki/includes/article_menu.html
 msgid "Settings"
+msgstr ""
+
+#: cms/templates/certificates.html cms/templates/container.html
+#: cms/templates/course_outline.html cms/templates/group_configurations.html
+#: cms/templates/library.html cms/templates/manage_users.html
+#: cms/templates/manage_users_lib.html lms/templates/courseware/courses.html
+#: lms/templates/edxnotes/edxnotes.html
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html
+#: lms/templates/instructor/instructor_dashboard_2/metrics.html
+#: openedx/features/learner_profile/templates/learner_profile/learner_profile.html
+msgid "Loading"
 msgstr ""
 
 #: cms/templates/course-create-rerun.html cms/templates/index.html
@@ -11305,9 +11433,11 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
+#. #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 #. Translators: this is a verb describing the action of viewing more details
 #: cms/templates/studio_xblock_wrapper.html
 #: lms/templates/wiki/includes/article_menu.html
+#: wiki/templates/wiki/includes/article_menu.html
 msgid "View"
 msgstr ""
 
@@ -11319,7 +11449,6 @@ msgid "Reset"
 msgstr ""
 
 #: cms/templates/widgets/footer.html lms/templates/footer.html
-#: themes/edx.org/lms/templates/footer.html
 #: themes/red-theme/lms/templates/footer.html
 msgid "Legal"
 msgstr ""
@@ -11515,8 +11644,8 @@ msgstr ""
 
 #: lms/templates/_gated_content.html
 msgid ""
-"You must complete the section '{prereq_section_name}' with the required "
-"score before you are able to view this content."
+"You must earn a passing score for '{prereq_section_name}' to access this "
+"content."
 msgstr ""
 
 #: lms/templates/_gated_content.html
@@ -11621,6 +11750,7 @@ msgstr ""
 #: lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html
 #: lms/templates/instructor/instructor_dashboard_2/membership.html
 #: themes/edx.org/lms/templates/dashboard.html
+#: themes/edx.org/lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html
 msgid "Unenroll"
 msgstr ""
 
@@ -11729,7 +11859,6 @@ msgid "This is the e-mail address you used to register with {platform}"
 msgstr ""
 
 #: lms/templates/forgot_password_modal.html
-#: lms/templates/registration/password_reset_confirm.html
 msgid "Reset My Password"
 msgstr ""
 
@@ -11993,7 +12122,7 @@ msgstr ""
 msgid "Processing your account information"
 msgstr ""
 
-#: lms/templates/login.html
+#: lms/templates/login.html wiki/templates/wiki/accounts/login.html
 msgid "Please log in"
 msgstr ""
 
@@ -12399,6 +12528,8 @@ msgstr ""
 
 #: lms/templates/register-sidebar.html
 #: themes/stanford-style/lms/templates/register-sidebar.html
+#: wiki/templates/wiki/base.html wiki/templates/wiki/accounts/login.html
+#: wiki/templates/wiki/accounts/signup.html
 msgid "Log in"
 msgstr ""
 
@@ -12767,6 +12898,8 @@ msgstr ""
 #: lms/templates/sysadmin_dashboard_gitlogs.html
 #: lms/templates/ccx/schedule.html
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
 msgid "Date"
 msgstr ""
 
@@ -14106,8 +14239,7 @@ msgstr ""
 
 #: lms/templates/courseware/accordion.html
 #: lms/templates/courseware/progress.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-new.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
+#: openedx/features/course_experience/templates/course_experience/course-outline-fragment.html
 msgid "due {date}"
 msgstr ""
 
@@ -14116,8 +14248,7 @@ msgid "{section_format} due {{date}}"
 msgstr ""
 
 #: lms/templates/courseware/accordion.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-new.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
+#: openedx/features/course_experience/templates/course_experience/course-outline-fragment.html
 msgid "This content is graded"
 msgstr ""
 
@@ -14339,12 +14470,16 @@ msgid ""
 msgstr ""
 
 #: lms/templates/courseware/info.html
-msgid "Welcome to {org}'s {course_name}!"
+msgid "Welcome to {org}'s {course_title}!"
 msgstr ""
 
 #: lms/templates/courseware/info.html
+msgid "Welcome to {course_title}!"
+msgstr ""
+
+#: lms/templates/courseware/info.html
+#: lms/templates/dashboard/_dashboard_course_listing.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
 msgid "Resume Course"
 msgstr ""
 
@@ -15121,63 +15256,78 @@ msgid ""
 "{platform_name} account."
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid ""
 "We're sorry to see you go! Please share your main reason for unenrolling."
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "I just wanted to browse the material"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "This won't help me reach my goals"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "I don't have the time"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "I don't have the academic or language prerequisites"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "I don't have enough support"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "I am not happy with the quality of the content"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "The course material was too hard"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "The course material was too easy"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "Something was broken"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "Other"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "Thank you for sharing your reasons for unenrolling."
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "You are unenrolled from"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "Return To Dashboard"
 msgstr ""
 
+#: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
 msgid "Browse Courses"
 msgstr ""
@@ -15669,6 +15819,34 @@ msgstr ""
 msgid "You have been enrolled in {course_name}"
 msgstr ""
 
+#: lms/templates/emails/failed_verification_email.txt
+msgid ""
+"Sorry! The photos you submitted for ID verification were not accepted, for "
+"the following reason(s):"
+msgstr ""
+
+#: lms/templates/emails/failed_verification_email.txt
+msgid "The photo(s) of you: {reason}"
+msgstr ""
+
+#: lms/templates/emails/failed_verification_email.txt
+msgid "Resubmit Verification: {reverify_url}"
+msgstr ""
+
+#: lms/templates/emails/failed_verification_email.txt
+#: lms/templates/emails/order_confirmation_email.txt
+#: lms/templates/emails/photo_submission_confirmation.txt
+#: lms/templates/emails/successfull_verification_email.txt
+msgid "Thank you,"
+msgstr ""
+
+#: lms/templates/emails/failed_verification_email.txt
+#: lms/templates/emails/photo_submission_confirmation.txt
+#: lms/templates/emails/reverification_processed.txt
+#: lms/templates/emails/successfull_verification_email.txt
+msgid "The {platform_name} team"
+msgstr ""
+
 #: lms/templates/emails/order_confirmation_email.txt
 msgid ""
 "Your payment was successful. You will see the charge below on your next "
@@ -15676,15 +15854,11 @@ msgid ""
 msgstr ""
 
 #: lms/templates/emails/order_confirmation_email.txt
-#: lms/templates/emails/photo_submission_confirmation.txt
-msgid "Thank you,"
-msgstr ""
-
-#: lms/templates/emails/order_confirmation_email.txt
 msgid "Your order number is: {order_number}"
 msgstr ""
 
 #: lms/templates/emails/photo_submission_confirmation.txt
+#: lms/templates/emails/successfull_verification_email.txt
 msgid "Hi {full_name},"
 msgstr ""
 
@@ -15694,13 +15868,10 @@ msgstr ""
 
 #: lms/templates/emails/photo_submission_confirmation.txt
 msgid ""
-"We've received your information and the verification process has begun. You "
-"can check the status of the verification process on your dashboard."
-msgstr ""
-
-#: lms/templates/emails/photo_submission_confirmation.txt
-#: lms/templates/emails/reverification_processed.txt
-msgid "The {platform_name} team"
+"We've received your information and the ID verification process has "
+"begun.Check for an email from us in the next few days to confirm whether "
+"your verification was successful.You can also check the status of the "
+"verification process on your dashboard."
 msgstr ""
 
 #: lms/templates/emails/registration_codes_sale_email.txt
@@ -15889,6 +16060,15 @@ msgstr ""
 msgid "Thanks,"
 msgstr ""
 
+#: lms/templates/emails/successfull_verification_email.txt
+msgid "Congratulations! Your ID verification process was successful."
+msgstr ""
+
+#: lms/templates/emails/successfull_verification_email.txt
+msgid ""
+"Your verification is effective for one year. It will expire on {expiry_date}"
+msgstr ""
+
 #: lms/templates/emails/unenroll_email_allowedmessage.txt
 msgid "Dear Student,"
 msgstr ""
@@ -16045,6 +16225,7 @@ msgid "Programs"
 msgstr ""
 
 #: lms/templates/header/navbar-authenticated.html
+#: lms/templates/header/user_dropdown.html
 #: lms/templates/navigation/navbar-authenticated.html
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html
 #: themes/edx.org/lms/templates/header/navbar-authenticated.html
@@ -16083,6 +16264,10 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html
 #: lms/templates/navigation/navbar-not-authenticated.html
 msgid "Schools"
+msgstr ""
+
+#: lms/templates/header/user_dropdown.html
+msgid "Resume your last course"
 msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html
@@ -17055,6 +17240,10 @@ msgid ""
 msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html
+msgid "Role of the users being enrolled."
+msgstr ""
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html
 msgid ""
 "Enter the reason why the students are to be manually enrolled or unenrolled."
 msgstr ""
@@ -17924,34 +18113,6 @@ msgid "Reset Your {platform_name} Password"
 msgstr ""
 
 #: lms/templates/registration/password_reset_confirm.html
-msgid "Error Resetting Password"
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "You must enter and confirm your new password."
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "The text in both password fields must match."
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "Reset Your Password"
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "Enter and confirm your new password."
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "New Password"
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
-msgid "Confirm Password"
-msgstr ""
-
-#: lms/templates/registration/password_reset_confirm.html
 msgid "Invalid Password Reset Link"
 msgstr ""
 
@@ -18295,6 +18456,7 @@ msgid "Decrease"
 msgstr ""
 
 #: lms/templates/shoppingcart/shopping_cart.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
 msgid "Remove"
 msgstr ""
 
@@ -18663,6 +18825,7 @@ msgid "{span_start}(active){span_end}"
 msgstr ""
 
 #: lms/templates/wiki/includes/article_menu.html
+#: wiki/templates/wiki/includes/article_menu.html
 msgid "Changes"
 msgstr ""
 
@@ -18674,7 +18837,7 @@ msgstr ""
 msgid "Course Wiki"
 msgstr ""
 
-#: lms/templates/wiki/includes/breadcrumbs.html
+#: lms/templates/wiki/includes/breadcrumbs.html wiki/templates/wiki/dir.html
 msgid "Add article"
 msgstr ""
 
@@ -18742,21 +18905,16 @@ msgstr ""
 msgid "Upgrade ({price})"
 msgstr ""
 
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-new.html
+#: openedx/features/course_experience/templates/course_experience/course-outline-fragment.html
+msgid "Expand All"
+msgstr ""
+
+#: openedx/features/course_experience/templates/course_experience/course-outline-fragment.html
 msgid "Prerequisite: "
 msgstr ""
 
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-new.html
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
+#: openedx/features/course_experience/templates/course_experience/course-outline-fragment.html
 msgid "{subsection_format} due {{date}}"
-msgstr ""
-
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
-msgid "Unlocked"
-msgstr ""
-
-#: openedx/features/course_experience/templates/course_experience/course-outline-fragment-old.html
-msgid "(Prerequisite required)"
 msgstr ""
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html
@@ -18944,21 +19102,7 @@ msgid "© 2012–{year} edX Inc. "
 msgstr ""
 
 #: themes/edx.org/lms/templates/footer.html
-msgid ""
-"EdX, Open edX, and MicroMasters are registered trademarks of edX Inc. "
-"粤ICP备17044299号-2. "
-msgstr ""
-
-#: themes/edx.org/lms/templates/footer.html
-#: themes/edx.org/lms/templates/certificates/_about-edx.html
-msgid "About edX"
-msgstr ""
-
-#: themes/edx.org/lms/templates/footer.html
-msgid ""
-"© 2012–{year} edX Inc.  All rights reserved except where noted.  EdX, Open "
-"edX and the edX and Open edX logos are registered trademarks or trademarks "
-"of edX Inc."
+msgid "EdX, Open edX, and MicroMasters are registered trademarks of edX Inc. "
 msgstr ""
 
 #: themes/edx.org/lms/templates/certificates/_about-accomplishments.html
@@ -18971,6 +19115,10 @@ msgid ""
 "by the edX honor code and completed all of the required tasks of this course"
 " under its guidelines, as well as having their photo ID checked to verify "
 "their identity."
+msgstr ""
+
+#: themes/edx.org/lms/templates/certificates/_about-edx.html
+msgid "About edX"
 msgstr ""
 
 #: themes/edx.org/lms/templates/certificates/_about-edx.html
@@ -19217,88 +19365,6 @@ msgstr ""
 
 #: cms/templates/asset_index.html cms/templates/widgets/header.html
 msgid "Files & Uploads"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Upload New File"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Help adding Files and Uploads"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Adding Files for Your Course"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"To add files to use in your course, click {em_start}Upload New File{em_end}."
-" Then follow the prompts to upload a file from your computer."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"{em_start}Caution{em_end}: {platform_name} recommends that you limit the "
-"file size to {em_start}10 MB{em_end}. In addition, do not upload video or "
-"audio files. You should use a third party service to host multimedia files."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"The course image, textbook chapters, and files that appear on your Course "
-"Handouts sidebar also appear in this list."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Using File URLs"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"Use the {em_start}{studio_name} URL{em_end} value to link to the file or "
-"image from a component, a course update, or a course handout."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"Use the {em_start}Web URL{em_end} value to reference the file or image only "
-"from outside of your course. {em_start}Note:{em_end} If you lock a file, the"
-" Web URL no longer works for external access to a file."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid ""
-"To copy a URL, double click the value in the URL column, then copy the "
-"selected text."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Learn more about managing files"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "close"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Max per-file size: {max_filesize}MB"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "URL:"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Choose File"
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "Your file has been deleted."
-msgstr ""
-
-#: cms/templates/asset_index.html
-msgid "close alert"
 msgstr ""
 
 #: cms/templates/certificates.html
@@ -22199,6 +22265,10 @@ msgstr ""
 msgid "Accessibility Accommodation Request"
 msgstr ""
 
+#: cms/templates/widgets/footer.html
+msgid "LMS"
+msgstr ""
+
 #. Translators: 'EdX', 'edX', 'Studio', and 'Open edX' are trademarks of 'edX
 #. Inc.'. Please do not translate any of these trademarks and company names.
 #: cms/templates/widgets/footer.html
@@ -22366,7 +22436,7 @@ msgstr ""
 msgid "No changes made. Nothing to save."
 msgstr ""
 
-#: wiki/forms.py
+#: wiki/forms.py wiki/templates/wiki/dir.html
 msgid "Slug"
 msgstr ""
 
@@ -22399,7 +22469,7 @@ msgstr ""
 msgid "Yes, I am sure"
 msgstr ""
 
-#: wiki/forms.py
+#: wiki/forms.py wiki/templates/wiki/deleted.html
 msgid "Purge"
 msgstr ""
 
@@ -22569,7 +22639,8 @@ msgstr ""
 msgid "user"
 msgstr ""
 
-#: wiki/models/article.py
+#: wiki/models/article.py wiki/templates/wiki/article.html
+#: wiki/templates/wiki/includes/revision_info.html
 msgid "locked"
 msgstr ""
 
@@ -22753,6 +22824,132 @@ msgstr ""
 msgid "A file was deleted: %s"
 msgstr ""
 
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+msgid ""
+"\n"
+"    The file may be referenced on other articles. Deleting it means that they will loose their references to this file. The following articles reference this file:\n"
+"    "
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+msgid "Delete it!"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+msgid ""
+"\n"
+"    You can remove a reference to a file, but it will retain its references on other articles.\n"
+"    "
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html
+msgid "Remove reference"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+msgid "History of"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+msgid "User"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "File"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Action"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "<em>No description</em>"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Download"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html
+msgid "Use this!"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+#, python-format
+msgid ""
+"\n"
+"  Replacing an attachment means adding a new file that will be used in its place. All references to the file will be replaced by the one you upload and the file will be downloaded as <strong>%(filename)s</strong>. Please note that this attachment is in use on other articles, you may distort contents. However, do not hestitate to take advantage of this and make replacements for the listed articles where necessary. This way of working is more efficient....\n"
+"  "
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+msgid "Articles using"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+#, python-format
+msgid ""
+"\n"
+"  Replacing an attachment means adding a new file that will be used in its place. All references to the file will be replaced by the one you upload and the file will be downloaded as <strong>%(filename)s</strong>.\n"
+"  "
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html
+msgid "Upload replacement"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Add file to"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Add attachment from other article"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Main article"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Add to article"
+msgstr ""
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html
+msgid "Your search did not return any results"
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+msgid "Adding new articles"
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html
+msgid "An external link"
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+msgid "Headers"
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+msgid ""
+"Use these codes for headers and to automatically generate Tables of "
+"Contents."
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+msgid "Typography"
+msgstr ""
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html
+msgid "Lists"
+msgstr ""
+
 #: wiki/plugins/images/forms.py
 #, python-format
 msgid ""
@@ -22815,6 +23012,7 @@ msgid "%(file)s has been saved."
 msgstr ""
 
 #: wiki/plugins/images/wiki_plugin.py
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
 msgid "Images"
 msgstr ""
 
@@ -22823,8 +23021,131 @@ msgstr ""
 msgid "An image was added: %s"
 msgstr ""
 
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid ""
+"The following images are available for this article. Copy the markdown tag "
+"to directly refer to an image from the article text."
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Back to edit page"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "No file"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Upload new image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Restore image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Remove image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Completely delete"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "Revert to this version"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html
+msgid "There are no images for this article."
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html
+#: wiki/templates/wiki/deleted.html
+msgid "Purge deletion"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html
+msgid "Purge image: Completely remove image file and all revisions."
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html
+msgid "Remove it completely!"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/render.html
+msgid "Image not found"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html
+msgid "Replace image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html
+msgid "Choose an image file to replace current image."
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "Image id"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html
+msgid "Insert"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "No images found for this article"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "Manage images"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "Add new image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "Add image"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "You do not have permissions to add images."
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid "How to use images"
+msgstr ""
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html
+msgid ""
+"After uploading an image, it is attached to this particular artice and can "
+"be used only here. Other users may replace the image, but older versions are"
+" kept. You probably want to show the image with a nice caption. To achieve "
+"this, press the Insert button and fill in the caption fields and possibly "
+"choose to have you image floating right or left of the content. You can use "
+"Markdown in the caption. The markdown code syntax for images looks like "
+"this, possible values for align are left/center/right:"
+msgstr ""
+
 #: wiki/plugins/links/wiki_plugin.py
 msgid "Links"
+msgstr ""
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html
+msgid "Link to another wiki page"
+msgstr ""
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html
+msgid ""
+"Type in something from another wiki page's title and auto-complete will help"
+" you create a tag for you wiki link. Tags for links look like this:"
+msgstr ""
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html
+msgid ""
+"You can link to another website simply by inserting an address example.com "
+"or http://example.com or by using the markdown syntax:"
 msgstr ""
 
 #: wiki/plugins/notifications/forms.py
@@ -22865,6 +23186,208 @@ msgstr ""
 #: wiki/plugins/notifications/models.py
 #, python-format
 msgid "New article created: %s"
+msgstr ""
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html
+msgid "notifications"
+msgstr ""
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html
+msgid "No notifications"
+msgstr ""
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html
+msgid "Clear notifications list"
+msgstr ""
+
+#: wiki/templates/wiki/base.html
+msgid "Search..."
+msgstr ""
+
+#: wiki/templates/wiki/base.html
+msgid "Log out"
+msgstr ""
+
+#: wiki/templates/wiki/base.html wiki/templates/wiki/accounts/login.html
+#: wiki/templates/wiki/accounts/signup.html
+msgid "Sign up"
+msgstr ""
+
+#: wiki/templates/wiki/deleted.html
+msgid "Article deleted"
+msgstr ""
+
+#: wiki/templates/wiki/deleted.html
+msgid "Article Deleted"
+msgstr ""
+
+#: wiki/templates/wiki/deleted.html
+msgid "The article you were looking for has been deleted."
+msgstr ""
+
+#: wiki/templates/wiki/deleted.html
+msgid "You may restore this article and its children by clicking restore."
+msgstr ""
+
+#: wiki/templates/wiki/deleted.html
+msgid ""
+"You may remove this article and any children permanently and free their "
+"slugs by clicking the below button. This action cannot be undone."
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "Listing articles in"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "Up one level"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "clear"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "article,articles"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "matches,match"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+#, python-format
+msgid ""
+"\n"
+"        %(cnt)s %(articles_plur)s in this level %(match_plur)s your search.\n"
+"      "
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "is,are"
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+#, python-format
+msgid ""
+"\n"
+"        There %(articles_plur_verb)s %(cnt)s %(articles_plur)s in this level.\n"
+"      "
+msgstr ""
+
+#: wiki/templates/wiki/dir.html
+msgid "Last modified"
+msgstr ""
+
+#: wiki/templates/wiki/history.html
+msgid "no log message"
+msgstr ""
+
+#: wiki/templates/wiki/permission_denied.html
+msgid "Permission Denied"
+msgstr ""
+
+#: wiki/templates/wiki/permission_denied.html
+msgid "Sorry, you don't have permission to view this page."
+msgstr ""
+
+#: wiki/templates/wiki/preview_inline.html
+msgid "Previewing revision"
+msgstr ""
+
+#: wiki/templates/wiki/preview_inline.html
+msgid "Previewing merge between"
+msgstr ""
+
+#: wiki/templates/wiki/preview_inline.html
+msgid "and"
+msgstr ""
+
+#: wiki/templates/wiki/source.html
+msgid "Source of"
+msgstr ""
+
+#: wiki/templates/wiki/source.html
+msgid "This article is currently locked for editing."
+msgstr ""
+
+#: wiki/templates/wiki/accounts/login.html
+msgid "Log me in..."
+msgstr ""
+
+#: wiki/templates/wiki/accounts/login.html
+msgid "Don't have an account?"
+msgstr ""
+
+#: wiki/templates/wiki/accounts/signup.html
+msgid "Sign me up..."
+msgstr ""
+
+#: wiki/templates/wiki/article/create_root.html
+msgid "Create root article"
+msgstr ""
+
+#: wiki/templates/wiki/article/create_root.html
+msgid "Congratulations!"
+msgstr ""
+
+#: wiki/templates/wiki/article/create_root.html
+msgid ""
+"You have django-wiki installed... but there are no articles. So it's time to"
+" create the first one, the root article. In the beginning, it will only be "
+"editable by administrators, but you can define permissions after."
+msgstr ""
+
+#: wiki/templates/wiki/article/create_root.html
+msgid "Root article"
+msgstr ""
+
+#: wiki/templates/wiki/article/create_root.html
+msgid "Create root"
+msgstr ""
+
+#: wiki/templates/wiki/includes/anonymous_blocked.html
+msgid "You need to log in og sign up to use this function."
+msgstr ""
+
+#: wiki/templates/wiki/includes/article_menu.html
+msgid "View Source"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "Sub-articles for"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "No sub-articles"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "...and more"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "Browse articles in this level"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "New article next to"
+msgstr ""
+
+#: wiki/templates/wiki/includes/breadcrumbs.html
+msgid "New article below"
+msgstr ""
+
+#: wiki/templates/wiki/includes/revision_info.html
+msgid "by"
+msgstr ""
+
+#: wiki/templates/wiki/includes/revision_info.html
+msgid "restored"
+msgstr ""
+
+#: wiki/templates/wiki/includes/revision_info.html
+msgid "unlocked"
 msgstr ""
 
 #: wiki/views/accounts.py

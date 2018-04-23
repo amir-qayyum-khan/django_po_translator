@@ -2,7 +2,7 @@ import re
 
 
 class Translatable:
-    patterns = (r'{.*?}', r'\%\(.*?\))s', )
+    patterns = (r'{.*?}', r'\%\(.*?\)s', r'\%\(.*?\)d', )
     stub_char = "S"
 
     def __init__(self, msgid, occurrences):

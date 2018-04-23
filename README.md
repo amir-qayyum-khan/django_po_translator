@@ -20,8 +20,8 @@ I used this tool to translate [edX](https://github.com/edx/edx-platform/) string
 
 
 #### To run:
-- Use command ```python main.py```
-- Input file path like ```/Users/myname/work/sample/wiki.po```
+- Use command `python main.py`
+- Input file path like `sample/wiki.po` or folder path like `sample`
 - Input language or languages for example `ur` for `urdu` and `en` for `english`.
 - For single language input like: `ur`
 - For multi language input like: `zh-CN,ur,ar`. You can add as much languages you want.
@@ -30,7 +30,7 @@ I used this tool to translate [edX](https://github.com/edx/edx-platform/) string
 
 ```python
 (ven) amir$ python main.py
-Please input file or folder full path: /Users/source/sample  # whole folder
+Please input file or folder full path: sample  # whole folder
 Please input target language(s) comma separated i.e en for english: ur,ar  # language codes urdu, arabic
 ```
 
