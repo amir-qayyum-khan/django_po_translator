@@ -1,4 +1,5 @@
 import gc
+import sys
 from os import (
     getcwd,
     listdir,
@@ -15,6 +16,8 @@ from parser import Translatable
 from list_of_translateables import ListOfTranslateAbles
 
 
+reload(sys)
+sys.setdefaultencoding('utf8')
 # Instantiates a client
 translate_client = translate.Client()
 RATE_LIMIT_WAITING = 101

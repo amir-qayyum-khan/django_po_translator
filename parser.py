@@ -1,8 +1,18 @@
 import re
 
+patterns = (
+    r'\"',
+    r'\'',
+    r'\#',
+    r'{.*?}',
+    r'\%\(.*?\)s',
+    r'%\(.*?\)d',
+    r'%s',
+    r'%d',
+)
+
 
 class Translatable:
-    patterns = (r'{.*?}', r'\%\(.*?\)s', r'\%\(.*?\)d', )
     stub_char = "S"
 
     def __init__(self, msgid, occurrences):
@@ -14,7 +24,7 @@ class Translatable:
 
     def omit_preservable_from_msgid(self):
         new_msgid = self.original_msgid
-        for pattern in self.patterns:
+        for pattern in patterns:
             match_list = re.findall(pattern, new_msgid)
             for match in match_list:
                 self.counter += 1
@@ -30,6 +40,6 @@ class Translatable:
     def construct_translated_msgid(self, translated_msgid):
         new_translated_msgid = translated_msgid
         for key, val in self.preservable.items():
-            new_translated_msgid = new_translated_msgid.replace(key, val)
+            new_translated_msgid = new_translated_msgid.replace(key, val.decode().encode('utf-8'))
 
         return new_translated_msgid
