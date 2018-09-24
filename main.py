@@ -1,8 +1,6 @@
 import gc
-import sys
 from os import (
     getcwd,
-    listdir,
     makedirs,
     path
 )
@@ -14,6 +12,11 @@ from google.api_core.exceptions import BadRequest, Forbidden
 import polib
 from parser import Translatable
 from list_of_translateables import ListOfTranslateAbles
+from common_util import (
+    chunks,
+    extract_files_and_translate_folder,
+    validate_and_translate_file
+)
 
 
 reload(sys)
@@ -23,30 +26,7 @@ translate_client = translate.Client()
 RATE_LIMIT_WAITING = 101
 
 
-def chunks(array, max_size=100):
-    """
-    Yield successive max_size chunks from array.
-    """
-    for i in range(0, len(array), max_size):
-        yield array[i:i + max_size]
-
-
-def find_files(directory):
-    """
-    It returns list containing files in directory.
-
-    Args:
-        directory (str): Absolute location of folder
-    """
-    file_paths = []
-    files = listdir(directory)
-    for file_name in files:  # check if very object in the folder ...
-        if path.isfile(path.join(directory, file_name)):
-            file_paths.append(path.join(directory, file_name))
-    return file_paths
-
-
-def translate_file(languages, source_file_path, destination_folder, destination_name):
+def translate_file(**params):
     """
     It uses google api to translate whole .po file
 
@@ -56,11 +36,16 @@ def translate_file(languages, source_file_path, destination_folder, destination_
         destination_folder (str): Destination folder path. I hard coded it to dest folder
         destination_name (str): Destination file name path, same as source file
     """
+    source_file_path = params.get('file_path', None)
+    destination_folder = params.get('dest_path', None)
+    destination_name = params.get('file_path', None)
+    languages = params.get('languages', [])
+
     if not translate_client:
         return
 
     translate_ables = ListOfTranslateAbles()
-    po = polib.pofile(source_file_path)
+    po = polib.pofile(source_file_path, encoding='UTF-8')
     for entry in po:
         translate_ables.append(Translatable(entry.msgid, entry.occurrences))
 
@@ -125,40 +110,6 @@ def translate_file(languages, source_file_path, destination_folder, destination_
         gc.collect()
 
 
-def validate_and_translate_file(languages, file_path, dest_path):
-    """
-    Takes input a .po file path and translate that file.
-
-    Args:
-        languages (list): Language code list i.e en for english
-        folder_path (str): The source folder containing .po files
-        dest_path (str): Destination folder path. I hard coded it to dest folder
-    """
-    if file_path:
-        file_name = path.basename(file_path)
-        file_base_name, extension = path.splitext(file_name)
-        if extension == '.po':
-            print "Translating file path: {file_path}".format(file_path=file_path)
-            translate_file(languages, file_path, dest_path, file_name)
-            print "Translated file: {file_name}".format(file_name=file_name)
-
-
-def extract_files_and_translate_folder(languages, folder_path, dest_path):
-    """
-    Takes input a folder path and translate all .po files in that folder.
-
-    Args:
-        languages (list): Language code list i.e en for english
-        folder_path (str): The source folder containing .po files
-        dest_path (str): Destination folder path. I hard coded it to dest folder
-    """
-    if folder_path:
-        files = find_files(folder_path)
-        for file_path in files:
-            validate_and_translate_file(languages, file_path, dest_path)
-        print "Folder: {} is translated".format(folder_path)
-
-
 if __name__ == '__main__':
     file_or_folder = raw_input("Please input file or folder full path: ")
     languages = raw_input("Please input target language(s) comma separated i.e en for english: ")
@@ -181,13 +132,15 @@ if __name__ == '__main__':
         validate_and_translate_file(
             languages=languages,
             file_path=file_or_folder,
-            dest_path=destination_folder_path
+            dest_path=destination_folder_path,
+            action=translate_file
         )
     elif path.isdir(file_or_folder):
         extract_files_and_translate_folder(
             languages=languages,
             folder_path=file_or_folder,
-            dest_path=destination_folder_path
+            dest_path=destination_folder_path,
+            action=translate_file
         )
     else:
         sys.exit(-1)
